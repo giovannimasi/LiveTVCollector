@@ -52,6 +52,13 @@ Logo: https://images.pluto.tv/channels/65e9ced78145cb00084d6598/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_CA.m3u
 --------------------------------------------------
 
+Group: Auto
+Name: Motorvision
+URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2
+Logo: https://i.imgur.com/v4kj8pI.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+
 Group: Business
 Name: BNN Bloomberg
 URL: https://pe-ak-lp01a-9c9media.akamaized.net/live/News1BNNDigi/p/dash/00000001/1bba52dc66e4c68e/manifest.mpd
@@ -400,6 +407,20 @@ Logo: https://i.imgur.com/sCBbBOj.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 
+Group: Culture;News
+Name: NHK World-Japan (720p)
+URL: https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+
+Group: Culture;Public
+Name: ETB Basque (480p)
+URL: https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+
 Group: Daytime TV
 Name: Best of The Drew Barrymore Show
 URL: https://stitcher.pluto.tv/stitch/hls/channel/6310cbee5a8ad300070fdb7c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53378d9c-7eef-11f0-9212-2aceba82cf01
@@ -430,6 +451,13 @@ Name: The Bob Ross Channel
 URL: https://stitcher.pluto.tv/stitch/hls/channel/64b82075e4391c0008c3c1fe/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53378d9c-7eef-11f0-9212-2aceba82cf01
 Logo: https://images.pluto.tv/channels/64b82075e4391c0008c3c1fe/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_CA.m3u
+--------------------------------------------------
+
+Group: Documentary
+Name: CGTN Documentary (1080p)
+URL: https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+Logo: https://i.imgur.com/JHv0WxM.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 
 Group: Documentary + Science
@@ -573,6 +601,11 @@ URL: https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/a5fw83n.jpg
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
+Name: NHK World Premium (720p) [Not 24/7]
+URL: https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+Logo: https://i.imgur.com/4ESi2La.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
 Name: Prime Canada TV (720p) [Not 24/7]
 URL: http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 Logo: https://i.imgur.com/Vji81jB.png
@@ -640,6 +673,11 @@ Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 Name: Az Star TV (1080p)
 URL: http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 Logo: https://i.imgur.com/di3XX5L.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+Name: BTV World (1080p)
+URL: https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
+Logo: https://i.imgur.com/sSnrg7o.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Caribbean Advantage TV (1080p) [Not 24/7]
@@ -735,6 +773,11 @@ Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 Name: Deshi TV (720p)
 URL: https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 Logo: https://i.imgur.com/PzqzgMm.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+Name: Duna World (576p)
+URL: http://146.59.85.40:89/dunaworld/index.m3u8
+Logo: https://i.imgur.com/uOBQJZS.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Gaunda Punjab TV
@@ -860,13 +903,6 @@ Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 Name: Watan-e-Maa TV (720p)
 URL: https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 Logo: https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png
-Source: https://iptv-org.github.io/iptv/countries/ca.m3u
---------------------------------------------------
-
-Group: General;Public
-Name: Galicia TV América (720p)
-URL: https://america-crtvg.flumotion.com/playlist.m3u8
-Logo: https://i.imgur.com/s59AaqG.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 
@@ -1045,6 +1081,13 @@ Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 Name: Ontario Parliamentary Network (720p)
 URL: https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 Logo: https://i.imgur.com/xKXs6ER.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+
+Group: Lifestyle
+Name: Superyacht TV (1080p)
+URL: https://sy.wns.live/hls/stream.m3u8
+Logo: https://i.imgur.com/cgjgjE1.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 
@@ -1307,6 +1350,11 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
+Name: Euro Indie Music Chart TV (360p)
+URL: http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+Logo: https://i.imgur.com/lF0iofX.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
 Name: Mad World (720p)
 URL: https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/0/0d/Mad_world.jpg
@@ -1439,6 +1487,16 @@ URL: https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLI
 Logo: https://i.imgur.com/SjTdhvJ.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
+Name: CGTN (1080p)
+URL: https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+Name: CGTN Français (1080p) [Not 24/7]
+URL: https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+Logo: https://i.imgur.com/BwhledK.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
 Name: Channel Y (720p) [Not 24/7]
 URL: http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 Logo: https://i.imgur.com/OqSl2Qf.png
@@ -1469,6 +1527,11 @@ URL: https://tv.hamdardtv.com/hamdard/index.m3u8
 Logo: https://i.ibb.co/JcD2xck/logo-hamda.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
+Name: I24 News English (720p)
+URL: https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
 Name: ICI RDI (720p)
 URL: https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png
@@ -1477,6 +1540,11 @@ Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 Name: LCN [Geo-blocked]
 URL: https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 Logo: https://i.imgur.com/iKDLgOG.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+Name: Metro Globe Network (1080p) [Not 24/7]
+URL: https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+Logo: https://i.imgur.com/aiiinzg.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Probashi TV News (720p)
@@ -1535,13 +1603,6 @@ Name: Bloomberg TV+
 URL: https://stitcher.pluto.tv/stitch/hls/channel/62b976b93279cb000772c6f9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53378d9c-7eef-11f0-9212-2aceba82cf01
 Logo: https://images.pluto.tv/channels/62b976b93279cb000772c6f9/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_CA.m3u
---------------------------------------------------
-
-Group: News;Public
-Name: 24 Horas Internacional [Geo-blocked]
-URL: https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-Logo: https://i.imgur.com/IUVRm5L.png
-Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 
 Group: Outdoor
@@ -1854,6 +1915,11 @@ URL: https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 Logo: https://i.imgur.com/vlKPZHR.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
+Name: FUEL TV (1080p)
+URL: https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+Logo: https://i.imgur.com/I8mviBy.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
 Name: Game+ (720p)
 URL: https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 Logo: https://i.imgur.com/Lj69WbR.png
@@ -1872,6 +1938,11 @@ Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 Name: NBA TV Canada (1080p)
 URL: http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+Name: Red Bull TV (1080p)
+URL: https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+Logo: https://i.postimg.cc/8c78JM28/image.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: TSN1 (1080p)
@@ -1988,6 +2059,11 @@ Group: Undefined
 Name: Assemblée Nationale du Québec
 URL: https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
 Logo: https://i.imgur.com/jAtq0U8.png
+Source: https://iptv-org.github.io/iptv/countries/ca.m3u
+--------------------------------------------------
+Name: BVN
+URL: https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ca.m3u
 --------------------------------------------------
 Name: Cable 14 Hamilton

@@ -870,6 +870,12 @@
     "img": "https://i.imgur.com/a5fw83n.jpg"
   },
   {
+    "name": "NHK World Premium (720p) [Not 24/7]",
+    "type": "Entertainment",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "img": "https://i.imgur.com/4ESi2La.png"
+  },
+  {
     "name": "Prime Canada TV (720p) [Not 24/7]",
     "type": "Entertainment",
     "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
@@ -1380,6 +1386,12 @@
     "img": "https://i.imgur.com/vlKPZHR.png"
   },
   {
+    "name": "FUEL TV (1080p)",
+    "type": "Sports",
+    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+    "img": "https://i.imgur.com/I8mviBy.png"
+  },
+  {
     "name": "Game+ (720p)",
     "type": "Sports",
     "url": "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8",
@@ -1402,6 +1414,12 @@
     "type": "Sports",
     "url": "http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
   },
   {
     "name": "TSN1 (1080p)",
@@ -1510,6 +1528,12 @@
     "type": "Music",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png"
+  },
+  {
+    "name": "Euro Indie Music Chart TV (360p)",
+    "type": "Music",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "img": "https://i.imgur.com/lF0iofX.png"
   },
   {
     "name": "Mad World (720p)",
@@ -1704,12 +1728,6 @@
     "img": "https://images.pluto.tv/channels/62e927821054990007dc8e57/colorLogoPNG.png"
   },
   {
-    "name": "24 Horas Internacional [Geo-blocked]",
-    "type": "News;Public",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
     "name": "Afghan Nobel TV (720p)",
     "type": "General",
     "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
@@ -1720,6 +1738,12 @@
     "type": "General",
     "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
     "img": "https://i.imgur.com/di3XX5L.png"
+  },
+  {
+    "name": "BTV World (1080p)",
+    "type": "General",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "img": "https://i.imgur.com/sSnrg7o.png"
   },
   {
     "name": "Caribbean Advantage TV (1080p) [Not 24/7]",
@@ -1834,6 +1858,12 @@
     "type": "General",
     "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8",
     "img": "https://i.imgur.com/PzqzgMm.png"
+  },
+  {
+    "name": "Duna World (576p)",
+    "type": "General",
+    "url": "http://146.59.85.40:89/dunaworld/index.m3u8",
+    "img": "https://i.imgur.com/uOBQJZS.png"
   },
   {
     "name": "Gaunda Punjab TV",
@@ -2082,6 +2112,12 @@
     "img": "https://i.imgur.com/jAtq0U8.png"
   },
   {
+    "name": "BVN",
+    "type": "Undefined",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png"
+  },
+  {
     "name": "Cable 14 Hamilton",
     "type": "Undefined",
     "url": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720",
@@ -2202,6 +2238,18 @@
     "img": "https://i.imgur.com/SjTdhvJ.png"
   },
   {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
+    "name": "CGTN Français (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
+    "img": "https://i.imgur.com/BwhledK.png"
+  },
+  {
     "name": "Channel Y (720p) [Not 24/7]",
     "type": "News",
     "url": "http://cdn19.live247stream.com/channely/tv/playlist.m3u8",
@@ -2238,6 +2286,12 @@
     "img": "https://i.ibb.co/JcD2xck/logo-hamda.png"
   },
   {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
     "name": "ICI RDI (720p)",
     "type": "News",
     "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
@@ -2248,6 +2302,12 @@
     "type": "News",
     "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8",
     "img": "https://i.imgur.com/iKDLgOG.png"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
   },
   {
     "name": "Probashi TV News (720p)",
@@ -2334,6 +2394,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/512px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png"
   },
   {
+    "name": "CGTN Documentary (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
     "name": "CPAC (720p)",
     "type": "Legislative",
     "url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
@@ -2370,10 +2436,10 @@
     "img": "https://i.imgur.com/xKXs6ER.png"
   },
   {
-    "name": "Galicia TV América (720p)",
-    "type": "General;Public",
-    "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
-    "img": "https://i.imgur.com/s59AaqG.png"
+    "name": "ETB Basque (480p)",
+    "type": "Culture;Public",
+    "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png"
   },
   {
     "name": "Love Nature (720p) [Geo-blocked]",
@@ -2394,6 +2460,18 @@
     "img": "https://i.imgur.com/Kh4MWaY.png"
   },
   {
+    "name": "Motorvision",
+    "type": "Auto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+    "img": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "name": "NHK World-Japan (720p)",
+    "type": "Culture;News",
+    "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
+  },
+  {
     "name": "Pamir TV (1080p) [Not 24/7]",
     "type": "Culture;Music",
     "url": "http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
@@ -2404,6 +2482,12 @@
     "type": "Movies;Series",
     "url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png"
+  },
+  {
+    "name": "Superyacht TV (1080p)",
+    "type": "Lifestyle",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/cgjgjE1.png"
   },
   {
     "name": "TCF TV",

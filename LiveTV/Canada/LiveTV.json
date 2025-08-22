@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-22 06:56:15",
+  "date": "2025-08-22 13:55:30",
   "channels": {
     "Movies": [
       {
@@ -1046,6 +1046,13 @@
         "url": "https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8"
       },
       {
+        "name": "NHK World Premium (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/4ESi2La.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8"
+      },
+      {
         "name": "Prime Canada TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/Vji81jB.png",
         "group": "Entertainment",
@@ -1661,6 +1668,13 @@
         "url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
       },
       {
+        "name": "FUEL TV (1080p)",
+        "logo": "https://i.imgur.com/I8mviBy.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
+      },
+      {
         "name": "Game+ (720p)",
         "logo": "https://i.imgur.com/Lj69WbR.png",
         "group": "Sports",
@@ -1687,6 +1701,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8"
+      },
+      {
+        "name": "Red Bull TV (1080p)",
+        "logo": "https://i.postimg.cc/8c78JM28/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
       },
       {
         "name": "TSN1 (1080p)",
@@ -1815,6 +1836,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1"
+      },
+      {
+        "name": "Euro Indie Music Chart TV (360p)",
+        "logo": "https://i.imgur.com/lF0iofX.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
       },
       {
         "name": "Mad World (720p)",
@@ -2045,15 +2073,6 @@
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/62e927821054990007dc8e57/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=53378d9c-7eef-11f0-9212-2aceba82cf01"
       }
     ],
-    "News;Public": [
-      {
-        "name": "24 Horas Internacional [Geo-blocked]",
-        "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
-      }
-    ],
     "General": [
       {
         "name": "Afghan Nobel TV (720p)",
@@ -2068,6 +2087,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8"
+      },
+      {
+        "name": "BTV World (1080p)",
+        "logo": "https://i.imgur.com/sSnrg7o.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8"
       },
       {
         "name": "Caribbean Advantage TV (1080p) [Not 24/7]",
@@ -2201,6 +2227,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+      },
+      {
+        "name": "Duna World (576p)",
+        "logo": "https://i.imgur.com/uOBQJZS.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://146.59.85.40:89/dunaworld/index.m3u8"
       },
       {
         "name": "Gaunda Punjab TV",
@@ -2496,6 +2529,13 @@
         "url": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8"
       },
       {
+        "name": "BVN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8"
+      },
+      {
         "name": "Cable 14 Hamilton",
         "logo": "https://i.imgur.com/bJ7ygTq.png",
         "group": "Undefined",
@@ -2638,6 +2678,20 @@
         "url": "https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8"
       },
       {
+        "name": "CGTN (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "CGTN Français (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/BwhledK.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
+      },
+      {
         "name": "Channel Y (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/OqSl2Qf.png",
         "group": "News",
@@ -2680,6 +2734,13 @@
         "url": "https://tv.hamdardtv.com/hamdard/index.m3u8"
       },
       {
+        "name": "I24 News English (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
+      },
+      {
         "name": "ICI RDI (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png",
         "group": "News",
@@ -2692,6 +2753,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8"
+      },
+      {
+        "name": "Metro Globe Network (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/aiiinzg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
       },
       {
         "name": "Probashi TV News (720p)",
@@ -2798,6 +2866,15 @@
         "url": "https://bcovlive-a.akamaihd.net/4b1c462c86094bae93b65adc84e43afc/us-west-2/6101674910001/playlist.m3u8"
       }
     ],
+    "Documentary": [
+      {
+        "name": "CGTN Documentary (1080p)",
+        "logo": "https://i.imgur.com/JHv0WxM.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+      }
+    ],
     "Legislative": [
       {
         "name": "CPAC (720p)",
@@ -2842,13 +2919,13 @@
         "url": "https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8"
       }
     ],
-    "General;Public": [
+    "Culture;Public": [
       {
-        "name": "Galicia TV América (720p)",
-        "logo": "https://i.imgur.com/s59AaqG.png",
-        "group": "General;Public",
+        "name": "ETB Basque (480p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png",
+        "group": "Culture;Public",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://america-crtvg.flumotion.com/playlist.m3u8"
+        "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
       }
     ],
     "Outdoor": [
@@ -2874,6 +2951,24 @@
         "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
       }
     ],
+    "Auto": [
+      {
+        "name": "Motorvision",
+        "logo": "https://i.imgur.com/v4kj8pI.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2"
+      }
+    ],
+    "Culture;News": [
+      {
+        "name": "NHK World-Japan (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+        "group": "Culture;News",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
+      }
+    ],
     "Culture;Music": [
       {
         "name": "Pamir TV (1080p) [Not 24/7]",
@@ -2890,6 +2985,15 @@
         "group": "Movies;Series",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "Superyacht TV (1080p)",
+        "logo": "https://i.imgur.com/cgjgjE1.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://sy.wns.live/hls/stream.m3u8"
       }
     ],
     "Culture;General": [
