@@ -10191,6 +10191,11 @@ URL: https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 Logo: https://i.imgur.com/pq9Aeeb.png
 Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: CNBC Europe HD (1080p)
+URL: https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+Logo: https://i.imgur.com/B6sfpDa.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 
 Group: Business;Culture;Lifestyle
 Name: apart TV
@@ -27986,6 +27991,11 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 Name: BCN Gospel TV (1080p)
 URL: https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
 Logo: https://i.imgur.com/ZKAnehs.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+Name: CCTV-4 Europe
+URL: https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+Logo: https://i.imgur.com/HGLFdfk.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: LBC International

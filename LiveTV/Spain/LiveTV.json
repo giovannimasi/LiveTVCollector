@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-23 21:30:34",
+  "date": "2025-08-24 06:13:42",
   "channels": {
     "General": [
       {
@@ -16458,6 +16458,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+      },
+      {
+        "name": "CCTV-4 Europe",
+        "logo": "https://i.imgur.com/HGLFdfk.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8"
       },
       {
         "name": "LBC International",
@@ -52259,6 +52266,13 @@
         "group": "Business",
         "source": "https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u",
         "url": "https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+      },
+      {
+        "name": "CNBC Europe HD (1080p)",
+        "logo": "https://i.imgur.com/B6sfpDa.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8"
       }
     ],
     "Documentary;News": [
