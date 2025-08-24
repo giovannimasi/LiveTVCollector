@@ -2133,12 +2133,12 @@ Logo: https://i.ibb.co/Zfcrrr1/lci.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1_
-URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTYwMDU0OTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU1OTkxMDkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.dKPwzTo4p9cuxOd306emBuT_z9f4kBifN1a_8vg6EGQ/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTYwMjcwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU2MDEyNjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.GRlgqkauK-HfbsiqcAaWPANptLeCX2CwEw6ExMlhw5M/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TF1-
-URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NjAwMDgwMywiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTU5ODY0MDMsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.ds1OiwW7qCadRcygBsjdq90AGeRx-PgxD5vCllP3VJo/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
+URL: https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIzMS4zNi4yMDAuMjM3IiwiY21jZCI6IiIsImV4cCI6MTc1NjAyOTYwMiwiZ2lkIjoiMGM5NTVkOWJjZjZmNDU2MDk5NmY3NDczMmIyNzNjZDciLCJpYXQiOjE3NTYwMTUyMDIsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvMmE1ZWYyYTRjZTRhNDEyMDllMGE4ODEwNzRkMTU5MzIvdGYxLWNtYWYiLCJzdWIiOiIwYzk1NWQ5YmNmNmY0NTYwOTk2Zjc0NzMyYjI3M2NkNyJ9.sH92z74XiYeX9HnmfHBOY7y4ITCcZkgk4mdjpXruOO8/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8
 Logo: https://i.ibb.co/BBpR1Wx/tf1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3892,6 +3892,11 @@ URL: https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: MELTEM TV
+URL: https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+Logo: https://i.ibb.co/Fq0ZvYG/meltemtvt.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: EKOL TV
 URL: https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 Logo: https://i.ibb.co/Ln92Dj2/Ekoltv.png
@@ -3910,11 +3915,6 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: MK TV
 URL: https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 Logo:  https://i.ibb.co/wrMn5rgQ/mktv.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: MELTEM
-URL: https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
-Logo: https://i.ibb.co/Fq0ZvYG/meltemtvt.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: HALK TV
@@ -4137,7 +4137,7 @@ URL: http://koprulu2.global.ssl.fastly.net/yt.m3u8/?id=ztmY_cCtUl0.m3u8
 Logo: https://i.ibb.co/B40rjP3/szc1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
-Name: MELTEM (backup)
+Name: MELTEM TV (backup)
 URL: http://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 Logo: https://i.ibb.co/Fq0ZvYG/meltemtvt.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
@@ -4393,12 +4393,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=0wbXiP71L2j0ab5okzV-Vw&e=1755998207
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2r7Lkh3sc8-e9hffJumrQg&e=1756031480
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=0wbXiP71L2j0ab5okzV-Vw&e=1755998207
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2r7Lkh3sc8-e9hffJumrQg&e=1756031480
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -8473,7 +8473,7 @@ Logo: https://i.ibb.co/56TvMjR/etbs.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: ANDORRA DIFUSIÓ
-URL: https://livesg1.rtva.hiway.media/424b27f3-a9c7-4b01-9f79-59997561a62c/manifest.m3u8
+URL: https://livesg1.rtva.hiway.media/aa2d69af-76a0-4077-a57e-0445c4061f86/manifest.m3u8
 Logo: https://i.ibb.co/ySq76W3/rtva.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -10040,6 +10040,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: LIBYA WATANYA
 URL: https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
 Logo: https://i.ibb.co/mCBL5fNk/lybiawat.jpg
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: LIBYA AHRAR
+URL: https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
+Logo: https://i.ibb.co/Y5YD5KH/Libya-ahrar.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: AL MAMLKA
