@@ -28084,6 +28084,11 @@ Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/
 --------------------------------------------------
 
 Group: General;Public
+Name: Aragon TV Internacional
+URL: https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+Logo: https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 Name: Canal Sur Andalucia (1080p)
 URL: https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png
@@ -45646,6 +45651,11 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 Name: TV3CAT (1080p)
 URL: https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+Name: TVE Internacional Europe-Asia
+URL: https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
+Logo: https://i.imgur.com/ow1HArj.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: World Billiards (720p)

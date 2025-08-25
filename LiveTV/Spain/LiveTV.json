@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-24 21:30:42",
+  "date": "2025-08-25 06:10:54",
   "channels": {
     "General": [
       {
@@ -63711,6 +63711,57 @@
         "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
       }
     ],
+    "General;Public": [
+      {
+        "name": "Aragon TV Internacional",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8"
+      },
+      {
+        "name": "Canal Sur Andalucia (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
+      },
+      {
+        "name": "La 1 (720p)",
+        "logo": "https://i.imgur.com/1jDS9UC.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
+      },
+      {
+        "name": "La 1 Canarias (720p)",
+        "logo": "https://i.imgur.com/RqUJ4oj.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8"
+      },
+      {
+        "name": "La 1 Catalunya (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8"
+      },
+      {
+        "name": "La 2 Canarias (720p)",
+        "logo": "https://i.imgur.com/iwDi3ND.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+      },
+      {
+        "name": "La 2 Catalunya (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+      }
+    ],
     "Undefined": [
       {
         "name": "Bon Dia TV (1080p)",
@@ -63839,6 +63890,13 @@
         "url": "https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8"
       },
       {
+        "name": "TVE Internacional Europe-Asia",
+        "logo": "https://i.imgur.com/ow1HArj.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8"
+      },
+      {
         "name": "World Billiards (720p)",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png",
         "group": "Undefined",
@@ -63865,50 +63923,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
-      }
-    ],
-    "General;Public": [
-      {
-        "name": "Canal Sur Andalucia (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png",
-        "group": "General;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
-      },
-      {
-        "name": "La 1 (720p)",
-        "logo": "https://i.imgur.com/1jDS9UC.png",
-        "group": "General;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
-      },
-      {
-        "name": "La 1 Canarias (720p)",
-        "logo": "https://i.imgur.com/RqUJ4oj.png",
-        "group": "General;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8"
-      },
-      {
-        "name": "La 1 Catalunya (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png",
-        "group": "General;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8"
-      },
-      {
-        "name": "La 2 Canarias (720p)",
-        "logo": "https://i.imgur.com/iwDi3ND.png",
-        "group": "General;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/5468585.m3u8"
-      },
-      {
-        "name": "La 2 Catalunya (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png",
-        "group": "General;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
       }
     ],
     "Kids;Public": [
