@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-26 21:30:50",
+  "date": "2025-08-27 06:08:24",
   "channels": {
     "General": [
       {
@@ -63734,8 +63734,8 @@
     ],
     "General;Public": [
       {
-        "name": "Aragon TV Internacional",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",
+        "name": "Aragon TV (720p)",
+        "logo": "https://i.imgur.com/6YSi1zW.png",
         "group": "General;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8"

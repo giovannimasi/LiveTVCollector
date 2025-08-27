@@ -28084,9 +28084,9 @@ Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/
 --------------------------------------------------
 
 Group: General;Public
-Name: Aragon TV Internacional
+Name: Aragon TV (720p)
 URL: https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512
+Logo: https://i.imgur.com/6YSi1zW.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Canal Sur Andalucia (1080p)
