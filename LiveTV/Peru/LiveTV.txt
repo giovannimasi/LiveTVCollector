@@ -1724,7 +1724,7 @@ Logo: https://i.imgur.com/5ingyWI.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 3 | TELESUR ᴴᴰ
-URL: https://live.eu-north-1a.cf.dmcdn.net/sec2(PMKDPA3TftBTzVSynP_4_bEIVn8nMMcpZk1CZ_-BhvR6UR-6TG1gFY5uNbx-LAmXPrdc-aQDF3J5sJrBy-GkucYXu0-CdHrZUhTKHKjsKt0lLT1CP9vA9rC_7DsMmaT7)/dm/3/x82ug5r/s/live-720.m3u8
+URL: https://metromaxtv.net/auth/b6PmKvT_c7TtVHx9FEU2TmB_vEEs3ucPQ3ltm2rWCIWtEmAUUhWleCGFHPbBAgUBJ6H6UPpVGlH7CndkUMVlkDr8X71dIVM0fHhV404vzSNIX4dNgNrXsMY8ThiwXYBjuU1J9Bn8FQeQl9zUQrqnlgvecKYYq9_-BoqgR543WZfGGjKvGyQ05LT9wvI9u4YN8Bn-BMmS6GAk3QqemKobOblSRV6dIDsrWNe38RpOHB1a4AD_yWFXeixOkNi1xr6qu0rUqPqfDg1y-4-k1_U0yFJln23wAWSzHXKeaIw-7NVj-jcxzfWVl9I-26qY1AocqaCVB_h2ATqFEgopbkUx5zenjCcqA4XnoFroyQsmrfBJtWelmB0hlOFw2PfLShR4Vk3VLLV_xTh5tgJPKZGzfF87GMVaUcQuMCsmOBdC0LB0udWL7K1VJ_-Eurwok-qI25NDoKH5LhFTHpRp_yLM9gm-Mml83IrpgUzhNUdsv-hWV1PzJMQcudRrP6GFh4TQfAT8OhXyVVZHgAfVYjveI8WQuhYBTeXA_4o8Gp4pOwH_ALAUDHbv26uy6hle4VpPoqNH3uN1Veh3fiOesP-2rtjSwNFTSQmoxm-aNbyRosWdF3Tp1hqUB-dihGmmQpUF
 Logo: https://i.imgur.com/noR4NUo.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
@@ -1739,7 +1739,7 @@ Logo: https://i.imgur.com/GDgftXo.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 6 | VENEZOLANA DE TELEVISIÓN
-URL: https://live.eu-north-1a.cf.dmcdn.net/sec2(1pDJrYt3LRUL1OrlQqDdowHU5wi0W3X-lL7g2yviUr05SxoiU7q5kUYYICVfgcuJb0wfSDZtDGtxae90LC48dtDxolV69UX9TVpt7iAnre0nE3sgtGKj5CV1UcrKPEhg)/dm/3/x930kre/d/live-720.m3u8
+URL: https://metromaxtv.net/hls/ePF-oLrSpatZthH3h10ExsQ3qj_tIvgRpydHVrdWbrRov2-3dvtl9Vcgl23Ywx9QEqqbnQLDvgbGwKDNg93b0cVy7BZ4gAA04jxcDlQuPU0xmmf6ZlfrTlnV3nYSNhey
 Logo: https://i.imgur.com/miHQF71.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
