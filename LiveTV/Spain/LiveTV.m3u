@@ -8729,6 +8729,8 @@ https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="Music",Clubbing TV (720p)
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="Music",SpektraTV (720p)
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Comedy",13 Humor
 https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1 tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Comedy",30A Ridiculous TV
@@ -9762,7 +9764,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1m7kDmc.png" group-title="Series",XPTV US
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Series",Atreseries Internacional (480p)
-http://181.78.208.254:8080/play/a0d5/index.m3u8
+http://38.180.133.31:8000/play/a0ko/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMMabI3.png" group-title="Series",BBC Doctor Who (1080p)
 https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General",1KZN TV

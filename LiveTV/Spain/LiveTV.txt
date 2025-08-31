@@ -34978,6 +34978,11 @@ URL: https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/MyiA92q.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
+Name: SpektraTV (720p)
+URL: https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+Logo: https://i.imgur.com/0zCt8e4.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 
 Group: Music;News
 Name: Onda 15 TV
@@ -43424,7 +43429,7 @@ Logo: https://i.imgur.com/1m7kDmc.png
 Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Atreseries Internacional (480p)
-URL: http://181.78.208.254:8080/play/a0d5/index.m3u8
+URL: http://38.180.133.31:8000/play/a0ko/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------

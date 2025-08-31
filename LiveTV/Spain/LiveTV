@@ -26190,6 +26190,12 @@
     "img": "https://i.imgur.com/MyiA92q.png"
   },
   {
+    "name": "SpektraTV (720p)",
+    "type": "Music",
+    "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
+    "img": "https://i.imgur.com/0zCt8e4.png"
+  },
+  {
     "name": "13 Humor",
     "type": "Comedy",
     "url": "https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8",
@@ -29288,7 +29294,7 @@
   {
     "name": "Atreseries Internacional (480p)",
     "type": "Series",
-    "url": "http://181.78.208.254:8080/play/a0d5/index.m3u8",
+    "url": "http://38.180.133.31:8000/play/a0ko/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png"
   },
   {
