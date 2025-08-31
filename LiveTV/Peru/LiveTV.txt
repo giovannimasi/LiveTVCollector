@@ -1541,18 +1541,8 @@ URL: http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
 Logo: https://i.imgur.com/ozCZYSN.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 09 | ATV HD |
-URL: https://d19e55ehz2il4i.cloudfront.net/index.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 9.1 | ATV PLUS |
-URL: https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
 Name: 9.2 | ATV SUR |
-URL: https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8
+URL: https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
@@ -1668,7 +1658,7 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 42 | SELVATICA TV |
 URL: https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg
+Logo: https://i.imgur.com/eAXejBj.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 43 | RIBEREÑA TV |

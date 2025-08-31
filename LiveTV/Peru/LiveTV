@@ -1440,21 +1440,9 @@
     "img": "https://i.imgur.com/ozCZYSN.jpeg"
   },
   {
-    "name": "09 | ATV HD |",
-    "type": "TV PERU",
-    "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg"
-  },
-  {
-    "name": "9.1 | ATV PLUS |",
-    "type": "TV PERU",
-    "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg"
-  },
-  {
     "name": "9.2 | ATV SUR |",
     "type": "TV PERU",
-    "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8",
+    "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg"
   },
   {
@@ -1593,7 +1581,7 @@
     "name": "42 | SELVATICA TV |",
     "type": "TV PERU",
     "url": "https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg"
+    "img": "https://i.imgur.com/eAXejBj.jpeg"
   },
   {
     "name": "43 | RIBEREÑA TV |",

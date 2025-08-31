@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-30 21:49:42",
+  "date": "2025-08-31 06:57:25",
   "channels": {
     "General": [
       {
@@ -1757,25 +1757,11 @@
         "url": "http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030"
       },
       {
-        "name": "09 | ATV HD |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8"
-      },
-      {
-        "name": "9.1 | ATV PLUS |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8"
-      },
-      {
         "name": "9.2 | ATV SUR |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8"
+        "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8"
       },
       {
         "name": "10 | PBO |",
@@ -1933,7 +1919,7 @@
       },
       {
         "name": "42 | SELVATICA TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg",
+        "logo": "https://i.imgur.com/eAXejBj.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8"
