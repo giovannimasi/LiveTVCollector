@@ -27933,11 +27933,6 @@ URL: https://streaming.28kanala.eus/hls/z.m3u8
 Logo: https://i.imgur.com/DyvK28q.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
-Name: A Punt
-URL: https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/es.m3u
---------------------------------------------------
 Name: Antena 3 Internacional (480p)
 URL: http://38.180.133.31:8000/play/a0ki/index.m3u8
 Logo: https://i.imgur.com/QMadWXp.png
