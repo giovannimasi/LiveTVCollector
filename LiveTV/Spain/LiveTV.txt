@@ -35018,11 +35018,6 @@ URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7
 Logo: https://e7.pngegg.com/pngimages/993/465/png-clipart-vevo-youtube-music-video-youtube-text-trademark-thumbnail.png
 Source: https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Main%20Necessary%20Channels.m3u
 --------------------------------------------------
-Name: Clubbing TV (720p)
-URL: https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/MyiA92q.png
-Source: https://iptv-org.github.io/iptv/countries/es.m3u
---------------------------------------------------
 Name: SpektraTV (720p)
 URL: https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 Logo: https://i.imgur.com/0zCt8e4.png
@@ -43498,11 +43493,6 @@ URL: http://38.180.133.31:8000/play/a0ko/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
-Name: BBC Doctor Who (1080p)
-URL: https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/pMMabI3.png
-Source: https://iptv-org.github.io/iptv/countries/es.m3u
---------------------------------------------------
 
 Group: Shop
 Name: 1001 Noites
@@ -45496,6 +45486,11 @@ Group: Undefined
 Name: Bon Dia TV (1080p)
 URL: https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
 Logo: https://i.imgur.com/90WOoro.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+Name: Canal 33 Madrid
+URL: https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+Logo: https://i.imgur.com/1zJpDIX.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: CCMA Exclusiu 1 (1080p) [Not 24/7]

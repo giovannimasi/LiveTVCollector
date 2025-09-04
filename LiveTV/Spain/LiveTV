@@ -26202,12 +26202,6 @@
     "img": "https://e7.pngegg.com/pngimages/993/465/png-clipart-vevo-youtube-music-video-youtube-text-trademark-thumbnail.png"
   },
   {
-    "name": "Clubbing TV (720p)",
-    "type": "Music",
-    "url": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/MyiA92q.png"
-  },
-  {
     "name": "SpektraTV (720p)",
     "type": "Music",
     "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
@@ -29314,12 +29308,6 @@
     "type": "Series",
     "url": "http://38.180.133.31:8000/play/a0ko/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png"
-  },
-  {
-    "name": "BBC Doctor Who (1080p)",
-    "type": "Series",
-    "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/pMMabI3.png"
   },
   {
     "name": "1KZN TV",
@@ -54358,6 +54346,12 @@
     "type": "Undefined",
     "url": "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
     "img": "https://i.imgur.com/90WOoro.png"
+  },
+  {
+    "name": "Canal 33 Madrid",
+    "type": "Undefined",
+    "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
+    "img": "https://i.imgur.com/1zJpDIX.png"
   },
   {
     "name": "CCMA Exclusiu 1 (1080p) [Not 24/7]",

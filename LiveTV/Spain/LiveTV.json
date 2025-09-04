@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-03 21:30:53",
+  "date": "2025-09-04 06:06:25",
   "channels": {
     "General": [
       {
@@ -30586,13 +30586,6 @@
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU"
       },
       {
-        "name": "Clubbing TV (720p)",
-        "logo": "https://i.imgur.com/MyiA92q.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "SpektraTV (720p)",
         "logo": "https://i.imgur.com/0zCt8e4.png",
         "group": "Music",
@@ -34225,13 +34218,6 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "http://38.180.133.31:8000/play/a0ko/index.m3u8"
-      },
-      {
-        "name": "BBC Doctor Who (1080p)",
-        "logo": "https://i.imgur.com/pMMabI3.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8"
       }
     ],
     "Entertainment;Family;General": [
@@ -63671,6 +63657,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8"
+      },
+      {
+        "name": "Canal 33 Madrid",
+        "logo": "https://i.imgur.com/1zJpDIX.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
       },
       {
         "name": "CCMA Exclusiu 1 (1080p) [Not 24/7]",
