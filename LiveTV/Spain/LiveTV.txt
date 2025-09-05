@@ -28041,7 +28041,7 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Canal Sur Andalucia (1080p)
 URL: https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png
+Logo: https://i.postimg.cc/jqBb0sTy/canalsurandalucia.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: La 1 (720p)
@@ -38780,7 +38780,7 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: France 24 Español (1080p)
 URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg
+Logo: https://i.postimg.cc/wvbm21St/france24.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 
@@ -45291,7 +45291,7 @@ Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/
 --------------------------------------------------
 Name: Barca TV
 URL: https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-Logo: https://i.imgur.com/d8x7c8i.png
+Logo: https://i.postimg.cc/7Z1tW9BF/barcatv.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Olympic Channel [Geo-blocked]
@@ -45301,7 +45301,7 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Real Madrid TV (404p)
 URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-Logo: https://i.imgur.com/5pMo7dL.png
+Logo: https://i.postimg.cc/2yp7nzVN/realmadridtv.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Teledeporte (1080p)
@@ -45490,7 +45490,7 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Canal 33 Madrid
 URL: https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-Logo: https://i.imgur.com/1zJpDIX.png
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: CCMA Exclusiu 1 (1080p) [Not 24/7]

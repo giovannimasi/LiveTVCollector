@@ -19173,7 +19173,7 @@
     "name": "France 24 Español (1080p)",
     "type": "News",
     "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg"
+    "img": "https://i.postimg.cc/wvbm21St/france24.png"
   },
   {
     "name": "10 Bold Adelaide",
@@ -44289,7 +44289,7 @@
     "name": "Barca TV",
     "type": "Sports",
     "url": "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8",
-    "img": "https://i.imgur.com/d8x7c8i.png"
+    "img": "https://i.postimg.cc/7Z1tW9BF/barcatv.png"
   },
   {
     "name": "Olympic Channel [Geo-blocked]",
@@ -44301,7 +44301,7 @@
     "name": "Real Madrid TV (404p)",
     "type": "Sports",
     "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-    "img": "https://i.imgur.com/5pMo7dL.png"
+    "img": "https://i.postimg.cc/2yp7nzVN/realmadridtv.png"
   },
   {
     "name": "Teledeporte (1080p)",
@@ -54309,7 +54309,7 @@
     "name": "Canal Sur Andalucia (1080p)",
     "type": "General;Public",
     "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png"
+    "img": "https://i.postimg.cc/jqBb0sTy/canalsurandalucia.png"
   },
   {
     "name": "La 1 (720p)",
@@ -54351,7 +54351,7 @@
     "name": "Canal 33 Madrid",
     "type": "Undefined",
     "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
-    "img": "https://i.imgur.com/1zJpDIX.png"
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "CCMA Exclusiu 1 (1080p) [Not 24/7]",

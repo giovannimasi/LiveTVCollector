@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-04 21:30:57",
+  "date": "2025-09-05 06:07:14",
   "channels": {
     "General": [
       {
@@ -22377,7 +22377,7 @@
       },
       {
         "name": "France 24 Español (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg",
+        "logo": "https://i.postimg.cc/wvbm21St/france24.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8"
@@ -51707,7 +51707,7 @@
       },
       {
         "name": "Barca TV",
-        "logo": "https://i.imgur.com/d8x7c8i.png",
+        "logo": "https://i.postimg.cc/7Z1tW9BF/barcatv.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8"
@@ -51721,7 +51721,7 @@
       },
       {
         "name": "Real Madrid TV (404p)",
-        "logo": "https://i.imgur.com/5pMo7dL.png",
+        "logo": "https://i.postimg.cc/2yp7nzVN/realmadridtv.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
@@ -63609,7 +63609,7 @@
       },
       {
         "name": "Canal Sur Andalucia (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png",
+        "logo": "https://i.postimg.cc/jqBb0sTy/canalsurandalucia.png",
         "group": "General;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8"
@@ -63660,7 +63660,7 @@
       },
       {
         "name": "Canal 33 Madrid",
-        "logo": "https://i.imgur.com/1zJpDIX.png",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
