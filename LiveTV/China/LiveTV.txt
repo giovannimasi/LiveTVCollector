@@ -3732,25 +3732,125 @@ URL: https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e5
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 38岁的年纪18岁的身体
+URL: https://mursor.ottiptv.cc/bilibili/618223
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: F125世界选手权第17战国立蒙扎
+URL: https://mursor.ottiptv.cc/bilibili/1197443
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: JJ斗地主
+URL: https://live.iill.top/douyin/685317364746
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: U23国足VS北马岛
+URL: https://mursor.ottiptv.cc/bilibili/23277769
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 一起看德甲STP宝宝请绕行谢谢
+URL: https://mursor.ottiptv.cc/bilibili/1993205972
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 不是体育生但黑皮无限体力欢迎挑战
+URL: https://mursor.ottiptv.cc/bilibili/1728864253
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 减肥健身传递阳光正能量解答世间万物
+URL: https://mursor.ottiptv.cc/bilibili/6943776
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 初来报道关注一下吧
+URL: https://mursor.ottiptv.cc/bilibili/1806665542
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 勿忘国耻爱我中华
+URL: https://mursor.ottiptv.cc/bilibili/1970746533
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 国足u23好起来了
+URL: https://mursor.ottiptv.cc/bilibili/27279745
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 奇人异事绝活多
+URL: https://mursor.ottiptv.cc/bilibili/1764696879
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 开喷了进来看
+URL: https://mursor.ottiptv.cc/bilibili/1809233638
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 战术韭菜七宝水弹+关注提问
+URL: https://mursor.ottiptv.cc/bilibili/6149871
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 新主播阿森纳vs伦敦雌狮
+URL: https://mursor.ottiptv.cc/bilibili/23695821
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 桥牌做庄初级
+URL: https://mursor.ottiptv.cc/bilibili/1970747082
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 浙南立直麻将联赛现场源
+URL: https://mursor.ottiptv.cc/bilibili/13172
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 温州东元雀庄立直麻将
+URL: https://mursor.ottiptv.cc/bilibili/27247162
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 研究下声卡
+URL: https://mursor.ottiptv.cc/bilibili/1890950397
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 练习生
+URL: https://mursor.ottiptv.cc/bilibili/22735879
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 终极亿战
+URL: https://mursor.ottiptv.cc/bilibili/10291683
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 肥猪在线减肥
+URL: https://mursor.ottiptv.cc/bilibili/4230127
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 象棋布局陷阱飞刀出其不意以弱胜强
+URL: https://mursor.ottiptv.cc/bilibili/22446951
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 运动康复书籍推荐
+URL: https://mursor.ottiptv.cc/bilibili/14547200
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 
 Group: 儿童频道
 Name: 中华小当家
-URL: https://live.metshop.top/huya/11342413
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 动画大师姐
-URL: https://mursor.ottiptv.cc/douyu/9742136
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 动画魂
-URL: https://mursor.ottiptv.cc/douyu/9393242
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 林小二动画
-URL: https://mursor.ottiptv.cc/douyu/11184164
+URL: https://live.iill.top/huya/11342413
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -3764,8 +3864,8 @@ URL: https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 立秋动画
-URL: https://mursor.ottiptv.cc/douyu/10351891
+Name: 猫和老鼠
+URL: https://live.iill.top/huya/11352879
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -6498,6 +6598,11 @@ URL: https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 上海新闻综合
+URL: https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=2c1df649aa4a05375c169ba80b0e1237948ea4ca1f76374295c3a13814b384753f3baf0671b15276cc4e08d3b8cc736174d9e248cc91974b4a90971bb67c1980a21d82ed456a9630f45e87f4b0
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 上海第一财经
 URL: https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6668,6 +6773,11 @@ URL: https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlis
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 无锡娱乐
+URL: https://stream.thmz.com/wxtv2/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 无锡生活
 URL: https://stream.thmz.com/wxtv4/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6715,6 +6825,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 武汉一台新闻综合
 URL: https://ls.qingting.fm/live/20198/64k.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 武清综合
+URL: https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -6798,11 +6913,6 @@ URL: https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 湖州新闻综合
-URL: https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 溧水新闻综合
 URL: https://mursor.ottiptv.cc/migu/639737327.m3u8?migutoken=ea943b4d731fe15865f6caaeaab663978aa95498ba7c40d1eef40639bcc5902335d53c5bd66345a202cd20a08b41999c4c1378c4bcc42b553b4f16ab32e95dcaaa5371e80e545ce50fe49ca87e
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6830,6 +6940,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 睢宁综合
 URL: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 秦安综合
+URL: https://play.kankanlive.com/live/1680577080200944.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8026,11 +8141,6 @@ URL: https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce5
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: CETV1
-URL: https://cc06.tv12.xyz/23.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: CETV2
 URL: https://cc06.tv12.xyz/24.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -8417,6 +8527,11 @@ URL: https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 中国电影频道
+URL: https://live.tvfix.org/live/cmc/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 
 Group: 春晚频道
 Name: 1983年春晚
@@ -8716,7 +8831,7 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 
 Group: 更新时间
-Name: 2025-09-06 18:36:45
+Name: 2025-09-07 00:37:29
 URL: https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
@@ -9675,7 +9790,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 科幻电影
-URL: https://mursor.ottiptv.cc/yy/1354930209
+URL: https://mursor.ottiptv.cc/yy/1355065896
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9699,53 +9814,18 @@ URL: https://mursor.ottiptv.cc/yy/29197808
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 三七电影V
-URL: https://mursor.ottiptv.cc/douyu/9457792
+Name: 互换身份成龙主演电影双龙会
+URL: https://mursor.ottiptv.cc/yy/1382735625
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 二胖影视
-URL: https://mursor.ottiptv.cc/douyu/10064260
+Name: 传奇之王影视剧
+URL: https://mursor.ottiptv.cc/yy/1354926735
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 享看电影
-URL: https://mursor.ottiptv.cc/douyu/8974130
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 佛曰影视
-URL: https://mursor.ottiptv.cc/douyu/9671758
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 刘哔电影
-URL: https://mursor.ottiptv.cc/douyu/2632223
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 前任电影
-URL: https://mursor.ottiptv.cc/douyu/9329242
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 发条张的电影最TOP
-URL: https://mursor.ottiptv.cc/douyu/2164691
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 可乐电影o
-URL: https://mursor.ottiptv.cc/huya/29598686
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 同同电影
-URL: https://mursor.ottiptv.cc/douyu/10155359
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 周墨看电影
-URL: https://mursor.ottiptv.cc/douyu/9505584
+Name: 史诗级科幻电影阿凡达
+URL: https://mursor.ottiptv.cc/yy/1382735577
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9754,13 +9834,18 @@ URL: https://mursor.ottiptv.cc/yy/38670875
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 和我看电影
+URL: https://mursor.ottiptv.cc/huya/21967180
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 喜剧电影冒牌天神12
 URL: https://mursor.ottiptv.cc/yy/1354936210
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 四叶草影视
-URL: https://mursor.ottiptv.cc/douyu/9446117
+Name: 国产动作电影
+URL: https://mursor.ottiptv.cc/yy/1382736858
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9784,11 +9869,6 @@ URL: https://mursor.ottiptv.cc/yy/1382851522
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 墨逗电影
-URL: https://mursor.ottiptv.cc/douyu/9614847
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 夏洛特烦恼国内电影喜剧
 URL: https://mursor.ottiptv.cc/yy/1354936201
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -9804,28 +9884,8 @@ URL: https://mursor.ottiptv.cc/yy/1382736806
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 大米饭影视
-URL: https://mursor.ottiptv.cc/douyu/9824094
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 大荒电影
-URL: https://mursor.ottiptv.cc/douyu/3508538
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 大趴电影院
-URL: https://mursor.ottiptv.cc/douyu/8747638
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 大进军全集红色系列电影
 URL: https://mursor.ottiptv.cc/yy/1382745083
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 天堂电影1895
-URL: https://mursor.ottiptv.cc/douyu/9573592
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9839,23 +9899,8 @@ URL: https://mursor.ottiptv.cc/yy/1382851586
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 奇怪电影
-URL: https://mursor.ottiptv.cc/douyu/9440966
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 小儛电影嘚啵嘚
-URL: https://mursor.ottiptv.cc/douyu/8362978
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 小儿难养影视剧
 URL: https://mursor.ottiptv.cc/yy/1382735559
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 少年看电影
-URL: https://mursor.ottiptv.cc/douyu/8762120
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9864,23 +9909,8 @@ URL: https://mursor.ottiptv.cc/yy/1354926612
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 年轻电影
-URL: https://mursor.ottiptv.cc/douyu/12649849
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 影视佳片鉴赏
-URL: https://mursor.ottiptv.cc/bilibili/22450590
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 影视小艺
 URL: https://mursor.ottiptv.cc/yy/1382737886
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 影视笑工场
-URL: https://mursor.ottiptv.cc/douyu/10298846
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9894,23 +9924,8 @@ URL: https://mursor.ottiptv.cc/yy/1354936154
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 怪味爆米花电影
-URL: https://mursor.ottiptv.cc/douyu/9422144
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 恐怖电影
 URL: https://mursor.ottiptv.cc/yy/24066336
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 我是吃泡面看电影
-URL: https://mursor.ottiptv.cc/douyu/8851063
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 指缝里看电影
-URL: https://mursor.ottiptv.cc/douyu/9647834
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9929,16 +9944,6 @@ URL: https://mursor.ottiptv.cc/yy/1382745190
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 晨晨的影视小窝
-URL: https://mursor.ottiptv.cc/yy/1382851576
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 有部电影儿
-URL: https://mursor.ottiptv.cc/douyu/9736479
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 末日系列外国电影合集
 URL: https://mursor.ottiptv.cc/yy/1354889019
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -9949,13 +9954,18 @@ URL: https://mursor.ottiptv.cc/yy/1462895099
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 欧美配音电影
-URL: https://mursor.ottiptv.cc/yy/1354693629
+Name: 林正英经典电影
+URL: https://mursor.ottiptv.cc/yy/34229877
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 止戈电影2
-URL: https://mursor.ottiptv.cc/huya/29982681
+Name: 梦梦影视
+URL: https://mursor.ottiptv.cc/huya/25129377
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 欧美配音电影
+URL: https://mursor.ottiptv.cc/yy/1354693629
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9964,13 +9974,23 @@ URL: https://mursor.ottiptv.cc/douyu/9533302
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 江苏影视
+URL: https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=b73f8d78cfb5fb25d1b0e54e8b651db35d48ff071c6fe1f7826fcc4e6212a20ba7c8991185d03743da42bafdff874a4a03b5df60e7c2aa293ad3b34997faa082e300149433e3b1c2694909770b
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 治愈电影阳光小美女一家人的寻梦之旅
 URL: https://mursor.ottiptv.cc/yy/1382736920
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 涛浪浪电影
-URL: https://mursor.ottiptv.cc/douyu/5424258
+Name: 泡芙陪你看电影
+URL: https://mursor.ottiptv.cc/yy/24407222
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 洛克电影
+URL: https://mursor.ottiptv.cc/douyu/9414884
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9984,33 +10004,13 @@ URL: https://mursor.ottiptv.cc/yy/1382749907
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 熊猫电影
-URL: https://mursor.ottiptv.cc/douyu/3506483
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 爆笑电影王牌大贱谍23
 URL: https://mursor.ottiptv.cc/yy/1382735556
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 爱星影视
-URL: https://mursor.ottiptv.cc/douyu/9476806
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 特辑电影院
-URL: https://mursor.ottiptv.cc/douyu/3637778
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 狗毛电影
-URL: https://mursor.ottiptv.cc/douyu/9356637
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 玖月影视
-URL: https://mursor.ottiptv.cc/douyu/9339251
+Name: 独立鱼电影
+URL: https://mursor.ottiptv.cc/douyu/2413555
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10020,7 +10020,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 电影
-URL: https://mursor.ottiptv.cc/yy/25444932
+URL: https://mursor.ottiptv.cc/yy/37454459
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10029,28 +10029,8 @@ URL: https://mursor.ottiptv.cc/douyu/9323164
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影先锋V
-URL: https://mursor.ottiptv.cc/douyu/8711212
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 电影兴风作浪系列播放
 URL: https://mursor.ottiptv.cc/yy/1382736857
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 电影小班长
-URL: https://mursor.ottiptv.cc/douyu/549693
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 电影最TOP2
-URL: https://mursor.ottiptv.cc/huya/29982676
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 电影漩涡
-URL: https://mursor.ottiptv.cc/douyu/8706350
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10064,13 +10044,13 @@ URL: https://mursor.ottiptv.cc/yy/1382736871
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影笔记
-URL: https://mursor.ottiptv.cc/douyu/9636034
+Name: 电影迷小雅
+URL: https://mursor.ottiptv.cc/douyu/9639225
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影迷小雅
-URL: https://mursor.ottiptv.cc/douyu/9639225
+Name: 电影黑匣子
+URL: https://mursor.ottiptv.cc/douyu/8706652
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10079,28 +10059,13 @@ URL: https://mursor.ottiptv.cc/yy/1382736816
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 看电影了没V
-URL: https://mursor.ottiptv.cc/douyu/9562616
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 科幻电影环太平洋
 URL: https://mursor.ottiptv.cc/yy/1354936170
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 粤语电影丶
-URL: https://mursor.ottiptv.cc/douyu/1226741
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 粤语电影放映厅
-URL: https://mursor.ottiptv.cc/huya/21059572
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 精彩动作电影
-URL: https://mursor.ottiptv.cc/yy/1382736823
+Name: 粟裕大将影视
+URL: https://mursor.ottiptv.cc/yy/1354926542
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10114,23 +10079,28 @@ URL: https://mursor.ottiptv.cc/yy/1382749944
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 经典港片电影
+URL: https://mursor.ottiptv.cc/yy/1459801818
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 经典电影
 URL: https://mursor.ottiptv.cc/bilibili/1777481601
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 经典电影港片枪战
+URL: https://mursor.ottiptv.cc/yy/1355076627
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 经典电影重温
+URL: https://mursor.ottiptv.cc/yy/1382793140
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 经典科幻电影2001漫游太空
 URL: https://mursor.ottiptv.cc/yy/1354926671
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 绝版电影港片女鬼
-URL: https://mursor.ottiptv.cc/yy/1461579859
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 维立方电影
-URL: https://mursor.ottiptv.cc/douyu/8706393
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10144,58 +10114,8 @@ URL: https://live.tvfix.org/live/mydy/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 老卓电影
-URL: https://mursor.ottiptv.cc/yy/1354770516
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 老王的夜电影院
-URL: https://mursor.ottiptv.cc/douyu/3498219
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 胶片看电影
-URL: https://mursor.ottiptv.cc/douyu/3715426
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 腹黑电影
-URL: https://mursor.ottiptv.cc/douyu/8867878
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 舒克影视梗
-URL: https://mursor.ottiptv.cc/huya/24517063
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 莱纳电影
-URL: https://mursor.ottiptv.cc/douyu/9356937
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 豆瓣电影
-URL: https://live.tvfix.org/live/cmc/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 贝爷求生影视
-URL: https://mursor.ottiptv.cc/douyu/9661369
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 贰哥电影
-URL: https://mursor.ottiptv.cc/douyu/9338867
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 超精彩系列动作电影
 URL: https://mursor.ottiptv.cc/yy/1382745096
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 越越爱影视
-URL: https://mursor.ottiptv.cc/yy/1382736886
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10204,23 +10124,13 @@ URL: https://mursor.ottiptv.cc/yy/1354930912
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 酱婶儿电影
-URL: https://mursor.ottiptv.cc/huya/24396474
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 阿苏电影
-URL: https://mursor.ottiptv.cc/douyu/9037784
+Name: 野山鹰影视剧
+URL: https://mursor.ottiptv.cc/yy/1354932395
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 陪你看电影
 URL: https://mursor.ottiptv.cc/yy/1382745084
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 青年电影馆
-URL: https://mursor.ottiptv.cc/huya/21388479
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10231,21 +10141,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 韩国电影2
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 香兰爱影视
-URL: https://mursor.ottiptv.cc/douyu/9487090
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 香港电影561
-URL: https://mursor.ottiptv.cc/douyu/9525468
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 龙哥盘电影
-URL: https://mursor.ottiptv.cc/douyu/9736161
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10989,28 +10884,13 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 
 Group: 解说频道
-Name: 02双子东莞单身
-URL: https://mursor.ottiptv.cc/bilibili/1773653817
+Name: 04河南不许叫老婆
+URL: https://mursor.ottiptv.cc/bilibili/1710484238
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 03喷了会哭
-URL: https://mursor.ottiptv.cc/bilibili/1787120931
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 03素颜
-URL: https://mursor.ottiptv.cc/bilibili/1863478563
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 05看B站试看三分钟
-URL: https://mursor.ottiptv.cc/bilibili/1806666345
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 1783个数字首免
-URL: https://mursor.ottiptv.cc/bilibili/1849302935
+Name: 06女大一个人
+URL: https://mursor.ottiptv.cc/bilibili/1787125757
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11019,8 +10899,28 @@ URL: https://mursor.ottiptv.cc/douyu/9822277
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 180大萌妹
+URL: https://mursor.ottiptv.cc/bilibili/1898566310
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 2025年9月6日直播聊聊天
+URL: https://mursor.ottiptv.cc/bilibili/26625915
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 3说电影
 URL: https://mursor.ottiptv.cc/douyu/9643264
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 4k解说英格兰vs安道尔
+URL: https://mursor.ottiptv.cc/bilibili/23319766
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 5年资深老护士深夜闲聊
+URL: https://mursor.ottiptv.cc/bilibili/775343
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11029,13 +10929,18 @@ URL: https://mursor.ottiptv.cc/douyu/9444320
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: DTCG星辰杯上海KMD预选赛
-URL: https://mursor.ottiptv.cc/bilibili/30123601
+Name: 830一周车模资讯速览
+URL: https://mursor.ottiptv.cc/bilibili/507532
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: Ido漫说
-URL: https://mursor.ottiptv.cc/douyu/9456379
+Name: 9月最新政策
+URL: https://mursor.ottiptv.cc/bilibili/32269997
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: AI交流时间
+URL: https://mursor.ottiptv.cc/bilibili/31304418
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11044,18 +10949,48 @@ URL: https://mursor.ottiptv.cc/douyu/9391277
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: LRCZDHX
+URL: https://mursor.ottiptv.cc/bilibili/1762938952
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: Michael说大片
+URL: https://mursor.ottiptv.cc/douyu/8841881
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: POE2
+URL: https://mursor.ottiptv.cc/bilibili/6864956
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: SAO东西又再说SAO话
 URL: https://mursor.ottiptv.cc/douyu/8833450
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: Tarot合Pan情感疗愈今天露脸
-URL: https://mursor.ottiptv.cc/bilibili/32438077
+Name: TuesMaMisterieuse
+URL: https://mursor.ottiptv.cc/bilibili/8439705
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: ouka
+URL: https://mursor.ottiptv.cc/bilibili/1824225319
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: rubberpupinNJ
+URL: https://mursor.ottiptv.cc/bilibili/1833994059
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: yaoyao说
 URL: https://mursor.ottiptv.cc/douyu/884073
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 一人一问有事排队
+URL: https://mursor.ottiptv.cc/bilibili/31898715
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11069,18 +11004,48 @@ URL: https://mursor.ottiptv.cc/bilibili/1779343752
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 中午下播
-URL: https://mursor.ottiptv.cc/bilibili/32366263
+Name: 一起看看视频聊聊天周末愉快
+URL: https://mursor.ottiptv.cc/bilibili/27352150
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 中式星座问答研读
-URL: https://mursor.ottiptv.cc/bilibili/31217142
+Name: 一边直播一边
+URL: https://mursor.ottiptv.cc/bilibili/1856656382
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 丽姐说电影
-URL: https://mursor.ottiptv.cc/douyu/9437283
+Name: 一问一答
+URL: https://mursor.ottiptv.cc/bilibili/1881912543
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 万事皆可占情感易学交流
+URL: https://mursor.ottiptv.cc/bilibili/31468408
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 不压抑直播间聊都可以聊什么都可以聊
+URL: https://mursor.ottiptv.cc/bilibili/21980355
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 专业解答快问快答
+URL: https://mursor.ottiptv.cc/bilibili/1882300500
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 中元节电台闲聊休闲
+URL: https://mursor.ottiptv.cc/bilibili/25301923
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 为了昨天今天该画完了
+URL: https://mursor.ottiptv.cc/bilibili/2010821
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 主播没活了
+URL: https://mursor.ottiptv.cc/bilibili/1874915447
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11089,8 +11054,23 @@ URL: https://mursor.ottiptv.cc/douyu/9348282
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 今年中元节晚上非必要请勿外出
-URL: https://mursor.ottiptv.cc/bilibili/27918860
+Name: 亮哥小卖部
+URL: https://mursor.ottiptv.cc/bilibili/32559725
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 人生最重要的就是开心
+URL: https://mursor.ottiptv.cc/bilibili/9630663
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 今日主题别出门来唠嗑
+URL: https://mursor.ottiptv.cc/bilibili/21588773
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 他还会来找你吗
+URL: https://mursor.ottiptv.cc/bilibili/23788486
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11099,13 +11079,33 @@ URL: https://mursor.ottiptv.cc/douyu/9123570
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 休息
-URL: https://mursor.ottiptv.cc/bilibili/10943663
+Name: 传承不易
+URL: https://mursor.ottiptv.cc/bilibili/30068886
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 伦帝电影说
 URL: https://mursor.ottiptv.cc/douyu/9368091
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 伯乐说电影V
+URL: https://mursor.ottiptv.cc/douyu/9386057
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 你哪年出生送你几句
+URL: https://mursor.ottiptv.cc/bilibili/1912488125
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 你心中的白月光长大了
+URL: https://mursor.ottiptv.cc/bilibili/32056016
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 你是说白厄联动快来了是吗
+URL: https://mursor.ottiptv.cc/bilibili/8793675
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11119,28 +11119,23 @@ URL: https://mursor.ottiptv.cc/douyu/5803764
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 俱乐部TV
-URL: https://mursor.ottiptv.cc/bilibili/26671817
+Name: 免米聊明天的剧本发展
+URL: https://mursor.ottiptv.cc/bilibili/1920264649
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 全职妈妈算不算独立女性
-URL: https://mursor.ottiptv.cc/bilibili/9056704
+Name: 入侵地球
+URL: https://mursor.ottiptv.cc/bilibili/7408612
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 关注主播领彩蛋
-URL: https://mursor.ottiptv.cc/bilibili/1859171073
+Name: 全职码字努力赚钱
+URL: https://mursor.ottiptv.cc/bilibili/31609345
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 再不进来邦邦两拳
-URL: https://mursor.ottiptv.cc/bilibili/1995468709
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 写稿写稿写稿写稿写稿
-URL: https://mursor.ottiptv.cc/bilibili/9087320
+Name: 写曲子ing
+URL: https://mursor.ottiptv.cc/bilibili/25248801
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11154,23 +11149,53 @@ URL: https://mursor.ottiptv.cc/douyu/9666219
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 凡尘国学经典命理通向
+URL: https://mursor.ottiptv.cc/bilibili/1935441015
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 分析剧本层次
+URL: https://mursor.ottiptv.cc/bilibili/1921712613
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 刘老师说电影
 URL: https://mursor.ottiptv.cc/douyu/8317926
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 刚来
+URL: https://mursor.ottiptv.cc/bilibili/94492
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 初来报道关注一下吧
-URL: https://mursor.ottiptv.cc/bilibili/7826896
+URL: https://mursor.ottiptv.cc/bilibili/1882303593
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 剪视频有两期要剪
-URL: https://mursor.ottiptv.cc/bilibili/27647083
+Name: 别看了他她已经不喜欢你了
+URL: https://mursor.ottiptv.cc/bilibili/1881919245
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 北京大妈有话说er
-URL: https://mursor.ottiptv.cc/douyu/9440530
+Name: 别问问就是不准哈哈哈哈哈
+URL: https://mursor.ottiptv.cc/bilibili/1733397123
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 剑术杂谈
+URL: https://mursor.ottiptv.cc/bilibili/23393598
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 剧本免米一问
+URL: https://mursor.ottiptv.cc/bilibili/6374829
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 包浆弟日常直播
+URL: https://mursor.ottiptv.cc/bilibili/26304615
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11179,28 +11204,13 @@ URL: https://mursor.ottiptv.cc/douyu/8828811
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 十三年学易
-URL: https://mursor.ottiptv.cc/bilibili/1809234606
+Name: 十年老v山东夹子
+URL: https://mursor.ottiptv.cc/bilibili/1770860442
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 十里说
-URL: https://mursor.ottiptv.cc/douyu/9064711
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 单亲妈妈在线营业
-URL: https://mursor.ottiptv.cc/bilibili/1916959673
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 博然讲电影
-URL: https://mursor.ottiptv.cc/douyu/9561992
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 可乐撩电影
-URL: https://mursor.ottiptv.cc/douyu/9371552
+Name: 半夜出来随便聊聊
+URL: https://mursor.ottiptv.cc/bilibili/31239781
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11209,23 +11219,13 @@ URL: https://mursor.ottiptv.cc/douyu/9419771
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 合约
-URL: https://mursor.ottiptv.cc/bilibili/1949985262
+Name: 听歌写大纲中
+URL: https://mursor.ottiptv.cc/bilibili/26252129
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 听听歌
-URL: https://mursor.ottiptv.cc/bilibili/9581524
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 呀那个脏糕啊
-URL: https://mursor.ottiptv.cc/bilibili/24552215
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 哇喔这是哪位大佬在修仙
-URL: https://mursor.ottiptv.cc/bilibili/1884966936
+Name: 和好兄弟玩玩
+URL: https://mursor.ottiptv.cc/bilibili/3864211
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11234,33 +11234,48 @@ URL: https://mursor.ottiptv.cc/douyu/9991820
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 哑巴竟然会说话
-URL: https://mursor.ottiptv.cc/yy/1354932427
+Name: 喜欢阿姨的进
+URL: https://mursor.ottiptv.cc/bilibili/1859175061
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 唐司令说电影
-URL: https://mursor.ottiptv.cc/douyu/8774345
+Name: 喵啥喵喵喵喵喵
+URL: https://mursor.ottiptv.cc/bilibili/1919212975
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 啊额
-URL: https://mursor.ottiptv.cc/bilibili/24293941
+Name: 塔塔来啦
+URL: https://mursor.ottiptv.cc/bilibili/1935443911
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 喵妹说电影
-URL: https://mursor.ottiptv.cc/douyu/9312432
+Name: 塔罗情感首关免一
+URL: https://mursor.ottiptv.cc/bilibili/1873270971
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 塔罗情感任意问题首关免米
-URL: https://mursor.ottiptv.cc/bilibili/1747119500
+Name: 塔罗情感首关免费
+URL: https://mursor.ottiptv.cc/bilibili/31132735
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 塔罗情感终点站
-URL: https://mursor.ottiptv.cc/bilibili/1868876882
+Name: 塔罗情感首关灯牌
+URL: https://mursor.ottiptv.cc/bilibili/32646806
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 塔罗看情感解惑聊天
+URL: https://mursor.ottiptv.cc/bilibili/6635814
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 墙头马上摇香菇
+URL: https://mursor.ottiptv.cc/bilibili/21634386
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 夜深了玩点赤鸡的
+URL: https://mursor.ottiptv.cc/bilibili/1777648591
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11274,16 +11289,6 @@ URL: https://mursor.ottiptv.cc/douyu/10415661
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 奇迹丝滑展开提问无偿解读
-URL: https://mursor.ottiptv.cc/bilibili/32097340
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 女汉子说电影
-URL: https://mursor.ottiptv.cc/douyu/9395966
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 女神撩电影
 URL: https://mursor.ottiptv.cc/douyu/9439594
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -11294,13 +11299,18 @@ URL: https://mursor.ottiptv.cc/douyu/8891883
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 婚后的不满
-URL: https://mursor.ottiptv.cc/bilibili/1830091739
+Name: 娱乐一下
+URL: https://mursor.ottiptv.cc/bilibili/25670658
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 学习工作背景音乐247自习室
-URL: https://mursor.ottiptv.cc/bilibili/27519423
+Name: 学了还是一样菜
+URL: https://mursor.ottiptv.cc/bilibili/27479359
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 宇哥讲电影
+URL: https://mursor.ottiptv.cc/douyu/2104744
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11309,8 +11319,23 @@ URL: https://mursor.ottiptv.cc/douyu/1842621
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 宝宝一周岁生日准备中
-URL: https://mursor.ottiptv.cc/bilibili/316205
+Name: 宿舍大头直播之线上兼职补工时+点歌回
+URL: https://mursor.ottiptv.cc/bilibili/12182496
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 对话王中华我与医馆这十年
+URL: https://mursor.ottiptv.cc/bilibili/1947172231
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 对面的男孩看过来
+URL: https://mursor.ottiptv.cc/bilibili/1880059386
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 封面本人午夜求子
+URL: https://mursor.ottiptv.cc/bilibili/24309304
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11339,11 +11364,6 @@ URL: https://mursor.ottiptv.cc/douyu/9390955
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 小浅说电影
-URL: https://mursor.ottiptv.cc/douyu/9665834
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 小涛讲电影V
 URL: https://mursor.ottiptv.cc/douyu/8415464
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -11351,16 +11371,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 小片片说大片
 URL: https://mursor.ottiptv.cc/douyu/4258555
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 小片片说大片二台
-URL: https://mursor.ottiptv.cc/douyu/10011547
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 小豆泥修罗场
-URL: https://mursor.ottiptv.cc/bilibili/21788792
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11379,6 +11389,16 @@ URL: https://mursor.ottiptv.cc/douyu/9396672
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 就是你想的那样
+URL: https://mursor.ottiptv.cc/bilibili/1985117770
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 展示面通识
+URL: https://mursor.ottiptv.cc/bilibili/1814378060
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 崽崽撩电影
 URL: https://mursor.ottiptv.cc/douyu/8325511
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -11394,8 +11414,18 @@ URL: https://mursor.ottiptv.cc/douyu/9486015
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 引体挑战奖金1000元
-URL: https://mursor.ottiptv.cc/bilibili/21372911
+Name: 干翻心魔
+URL: https://mursor.ottiptv.cc/bilibili/4952368
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 开箱组装casperab70
+URL: https://mursor.ottiptv.cc/bilibili/22493991
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 开门是我
+URL: https://mursor.ottiptv.cc/bilibili/1809422656
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11404,48 +11434,68 @@ URL: https://mursor.ottiptv.cc/douyu/10329713
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 录舞
-URL: https://mursor.ottiptv.cc/bilibili/5508421
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 微笑影视解说
 URL: https://mursor.ottiptv.cc/douyu/9476790
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 情感塔罗都可以问
-URL: https://mursor.ottiptv.cc/bilibili/1734603280
+Name: 心理咨询师来聊天问题随便问
+URL: https://mursor.ottiptv.cc/bilibili/11683072
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 情感塔罗首关免费体验一张
-URL: https://mursor.ottiptv.cc/bilibili/24839076
+Name: 心理聊天欢迎上麦
+URL: https://mursor.ottiptv.cc/bilibili/22832011
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 情感答疑解惑紫星cp瓜
-URL: https://mursor.ottiptv.cc/bilibili/21552266
+Name: 快和老李谈天说地
+URL: https://mursor.ottiptv.cc/bilibili/26560942
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 想看人生剧本江西鹰潭龙虎山来帮你
-URL: https://mursor.ottiptv.cc/bilibili/1725929273
+Name: 快哥说老片
+URL: https://mursor.ottiptv.cc/douyu/10411518
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 战术番茄模玩官方直播
-URL: https://mursor.ottiptv.cc/bilibili/32306086
+Name: 情感咨询茶水随缘进来看
+URL: https://mursor.ottiptv.cc/bilibili/1852352040
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 所谓的户晨风提督解答世间万物24小时播
-URL: https://mursor.ottiptv.cc/bilibili/31964414
+Name: 情感咨询解惑疗愈陪伴
+URL: https://mursor.ottiptv.cc/bilibili/1945806396
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 挖煤姬打包大公开
-URL: https://mursor.ottiptv.cc/bilibili/4729578
+Name: 情感塔罗
+URL: https://mursor.ottiptv.cc/bilibili/31556209
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 情感塔罗首关免一
+URL: https://mursor.ottiptv.cc/bilibili/32395561
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 情感疗愈占卜
+URL: https://mursor.ottiptv.cc/bilibili/30863525
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 情感问答
+URL: https://mursor.ottiptv.cc/bilibili/32424391
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 我的画真的很无聊没有人愿意看
+URL: https://mursor.ottiptv.cc/bilibili/1884459315
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 战术遮羞布
+URL: https://mursor.ottiptv.cc/bilibili/25020672
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11454,18 +11504,38 @@ URL: https://mursor.ottiptv.cc/douyu/8837964
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 摆摊听八卦
+URL: https://mursor.ottiptv.cc/bilibili/1806665535
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 摸鱼
-URL: https://mursor.ottiptv.cc/bilibili/25015823
+URL: https://mursor.ottiptv.cc/bilibili/1968483685
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 撩电影8
-URL: https://mursor.ottiptv.cc/douyu/9351043
+Name: 播播小马内容同人音乐正剧
+URL: https://mursor.ottiptv.cc/bilibili/21463726
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 教你做视频
-URL: https://mursor.ottiptv.cc/bilibili/1708419365
+Name: 新V大学老师的中元夜话
+URL: https://mursor.ottiptv.cc/bilibili/22314755
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 新v初见闭麦画画来陪猫打字聊天
+URL: https://mursor.ottiptv.cc/bilibili/1926787548
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 新粉免米
+URL: https://mursor.ottiptv.cc/bilibili/31079307
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 新衣服看看吗
+URL: https://mursor.ottiptv.cc/bilibili/1952673173
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11474,8 +11544,8 @@ URL: https://mursor.ottiptv.cc/douyu/8813254
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 日常摸点啥
-URL: https://mursor.ottiptv.cc/bilibili/6033638
+Name: 新视频在剪了在剪了
+URL: https://mursor.ottiptv.cc/bilibili/26655263
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11489,28 +11559,28 @@ URL: https://mursor.ottiptv.cc/douyu/8014467
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 晓晓说电影
-URL: https://mursor.ottiptv.cc/douyu/9430717
+Name: 晚间夜宵趴
+URL: https://mursor.ottiptv.cc/bilibili/23302103
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 晓麦讲电影
-URL: https://mursor.ottiptv.cc/douyu/453963
+Name: 普通人可以学的明星变美思路
+URL: https://mursor.ottiptv.cc/bilibili/1809230484
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 曲曲官方96直播中
-URL: https://mursor.ottiptv.cc/bilibili/1852879194
+Name: 最X解说德甲樊振东
+URL: https://mursor.ottiptv.cc/bilibili/13619967
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 期初烤焙烤
+URL: https://mursor.ottiptv.cc/bilibili/1857891726
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 末日说电影
 URL: https://mursor.ottiptv.cc/douyu/9431125
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 杂谈除了声音没有优点
-URL: https://mursor.ottiptv.cc/bilibili/1702716689
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11529,18 +11599,68 @@ URL: https://mursor.ottiptv.cc/douyu/9375743
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 汪哥说电影
-URL: https://mursor.ottiptv.cc/douyu/9312685
+Name: 樊振东德甲解说
+URL: https://mursor.ottiptv.cc/bilibili/24982126
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 此人不说话只是一味地画画
+URL: https://mursor.ottiptv.cc/bilibili/12012721
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 死人微活长发omega
+URL: https://mursor.ottiptv.cc/bilibili/26388349
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 比例只是说我喜欢你就被管家打断了双腿
+URL: https://mursor.ottiptv.cc/bilibili/31948989
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 水果玉米好吃
+URL: https://mursor.ottiptv.cc/bilibili/6208318
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 永久裸辞随便聊
+URL: https://mursor.ottiptv.cc/bilibili/26188314
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 汉化foobar2000组件
+URL: https://mursor.ottiptv.cc/bilibili/15114028
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 测试转播测试
+URL: https://mursor.ottiptv.cc/bilibili/1420840
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 浩贤说电影
+URL: https://mursor.ottiptv.cc/douyu/10535867
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 深夜吹水
+URL: https://mursor.ottiptv.cc/bilibili/543716
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 游戏主包支线re刘宇宁直播回
+URL: https://mursor.ottiptv.cc/bilibili/13472427
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 漫画编辑在线交流作品
+URL: https://mursor.ottiptv.cc/bilibili/264172
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 漫画解说
-URL: https://www.goodiptv.club/douyu/5907076
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 火龙果讲电影本人
-URL: https://mursor.ottiptv.cc/douyu/2039501
+URL: https://mursor.ottiptv.cc/yy/1382735568
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11549,8 +11669,8 @@ URL: https://mursor.ottiptv.cc/douyu/9559158
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 灯泡兄弟影游谈
-URL: https://mursor.ottiptv.cc/douyu/1690081
+Name: 灵丹妙药
+URL: https://mursor.ottiptv.cc/bilibili/1542997
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11579,8 +11699,8 @@ URL: https://mursor.ottiptv.cc/douyu/8849703
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 猫八解说
-URL: https://mursor.ottiptv.cc/douyu/9542831
+Name: 猜猜今天谁值班
+URL: https://mursor.ottiptv.cc/bilibili/31830703
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11594,13 +11714,43 @@ URL: https://mursor.ottiptv.cc/douyu/9402110
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 王羲之兰亭序精讲
-URL: https://mursor.ottiptv.cc/bilibili/21403132
+Name: 玩一会儿
+URL: https://mursor.ottiptv.cc/bilibili/1806666309
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 珞珞说电影
-URL: https://mursor.ottiptv.cc/douyu/3718888
+Name: 玩的就是心跳
+URL: https://mursor.ottiptv.cc/bilibili/9686761
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 环
+URL: https://mursor.ottiptv.cc/bilibili/27434995
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 由于过于毒舌被优化的塔塔狮
+URL: https://mursor.ottiptv.cc/bilibili/1787123326
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电商创业自产自销发货发货
+URL: https://mursor.ottiptv.cc/bilibili/32649832
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 画听说直播画稿快一点
+URL: https://mursor.ottiptv.cc/bilibili/22625126
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 画画聊天
+URL: https://mursor.ottiptv.cc/bilibili/22477237
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 画画顺便聊天
+URL: https://mursor.ottiptv.cc/bilibili/1867583984
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11624,8 +11774,18 @@ URL: https://mursor.ottiptv.cc/douyu/9649681
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 真的要一直当牛马么
-URL: https://mursor.ottiptv.cc/bilibili/21254433
+Name: 盘核桃闲唠嗑我们都是有故事的人
+URL: https://mursor.ottiptv.cc/bilibili/23936938
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 直男RECP栩你渝生雷朋正剧+花絮
+URL: https://mursor.ottiptv.cc/bilibili/218325
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 真的很快乐
+URL: https://mursor.ottiptv.cc/bilibili/1516822
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11644,33 +11804,58 @@ URL: https://mursor.ottiptv.cc/douyu/9443552
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 神说这里是全站唯一彼得石直播间
+URL: https://mursor.ottiptv.cc/bilibili/22661534
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 秀才侃娱乐
 URL: https://mursor.ottiptv.cc/douyu/9382873
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 童乐说电影
-URL: https://mursor.ottiptv.cc/douyu/9660704
+Name: 等一个20级牌牌
+URL: https://mursor.ottiptv.cc/bilibili/1955432147
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 答疑解惑13074741429
-URL: https://mursor.ottiptv.cc/bilibili/1974511901
+Name: 等你
+URL: https://mursor.ottiptv.cc/bilibili/10962691
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 绘说篮球C
-URL: https://mursor.ottiptv.cc/douyu/9401305
+Name: 答疑解惑
+URL: https://mursor.ottiptv.cc/bilibili/1760810485
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 罗叔说戏
-URL: https://mursor.ottiptv.cc/douyu/9788756
+Name: 答疑解惑情感勿扰没屁格楼嗓子哒爬
+URL: https://mursor.ottiptv.cc/bilibili/1843666311
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 美院失业画师集资点拼好饭可点歌可聊天
-URL: https://mursor.ottiptv.cc/bilibili/3721770
+Name: 粤语甜妹
+URL: https://mursor.ottiptv.cc/bilibili/27167784
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 精神分析答疑咨询
+URL: https://mursor.ottiptv.cc/bilibili/15150830
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 累累累累累累累累累累累累
+URL: https://mursor.ottiptv.cc/bilibili/21580644
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 繁星队内赛蕊源vsKaf
+URL: https://mursor.ottiptv.cc/bilibili/1722882214
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 红宝第四次啵啵今晚绝不吃夜宵
+URL: https://mursor.ottiptv.cc/bilibili/1809235902
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11684,18 +11869,28 @@ URL: https://mursor.ottiptv.cc/douyu/9222870
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 老鱼说剧
-URL: https://mursor.ottiptv.cc/douyu/9994377
+Name: 考研考编考公学习学习
+URL: https://mursor.ottiptv.cc/bilibili/1916951151
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 聊三句
+URL: https://mursor.ottiptv.cc/bilibili/27149040
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 股票市场大输家顺风车导师
+URL: https://mursor.ottiptv.cc/bilibili/31953470
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 自律学习工作共勉喜马拉雅有声小说
+URL: https://mursor.ottiptv.cc/bilibili/834914
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 自说自话的总裁
 URL: https://mursor.ottiptv.cc/douyu/9317739
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 舒适区
-URL: https://mursor.ottiptv.cc/bilibili/25368179
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11714,8 +11909,8 @@ URL: https://mursor.ottiptv.cc/douyu/3714736
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 董事长不要吃了反正热度也不在了
-URL: https://mursor.ottiptv.cc/bilibili/32477804
+Name: 萌新驾到多多指教
+URL: https://mursor.ottiptv.cc/bilibili/21173079
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11724,38 +11919,43 @@ URL: https://mursor.ottiptv.cc/douyu/8915074
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 蚕哥自营烈隐官方直播间
-URL: https://mursor.ottiptv.cc/bilibili/1824228096
+Name: 蛇精蝎子精的恩情七娃怎么还也还不完
+URL: https://mursor.ottiptv.cc/bilibili/1829183186
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 蛋黄讲动漫
-URL: https://mursor.ottiptv.cc/douyu/9542834
+Name: 衣柜哥实木定制讲解视频
+URL: https://mursor.ottiptv.cc/bilibili/23591525
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 西施撩电影
-URL: https://mursor.ottiptv.cc/douyu/7532080
+Name: 要来测测么包看的
+URL: https://mursor.ottiptv.cc/bilibili/26161651
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 讲故事的角马
-URL: https://mursor.ottiptv.cc/douyu/4400816
+Name: 解答提桶跑路
+URL: https://mursor.ottiptv.cc/bilibili/4995340
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 说笑武林
-URL: https://mursor.ottiptv.cc/douyu/10329706
+Name: 讲解养龟问题
+URL: https://mursor.ottiptv.cc/bilibili/27394230
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 说说电影故事
-URL: https://mursor.ottiptv.cc/douyu/9444627
+Name: 试试空洞骑士1
+URL: https://mursor.ottiptv.cc/bilibili/23582320
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 谁语说电影
-URL: https://mursor.ottiptv.cc/douyu/8705754
+Name: 说是在画画
+URL: https://mursor.ottiptv.cc/bilibili/27607822
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 谁一边看案件解说一边画毕设啊
+URL: https://mursor.ottiptv.cc/bilibili/25401472
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11769,6 +11969,11 @@ URL: https://mursor.ottiptv.cc/yy/1382735560
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 豆客解说
+URL: https://mursor.ottiptv.cc/douyu/8883122
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 超管我在学习别切我
 URL: https://mursor.ottiptv.cc/bilibili/23797506
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -11779,23 +11984,38 @@ URL: https://mursor.ottiptv.cc/douyu/9371407
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 这个女孩满月了
-URL: https://mursor.ottiptv.cc/bilibili/1776265091
+Name: 过世的丈夫阴魂不散炒饭现场迫害COD
+URL: https://mursor.ottiptv.cc/bilibili/773415
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 这应该是你见过玩的最菜的丝之歌主播
-URL: https://mursor.ottiptv.cc/bilibili/15160318
+Name: 进来啵啵一下
+URL: https://mursor.ottiptv.cc/bilibili/1851398578
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 选择大于努力千年福地天师庇佑
-URL: https://mursor.ottiptv.cc/bilibili/1791264372
+Name: 进来宝贝
+URL: https://mursor.ottiptv.cc/bilibili/1926381986
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 逗米说电影
-URL: https://mursor.ottiptv.cc/douyu/421222
+Name: 逍遥姐姐小课堂
+URL: https://mursor.ottiptv.cc/bilibili/30319092
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 道
+URL: https://mursor.ottiptv.cc/bilibili/1785603783
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 那还说啥了画呗
+URL: https://mursor.ottiptv.cc/bilibili/1787124185
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 都说我们家月饼好吃
+URL: https://mursor.ottiptv.cc/bilibili/21448335
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11814,8 +12034,8 @@ URL: https://mursor.ottiptv.cc/douyu/9472141
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 闲谈回
-URL: https://mursor.ottiptv.cc/bilibili/384262
+Name: 问旋国学
+URL: https://mursor.ottiptv.cc/bilibili/1841883739
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11829,13 +12049,28 @@ URL: https://mursor.ottiptv.cc/douyu/532050
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 阿松撩剧
-URL: https://mursor.ottiptv.cc/douyu/8880843
+Name: 随便播播
+URL: https://mursor.ottiptv.cc/bilibili/30046813
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 随便削一下木头
-URL: https://mursor.ottiptv.cc/bilibili/31206068
+Name: 随便玩玩
+URL: https://mursor.ottiptv.cc/bilibili/31134162
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 随便聊聊做点手工不回放了
+URL: https://mursor.ottiptv.cc/bilibili/31939908
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 随喜问问题
+URL: https://mursor.ottiptv.cc/bilibili/1883014903
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 随缘看
+URL: https://mursor.ottiptv.cc/bilibili/1769471876
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11849,23 +12084,18 @@ URL: https://mursor.ottiptv.cc/douyu/9542830
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 面具戴久了会忘记原来的模样
-URL: https://mursor.ottiptv.cc/bilibili/1724236811
+Name: 霸道查总在线科研
+URL: https://mursor.ottiptv.cc/bilibili/1856654444
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 飞碟说官方
+URL: https://mursor.ottiptv.cc/douyu/1449125
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 飞行员欧文讲故事
 URL: https://mursor.ottiptv.cc/douyu/9678790
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 首次开播请多关照
-URL: https://mursor.ottiptv.cc/bilibili/1812804874
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 马逆真逆天
-URL: https://mursor.ottiptv.cc/bilibili/31980904
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -11879,6 +12109,11 @@ URL: https://mursor.ottiptv.cc/douyu/8722254
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 鬼节说鬼崔老道捉妖
+URL: https://mursor.ottiptv.cc/bilibili/271628
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 鲨说电影
 URL: https://mursor.ottiptv.cc/douyu/9544628
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -11886,11 +12121,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 鸡哥聊电影
 URL: https://mursor.ottiptv.cc/douyu/5067952
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 鹏友说电影
-URL: https://mursor.ottiptv.cc/douyu/9445244
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
