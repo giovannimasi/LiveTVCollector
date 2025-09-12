@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-12 06:39:35",
+  "date": "2025-09-12 13:50:16",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI1IDEyOjI4OjMwIEFNJmhhc2hfdmFsdWU9dktiRUtySElvaXpCaTYwWG1qd0Fndz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRjZTQ4YjI4LTljNjMtNDNiNS05M2ZlLWI1OTllZDNkYjUzNA==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI1IDg6OToxNCBBTSZoYXNoX3ZhbHVlPUFZT0R5QzgwbFdvNTdTSEVxUlJ0NFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMDYwZjhiOS1jZDljLTRmZjMtYWQ2Yy0zODk3NzNkOWVlNTI=/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI1IDEyOjI4OjMxIEFNJmhhc2hfdmFsdWU9enN1Z3hNOWhyZGtEazJqREsyaVowZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVhMzNmYmYzLTkxMmYtNDI3ZS1hMDY0LWIwODMzMGFmODM4Zg==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI1IDg6OToxNCBBTSZoYXNoX3ZhbHVlPWJzb3d0bzZoM1E1OE9ZNWZibXozWlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZGIwYzM0NC04YTZiLTRkZTUtODRhNC0yNjhiZmZmYzZhNTg=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI1IDEyOjI4OjMxIEFNJmhhc2hfdmFsdWU9OVBTWC92MVZxaGtITHpSeU1UZlVtUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTc2OGMwMWU1LWEwNjItNDY2YS1iMmE1LTE0NjJjZjMyMjY3Nw==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMi8yMDI1IDg6OToxNiBBTSZoYXNoX3ZhbHVlPVRqbG5mQkVhRmo1TGF0QWJaRDRzRXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yMjFlNzI2ZS02ZWQxLTRiMmUtOGFlOC02ZDVlMzExZDg4NTc=/"
       },
       {
         "name": "TVI África",
