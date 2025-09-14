@@ -1503,8 +1503,6 @@ https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31d
 https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",电视指南
 https://cc06.tv12.xyz/39.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",风云剧场
-https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",支持作者
 https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="备用频道",CCTV1
@@ -1749,8 +1747,6 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",莲花卫视
-https://fenghuang.tv12.xyz/187.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",苏州4K
@@ -2590,13 +2586,11 @@ http://1.94.31.214:35455/yy/1354889019
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",科幻电影
-https://mursor.ottiptv.cc/yy/1355065896
+https://mursor.ottiptv.cc/yy/1354930209
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",1930年代经典电影
 https://mursor.ottiptv.cc/yy/1356363815
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",24h高分电影
-https://mursor.ottiptv.cc/yy/1355171357
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",28岁电影
 https://mursor.ottiptv.cc/douyu/8884164
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",三七电影V
@@ -2605,44 +2599,36 @@ https://mursor.ottiptv.cc/douyu/9457792
 https://mursor.ottiptv.cc/douyu/10064260
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",互换身份成龙主演电影双龙会
 https://mursor.ottiptv.cc/yy/1382735625
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",享看电影
-https://mursor.ottiptv.cc/douyu/8974130
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",五分钟电影汇
+https://mursor.ottiptv.cc/douyu/8443438
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",传奇之王影视剧
 https://mursor.ottiptv.cc/yy/1354926735
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",佛曰影视
-https://mursor.ottiptv.cc/douyu/9671758
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",俗哥看电影
 https://mursor.ottiptv.cc/douyu/2161818
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",冒险电影放映厅
-https://mursor.ottiptv.cc/huya/21059566
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",刘哔电影
 https://mursor.ottiptv.cc/douyu/2632223
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",前任电影
-https://mursor.ottiptv.cc/douyu/9329242
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",发条张的电影最TOP
 https://mursor.ottiptv.cc/douyu/2164691
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",史诗级科幻电影阿凡达
-https://mursor.ottiptv.cc/yy/1382735577
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",古枫影视
+https://mursor.ottiptv.cc/huya/30297201
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",可乐电影o
+https://mursor.ottiptv.cc/huya/29598686
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",同同电影
 https://mursor.ottiptv.cc/douyu/10155359
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",周墨看电影
 https://mursor.ottiptv.cc/douyu/9505584
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",周星驰搞笑电影
-https://mursor.ottiptv.cc/yy/38670875
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",哈利影视
 https://mursor.ottiptv.cc/douyu/8475821
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",喜人电影
 https://mursor.ottiptv.cc/douyu/10348735
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",喜剧电影冒牌天神12
 https://mursor.ottiptv.cc/yy/1354936210
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",国产动作电影
-https://mursor.ottiptv.cc/yy/1382736858
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",噬元兽影视
+https://mursor.ottiptv.cc/douyu/8896723
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",国产大片电影
 https://mursor.ottiptv.cc/yy/1354926655
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",国产电影就是闹着玩的
 https://mursor.ottiptv.cc/yy/1354931503
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",国内玄幻电影林正英
-https://mursor.ottiptv.cc/yy/1354932444
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",国内经典动作电影
 https://mursor.ottiptv.cc/yy/1382851522
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",墨逗电影
@@ -2659,40 +2645,34 @@ https://mursor.ottiptv.cc/yy/1382736806
 https://mursor.ottiptv.cc/douyu/9824094
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",大荒电影
 https://mursor.ottiptv.cc/douyu/3508538
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",大趴电影院
-https://mursor.ottiptv.cc/douyu/8747638
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",大进军全集红色系列电影
-https://mursor.ottiptv.cc/yy/1382745083
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",天堂电影1895
 https://mursor.ottiptv.cc/douyu/9573592
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",天映经典
-https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
+https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",太空生命高分科幻电影开播
 https://mursor.ottiptv.cc/yy/1382851586
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",奇幻电影放映厅
-https://mursor.ottiptv.cc/huya/26355847
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",奇怪电影
 https://mursor.ottiptv.cc/douyu/9440966
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",小儛电影嘚啵嘚
 https://mursor.ottiptv.cc/douyu/8362978
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",小儿难养影视剧
 https://mursor.ottiptv.cc/yy/1382735559
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",小若影视
-https://mursor.ottiptv.cc/huya/29868594
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",少年看电影
 https://mursor.ottiptv.cc/douyu/8762120
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",岳云鹏宋小宝也来演电影了
 https://mursor.ottiptv.cc/yy/1354926612
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",张小宾电影
+https://mursor.ottiptv.cc/huya/29862176
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",影视小艺
 https://mursor.ottiptv.cc/yy/1382737886
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",影视梗大叔
-https://mursor.ottiptv.cc/douyu/9480648
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",影视集装箱
-https://mursor.ottiptv.cc/douyu/8651489
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",影视插班生
+https://mursor.ottiptv.cc/huya/29882513
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",影视笑工场
+https://mursor.ottiptv.cc/douyu/10298846
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",影视铺FILMSHOP
+https://mursor.ottiptv.cc/huya/30297166
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",怪兽马提尼电影
 https://mursor.ottiptv.cc/douyu/9075333
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",怪医文三块影视剧
-https://mursor.ottiptv.cc/yy/1354936154
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",怪味爆米花电影
 https://mursor.ottiptv.cc/douyu/9422144
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",恐怖电影
@@ -2701,52 +2681,52 @@ https://mursor.ottiptv.cc/yy/24066336
 https://mursor.ottiptv.cc/huya/26355795
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",我是吃泡面看电影
 https://mursor.ottiptv.cc/douyu/8851063
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",扁豆看电影2
+https://mursor.ottiptv.cc/huya/21059623
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",指缝里看电影
 https://mursor.ottiptv.cc/douyu/9647834
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",搞笑经典电影
+https://mursor.ottiptv.cc/yy/1351537467
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",播放影视为主
 https://mursor.ottiptv.cc/yy/1353454489
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",无际电影
-https://mursor.ottiptv.cc/douyu/9720498
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",无限复活张柏芝主演爱情电影
+https://mursor.ottiptv.cc/yy/1382745190
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",有部电影儿
 https://mursor.ottiptv.cc/douyu/9736479
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",木子电影V
-https://mursor.ottiptv.cc/huya/27314057
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",末日系列外国电影合集
 https://mursor.ottiptv.cc/yy/1354889019
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",林九影视
 https://mursor.ottiptv.cc/douyu/7212528
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",林正英经典玄幻电影
-https://mursor.ottiptv.cc/yy/1462895099
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",林正英经典电影
-https://mursor.ottiptv.cc/yy/34229877
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",梦梦影视
-https://mursor.ottiptv.cc/huya/25129377
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",梦溪影视
-https://mursor.ottiptv.cc/huya/25742076
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",止戈电影
 https://mursor.ottiptv.cc/huya/19863777
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",止戈电影2
+https://mursor.ottiptv.cc/huya/29982681
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",每日好电影V
+https://mursor.ottiptv.cc/douyu/9533302
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",江苏影视
 https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=b73f8d78cfb5fb25d1b0e54e8b651db35d48ff071c6fe1f7826fcc4e6212a20ba7c8991185d03743da42bafdff874a4a03b5df60e7c2aa293ad3b34997faa082e300149433e3b1c2694909770b
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",治愈电影阳光小美女一家人的寻梦之旅
 https://mursor.ottiptv.cc/yy/1382736920
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",洛克电影
-https://mursor.ottiptv.cc/douyu/9414884
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",泡菜电影
+https://mursor.ottiptv.cc/huya/29812160
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",涛浪浪电影
 https://mursor.ottiptv.cc/douyu/5424258
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",热血动作电影
 https://mursor.ottiptv.cc/yy/1382736804
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",热血抗日电影
-https://mursor.ottiptv.cc/yy/1382749907
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",熊猫电影
 https://mursor.ottiptv.cc/douyu/3506483
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",爆笑电影王牌大贱谍23
 https://mursor.ottiptv.cc/yy/1382735556
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",爱情电影放映厅
+https://mursor.ottiptv.cc/huya/29982639
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",爱星影视
 https://mursor.ottiptv.cc/douyu/9476806
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",特辑电影院
 https://mursor.ottiptv.cc/douyu/3637778
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",猫眼电影
-https://mursor.ottiptv.cc/douyu/8726221
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",狗毛电影
+https://mursor.ottiptv.cc/douyu/9356637
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",独立鱼电影
+https://mursor.ottiptv.cc/douyu/2413555
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",玖月影视
 https://mursor.ottiptv.cc/douyu/9339251
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",珍珠港电影
@@ -2757,6 +2737,8 @@ https://mursor.ottiptv.cc/yy/37454459
 https://mursor.ottiptv.cc/douyu/9323164
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影兴风作浪系列播放
 https://mursor.ottiptv.cc/yy/1382736857
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影冷知识
+https://mursor.ottiptv.cc/douyu/9660835
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影刘油果
 https://mursor.ottiptv.cc/douyu/3985805
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影吐槽汇
@@ -2765,8 +2747,8 @@ https://mursor.ottiptv.cc/douyu/9447668
 https://mursor.ottiptv.cc/douyu/549693
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影幕后喵
 https://mursor.ottiptv.cc/douyu/8884074
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影漩涡
-https://mursor.ottiptv.cc/douyu/8706350
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影狂人A
+https://mursor.ottiptv.cc/huya/18715610
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影电影电影电影电影电影
 https://mursor.ottiptv.cc/yy/1351496216
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影百团大战
@@ -2796,7 +2778,9 @@ https://mursor.ottiptv.cc/yy/1382736809
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",经典武侠电影如来神掌
 https://mursor.ottiptv.cc/yy/1382749944
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",经典港片电影
-https://mursor.ottiptv.cc/yy/1461889059
+https://mursor.ottiptv.cc/yy/1459801818
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",经典港片轮播
+https://mursor.ottiptv.cc/huya/23865086
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",经典电影
 https://mursor.ottiptv.cc/bilibili/1777481601
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",经典电影港片枪战
@@ -2807,6 +2791,8 @@ https://mursor.ottiptv.cc/yy/1382793140
 https://mursor.ottiptv.cc/yy/1354926671
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",绝版电影港片女鬼
 https://mursor.ottiptv.cc/yy/1455988450
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",维立方电影
+https://mursor.ottiptv.cc/douyu/8706393
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",缉魂科幻悬疑电影
 https://mursor.ottiptv.cc/yy/1382745090
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",美亚电影
@@ -2821,26 +2807,32 @@ https://mursor.ottiptv.cc/douyu/3715426
 https://mursor.ottiptv.cc/douyu/8867878
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",莱纳电影
 https://mursor.ottiptv.cc/douyu/9356937
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",菲菲影视剧
+https://mursor.ottiptv.cc/huya/30671959
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",豆瓣电影
 https://live.tvfix.org/live/cmc/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",贝爷求生影视
 https://mursor.ottiptv.cc/douyu/9661369
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",贰哥电影
+https://mursor.ottiptv.cc/douyu/9338867
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",超精彩系列动作电影
 https://mursor.ottiptv.cc/yy/1382745096
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",越越爱影视
 https://mursor.ottiptv.cc/yy/1382736886
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",辟哥影视
+https://mursor.ottiptv.cc/huya/27653235
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",远去的飞鹰影视剧
 https://mursor.ottiptv.cc/yy/1354930912
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",逐梦电影
 https://mursor.ottiptv.cc/douyu/4058285
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",野山鹰影视剧
+https://mursor.ottiptv.cc/yy/1354932395
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",野格影视
 https://mursor.ottiptv.cc/douyu/9931766
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",金熊猫光影绽放中国行电影频道融媒体直播
-https://mursor.ottiptv.cc/bilibili/23333830
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",铁血影视汇
 https://mursor.ottiptv.cc/douyu/9649701
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",阿神电影
-https://mursor.ottiptv.cc/huya/29396896
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",阳阳影视
+https://mursor.ottiptv.cc/huya/29805872
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",阿苏电影
 https://mursor.ottiptv.cc/douyu/9037784
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",陪你看电影
@@ -2851,6 +2843,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",香兰爱影视
 https://mursor.ottiptv.cc/douyu/9487090
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",龙哥盘电影
+https://mursor.ottiptv.cc/douyu/9736161
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/延禧攻略.png" group-title="电视剧频道",延禧攻略
 http://182.40.120.195/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/琅琊榜.png" group-title="电视剧频道",琅琊榜
@@ -3223,8 +3217,6 @@ https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",法治天地
 https://cc06.tv12.xyz/42.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",七星关电视台
-https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",上海新闻综合
 https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=2c1df649aa4a05375c169ba80b0e1237948ea4ca1f76374295c3a13814b384753f3baf0671b15276cc4e08d3b8cc736174d9e248cc91974b4a90971bb67c1980a21d82ed456a9630f45e87f4b0
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",上海第一财经
@@ -3291,8 +3283,6 @@ https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f4906
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",成县综合
 https://play.kankanlive.com/live/1702454377323961.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",新闻综合
-https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",无锡娱乐
 https://stream.thmz.com/wxtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",无锡生活
@@ -3347,6 +3337,10 @@ https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",湖州文化娱乐
+https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",湖州新闻综合
+https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",溧水新闻综合
 https://mursor.ottiptv.cc/migu/639737327.m3u8?migutoken=ea943b4d731fe15865f6caaeaab663978aa95498ba7c40d1eef40639bcc5902335d53c5bd66345a202cd20a08b41999c4c1378c4bcc42b553b4f16ab32e95dcaaa5371e80e545ce50fe49ca87e
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",灌阳新闻综合
@@ -3721,24 +3715,14 @@ http://206.212.244.71:8080/4wVQA7/625159/159971
 http://206.212.244.71:8080/4wVQA7/625159/159970
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="国际",DREAMROOM
 http://206.212.244.71:8080/4wVQA7/625159/159976
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",ut动画
-https://mursor.ottiptv.cc/bilibili/1967507634
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",中华小当家
-https://live.metshop.top/huya/11342413
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",动画制作699零基础教学
-https://mursor.ottiptv.cc/bilibili/32104200
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",动画大师姐
-https://mursor.ottiptv.cc/douyu/9742136
+https://live.iill.top/huya/11342413
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",动画魂
 https://mursor.ottiptv.cc/douyu/9393242
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",教育鲤鱼Ace的粉丝
-https://mursor.ottiptv.cc/bilibili/1867554429
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",新人动画博主欢迎监督
-https://mursor.ottiptv.cc/bilibili/22908295
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",林小二动画
 https://mursor.ottiptv.cc/douyu/11184164
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",看动画片烤肉
-https://mursor.ottiptv.cc/bilibili/23082849
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",海绵宝宝
+https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",立秋动画
 https://mursor.ottiptv.cc/douyu/10351891
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="儿童频道",黑龙江少儿
@@ -3749,870 +3733,138 @@ https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="纪录频道",飞碟之谜02
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",五星体育
-https://migu.188766.xyz/?migutoken=71ffa78ec0f711ac9ea667fb3b8b2c9c&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",精品体育
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",2025个人斯诺克智能让分公开赛
-https://mursor.ottiptv.cc/bilibili/21670272
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",2025中国公路自行车公开赛湖北恩施站
+https://mursor.ottiptv.cc/bilibili/12567185
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",2025中式八球大师赛芷江站
 https://mursor.ottiptv.cc/bilibili/23808691
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",4T卡丁世界超级杯亚洲第一站
-https://mursor.ottiptv.cc/bilibili/11316699
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",JCK觉城之夜N104
-https://mursor.ottiptv.cc/bilibili/1746230125
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",WTT澳门冠军赛
-https://mursor.ottiptv.cc/bilibili/1982181049
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",一曲VS今夕你们知道吗
-https://mursor.ottiptv.cc/bilibili/3495557
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",主任答疑
-https://mursor.ottiptv.cc/bilibili/1791269745
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",伦巴第第二日
-https://mursor.ottiptv.cc/bilibili/27103316
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",先看多特12点半拜仁
-https://mursor.ottiptv.cc/bilibili/7969151
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",先看阿森纳再看皇马然后看意甲德比
-https://mursor.ottiptv.cc/bilibili/27406934
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",全网第二强足球博主
-https://mursor.ottiptv.cc/bilibili/1982724765
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",减肥中的二手车商
-https://mursor.ottiptv.cc/bilibili/1735948766
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",初来报道关注一下吧
-https://mursor.ottiptv.cc/bilibili/1806665542
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",别问崔康熙回来怎么办了
-https://mursor.ottiptv.cc/bilibili/27279745
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",回答问题
-https://mursor.ottiptv.cc/bilibili/25019940
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",团建团建大家可以问问新援问题
-https://mursor.ottiptv.cc/bilibili/30671017
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",大战丝之歌
-https://mursor.ottiptv.cc/bilibili/5663468
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",好运连连刮刮刮
-https://mursor.ottiptv.cc/bilibili/1903489760
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",常州VS宿迁江苏城市足球联赛
-https://mursor.ottiptv.cc/bilibili/22725392
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",德甲海登海姆vs多特蒙德
-https://mursor.ottiptv.cc/bilibili/23923452
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",是奶牛
-https://mursor.ottiptv.cc/bilibili/31650065
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",2025年全国健身锦标赛暨世界健身锦标赛
+https://mursor.ottiptv.cc/bilibili/30310921
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",2025年莲花杯中国单一品牌赛成都站
+https://mursor.ottiptv.cc/bilibili/22243136
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",CRKC2025卡丁车超级联赛武汉站
+https://mursor.ottiptv.cc/bilibili/1841611018
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",JJ斗地主
+https://live.iill.top/douyin/685317364746
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",一起运动打卡嘛
+https://mursor.ottiptv.cc/bilibili/23678353
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",不知名科技区UP主上班族周末自由跑
+https://mursor.ottiptv.cc/bilibili/1993202127
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",在家练背
+https://mursor.ottiptv.cc/bilibili/10055183
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",桥牌做庄初级
 https://mursor.ottiptv.cc/bilibili/1970747082
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",浙BA城市争霸赛舟山vs余姚
-https://mursor.ottiptv.cc/bilibili/1879294526
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",海登海姆VS多特蒙德
-https://mursor.ottiptv.cc/bilibili/26701152
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",电台伯恩茅斯布莱顿
-https://mursor.ottiptv.cc/bilibili/32047625
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",皇社vs皇马拜仁vs汉堡
-https://mursor.ottiptv.cc/bilibili/22466417
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",社恐黑皮大一新生为了吃饭豁出去了
-https://mursor.ottiptv.cc/bilibili/1728864253
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",第166天新技能get利用组间休息做饭
-https://mursor.ottiptv.cc/bilibili/24050121
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",第一次直播看下维斯塔潘
-https://mursor.ottiptv.cc/bilibili/1844045070
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",篮球上新129送39袜子
-https://mursor.ottiptv.cc/bilibili/24082977
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",维斯塔潘纽北NLS7耐力赛正赛
-https://mursor.ottiptv.cc/bilibili/23954427
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",肌肉版老公
-https://mursor.ottiptv.cc/bilibili/30676335
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",苏超联赛积分排名
-https://mursor.ottiptv.cc/bilibili/32188033
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",英超夜阿森纳纽卡热刺切尔西
-https://mursor.ottiptv.cc/bilibili/1874917070
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",萌新驾到多多指教
-https://mursor.ottiptv.cc/bilibili/1784933321
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",西甲直播皇家社会VS皇马
-https://mursor.ottiptv.cc/bilibili/701979
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",科研民工在健身房
+https://mursor.ottiptv.cc/bilibili/24290327
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",象棋布局陷阱飞刀出其不意以弱胜强
 https://mursor.ottiptv.cc/bilibili/1861371474
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",跟着村BA去旅行铸牢杯篮球邀请赛
-https://mursor.ottiptv.cc/bilibili/25876429
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",运动康复器材推荐
-https://mursor.ottiptv.cc/bilibili/14547200
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",运动第38天初始123现115116
-https://mursor.ottiptv.cc/bilibili/1750758808
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="体育频道",马可潘塔尼纪念赛
-https://mursor.ottiptv.cc/bilibili/26314254
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",00后脑出血言语训练
-https://mursor.ottiptv.cc/bilibili/22335702
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",04河南不许叫老婆
-https://mursor.ottiptv.cc/bilibili/1710484238
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",111
-https://mursor.ottiptv.cc/bilibili/1033179
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",128岁超绝御姐音在线情感指导
-https://mursor.ottiptv.cc/bilibili/21306145
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",17号说动漫
-https://mursor.ottiptv.cc/douyu/9822277
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",180大萌妹
-https://mursor.ottiptv.cc/bilibili/1898566310
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",2025万事顺遂来聊天了
-https://mursor.ottiptv.cc/bilibili/724052
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",21集制作中
-https://mursor.ottiptv.cc/bilibili/32591405
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",30岁开启养老模式
-https://mursor.ottiptv.cc/bilibili/1903488257
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",35岁丧偶生活还得继续不是吗
-https://mursor.ottiptv.cc/bilibili/1814593617
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",3D学生情感咨询
-https://mursor.ottiptv.cc/bilibili/1806666251
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",3X3代哈弗币扶贫
-https://mursor.ottiptv.cc/bilibili/8954108
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",4k解说阿森纳vs森林
-https://mursor.ottiptv.cc/bilibili/23319766
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",77说电影
-https://mursor.ottiptv.cc/douyu/9444320
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",913一周车模资讯速览
-https://mursor.ottiptv.cc/bilibili/507532
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",9月最新政策
-https://mursor.ottiptv.cc/bilibili/32269997
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",Ido漫说
-https://mursor.ottiptv.cc/douyu/9456379
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",JG影视解说
-https://mursor.ottiptv.cc/douyu/9391277
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",K会帧聊会天打会游戏修会仙
-https://mursor.ottiptv.cc/bilibili/8099142
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",LRCZDHX
-https://mursor.ottiptv.cc/bilibili/1762938952
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",Michael说大片
-https://mursor.ottiptv.cc/douyu/8841881
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",SAO东西又再说SAO话
-https://mursor.ottiptv.cc/douyu/8833450
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",X5音响介绍+闲聊HiFi
-https://mursor.ottiptv.cc/bilibili/22316267
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",Z尖临千字文拼盘
-https://mursor.ottiptv.cc/bilibili/344851
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",baby仙人
-https://mursor.ottiptv.cc/bilibili/4255533
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",106
+https://mursor.ottiptv.cc/bilibili/31084760
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",GMSR符文日速度刷起来
+https://mursor.ottiptv.cc/bilibili/8726105
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",bilibili主播的直播间
-https://mursor.ottiptv.cc/bilibili/24706078
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",dadadad
-https://mursor.ottiptv.cc/bilibili/1908058823
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",sbww
-https://mursor.ottiptv.cc/bilibili/14496966
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",sjy
-https://mursor.ottiptv.cc/bilibili/3591892
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",up主日常
-https://mursor.ottiptv.cc/bilibili/4790744
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",yaoyao说
-https://mursor.ottiptv.cc/douyu/884073
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一个成熟的b站用户
-https://mursor.ottiptv.cc/bilibili/1734608488
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一人一问答疑解惑
-https://mursor.ottiptv.cc/bilibili/1849822751
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一壶33降降火
-https://mursor.ottiptv.cc/bilibili/1947177227
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一朵老香菇解说
-https://mursor.ottiptv.cc/douyu/10050914
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一起来聊天唱歌随意上麦
-https://mursor.ottiptv.cc/bilibili/1779343752
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一起看看视频聊聊天啦周末愉快
-https://mursor.ottiptv.cc/bilibili/27352150
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一起聊天一起成长
-https://mursor.ottiptv.cc/bilibili/30581297
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一问一答
-https://mursor.ottiptv.cc/bilibili/1881912543
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",三角洲TV
-https://mursor.ottiptv.cc/bilibili/1811405448
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",上新
-https://mursor.ottiptv.cc/bilibili/27778146
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",上麦问仙仙解答
-https://mursor.ottiptv.cc/bilibili/1985117934
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",下一任桃花的信息
-https://mursor.ottiptv.cc/bilibili/32067270
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",下水道野生播间老鼠奏乐蟑螂做伴
-https://mursor.ottiptv.cc/bilibili/31027084
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",不好奇里面吗
-https://mursor.ottiptv.cc/bilibili/1890212140
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",不知道在干什么
-https://mursor.ottiptv.cc/bilibili/23438687
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",专业解答快问快答
-https://mursor.ottiptv.cc/bilibili/1882300500
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",临空吃谷专业户无盈利团开箱记录
-https://mursor.ottiptv.cc/bilibili/25245695
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",主播啥都会
-https://mursor.ottiptv.cc/bilibili/1784937189
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",丽姐说电影
-https://mursor.ottiptv.cc/douyu/9437283
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",九叔说电影v
-https://mursor.ottiptv.cc/douyu/9348282
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",习惯了被说成野孩子
-https://mursor.ottiptv.cc/bilibili/1978001213
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",二哈讲电影
-https://mursor.ottiptv.cc/douyu/8778280
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",云存档没上传重新打
-https://mursor.ottiptv.cc/bilibili/7961776
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",五周年再见远方进度001
-https://mursor.ottiptv.cc/bilibili/24208688
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",亮哥小卖部
-https://mursor.ottiptv.cc/bilibili/32559725
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",今天要赚九块九
-https://mursor.ottiptv.cc/bilibili/22348233
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",他是大佬的心尖宠剪辑ing
-https://mursor.ottiptv.cc/bilibili/23623214
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",代娱说美剧
-https://mursor.ottiptv.cc/douyu/9123570
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",伦帝电影说
-https://mursor.ottiptv.cc/douyu/9368091
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",伪音配音模仿教学
-https://mursor.ottiptv.cc/bilibili/24544133
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",伯乐说电影V
-https://mursor.ottiptv.cc/douyu/9386057
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",你哪年出生送你几句
-https://mursor.ottiptv.cc/bilibili/1912488125
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",你心中的白月光长大了
-https://mursor.ottiptv.cc/bilibili/32056016
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",你的女友在渡劫
-https://mursor.ottiptv.cc/bilibili/1955432147
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",你的日结导师
-https://mursor.ottiptv.cc/bilibili/1906043338
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",你问我答
-https://mursor.ottiptv.cc/bilibili/32408572
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",你问我答Pt20230315
-https://mursor.ottiptv.cc/bilibili/1763575728
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",侃片大师兄
-https://mursor.ottiptv.cc/douyu/9338839
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",侃片黑菠萝
-https://mursor.ottiptv.cc/douyu/5803764
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",值班聊一会吧
-https://mursor.ottiptv.cc/bilibili/31990642
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",偏瘫10年真真的
-https://mursor.ottiptv.cc/bilibili/23187506
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",做个好梦
-https://mursor.ottiptv.cc/bilibili/14693064
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",做模型奇兵棒
-https://mursor.ottiptv.cc/bilibili/604195
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",免米聊明天的剧本发展
-https://mursor.ottiptv.cc/bilibili/1920264649
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",全职码字努力赚钱
-https://mursor.ottiptv.cc/bilibili/31609345
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",公盘中标料子回来了
-https://mursor.ottiptv.cc/bilibili/27515451
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",六十一秒归零二周年amp毕业前瞻
-https://mursor.ottiptv.cc/bilibili/26670790
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",写小说
-https://mursor.ottiptv.cc/bilibili/26953409
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",军训日记
-https://mursor.ottiptv.cc/bilibili/1879185655
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",冬粮说故事
-https://mursor.ottiptv.cc/douyu/5192695
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",冷君聊大片
-https://mursor.ottiptv.cc/douyu/9666219
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",减肥么吃螺丝粉不减了
-https://mursor.ottiptv.cc/bilibili/24892375
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",切图间隙小聊一下
-https://mursor.ottiptv.cc/bilibili/2945519
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",刘老师说电影
-https://mursor.ottiptv.cc/douyu/8317926
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",初来报道关注一下吧
-https://mursor.ottiptv.cc/bilibili/1849829139
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",刮刮奖
-https://mursor.ottiptv.cc/bilibili/23798969
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",到校第14天今天成员生日
-https://mursor.ottiptv.cc/bilibili/1101253
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",北京大妈有话说er
-https://mursor.ottiptv.cc/douyu/9440530
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",十里说
-https://mursor.ottiptv.cc/douyu/9064711
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",单人实体破案游戏
-https://mursor.ottiptv.cc/bilibili/30503901
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",博然讲电影
-https://mursor.ottiptv.cc/douyu/9561992
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",卡死了开始翻译startagain
-https://mursor.ottiptv.cc/bilibili/1881085927
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",发问题新粉免费答疑解惑
-https://mursor.ottiptv.cc/bilibili/1796106482
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",古月糖看看圈圈看看感情
-https://mursor.ottiptv.cc/bilibili/31852474
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",只有六成八的准确率
-https://mursor.ottiptv.cc/bilibili/1954355971
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",可乐撩电影
-https://mursor.ottiptv.cc/douyu/9371552
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",可以说我画丑但不能说我听歌品味差
-https://mursor.ottiptv.cc/bilibili/4225123
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",史君说剧
-https://mursor.ottiptv.cc/douyu/9419771
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",同道中人
-https://mursor.ottiptv.cc/bilibili/25432953
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",听wo姐说
-https://mursor.ottiptv.cc/douyu/8830082
+https://mursor.ottiptv.cc/bilibili/1702268630
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一变二吃糖work豆豆老人家
+https://mursor.ottiptv.cc/bilibili/1774974185
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一心一意
+https://mursor.ottiptv.cc/bilibili/23892778
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",一起看灰灰final全熟day1
+https://mursor.ottiptv.cc/bilibili/7406064
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",三届全国健身气功冠军精讲+纠错八段锦
+https://mursor.ottiptv.cc/bilibili/1871979712
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",东方RTF2025怪绮谈L避弹
+https://mursor.ottiptv.cc/bilibili/31680684
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",为你解惑
+https://mursor.ottiptv.cc/bilibili/1845370871
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",京腔进来让朕ruarua
+https://mursor.ottiptv.cc/bilibili/1752664701
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",休学ing打会游戏
+https://mursor.ottiptv.cc/bilibili/1881126221
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",再不进来找人弄你
+https://mursor.ottiptv.cc/bilibili/1823575165
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",吸引力法则奇迹频率浸泡
+https://mursor.ottiptv.cc/bilibili/1814037058
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",呜呜呜
 https://mursor.ottiptv.cc/bilibili/27135282
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",周六跟粉丝随便聊聊
-https://mursor.ottiptv.cc/bilibili/22692634
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",哏老师撩电影
-https://mursor.ottiptv.cc/douyu/9991820
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",周末愉快
+https://mursor.ottiptv.cc/bilibili/1991386788
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",周末放松下
+https://mursor.ottiptv.cc/bilibili/32282383
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",和我的铁粉们聊聊吧
+https://mursor.ottiptv.cc/bilibili/26836809
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",哑巴竟然会说话
 https://mursor.ottiptv.cc/yy/1354932427
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",唐司令说电影
-https://mursor.ottiptv.cc/douyu/8774345
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",喝夜茶聊闲天
-https://mursor.ottiptv.cc/bilibili/23936241
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",喵妹说电影
-https://mursor.ottiptv.cc/douyu/9312432
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",嘻嘻你来啦
-https://mursor.ottiptv.cc/bilibili/3207795
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",回家了直播一下
-https://mursor.ottiptv.cc/bilibili/25648452
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",国学免米一问
-https://mursor.ottiptv.cc/bilibili/6374829
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",国学文化实战派
-https://mursor.ottiptv.cc/bilibili/1991389425
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",在线修电脑帮助新手更好的使用电脑
-https://mursor.ottiptv.cc/bilibili/1894645516
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",坚决挂机拒不整改
-https://mursor.ottiptv.cc/bilibili/7262595
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",塔塔感情or闲聊
-https://mursor.ottiptv.cc/bilibili/32117223
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",塔罗情感解答首问免米
-https://mursor.ottiptv.cc/bilibili/1805409410
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",塔罗情感首关免一
-https://mursor.ottiptv.cc/bilibili/1728489687
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",塔罗看情感解惑聊天
-https://mursor.ottiptv.cc/bilibili/6635814
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",大学生军训后躺平生活
-https://mursor.ottiptv.cc/bilibili/1764694404
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",大家都说又来回购了
-https://mursor.ottiptv.cc/bilibili/21448335
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",大闹狗头人们坩埚
-https://mursor.ottiptv.cc/bilibili/32424507
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",大魔王动漫解说
-https://mursor.ottiptv.cc/douyu/9963128
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",大魔王说游
-https://mursor.ottiptv.cc/douyu/10415661
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",奇瑞月怎么选底价参考
-https://mursor.ottiptv.cc/bilibili/25105293
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",女汉子说电影
-https://mursor.ottiptv.cc/douyu/9395966
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",女神撩电影
-https://mursor.ottiptv.cc/douyu/9439594
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",好久不见
-https://mursor.ottiptv.cc/bilibili/67018
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",好像视说故事
-https://mursor.ottiptv.cc/douyu/8891883
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",好无聊来聊天
-https://mursor.ottiptv.cc/bilibili/1702267545
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",婚恋市场成女儿国男生成抢手货
-https://mursor.ottiptv.cc/bilibili/9056704
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",学习工作背景音乐247自习室
-https://mursor.ottiptv.cc/bilibili/27519423
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",宇哥讲电影
-https://mursor.ottiptv.cc/douyu/2104744
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",安小闫说电影x
-https://mursor.ottiptv.cc/douyu/1842621
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",宝宝想我了没有
-https://mursor.ottiptv.cc/bilibili/11252446
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",奇迹丝滑展开提问无偿解读
+https://mursor.ottiptv.cc/bilibili/32097340
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",实时占卜情感杂谈
-https://mursor.ottiptv.cc/bilibili/1742805418
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",宿舍大头直播之苦逼打工
-https://mursor.ottiptv.cc/bilibili/12182496
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",将军侃片
-https://mursor.ottiptv.cc/douyu/8529736
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小丽说电影
-https://mursor.ottiptv.cc/douyu/9368016
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小乔讲电影
-https://mursor.ottiptv.cc/douyu/8413908
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小司马说剧
-https://mursor.ottiptv.cc/douyu/9660127
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小嘬嘴大课堂
-https://mursor.ottiptv.cc/bilibili/22544816
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小天蝎塔罗情感疗愈
-https://mursor.ottiptv.cc/bilibili/1735944019
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小岛讲电影
-https://mursor.ottiptv.cc/douyu/9390955
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小浅说电影
-https://mursor.ottiptv.cc/douyu/9665834
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小涛讲电影V
-https://mursor.ottiptv.cc/douyu/8415464
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小片片说大片
-https://mursor.ottiptv.cc/douyu/4258555
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小说作者码字日常
-https://mursor.ottiptv.cc/bilibili/32485207
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小超讲电影
-https://mursor.ottiptv.cc/douyu/3432645
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小陶气说动漫
-https://mursor.ottiptv.cc/douyu/9527700
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",小马哥说电影
-https://mursor.ottiptv.cc/douyu/9396672
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",就是你想的那样
-https://mursor.ottiptv.cc/bilibili/1702263369
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",崔子该播什么
-https://mursor.ottiptv.cc/bilibili/1784930803
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",崽崽撩电影
-https://mursor.ottiptv.cc/douyu/8325511
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",已帮数万家庭走出幸福
-https://mursor.ottiptv.cc/bilibili/1904412315
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",已知艺术家漫画解说
-https://mursor.ottiptv.cc/douyu/5907076
+https://mursor.ottiptv.cc/bilibili/1786564943
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",川渝妹儿温柔得很
+https://mursor.ottiptv.cc/bilibili/27239579
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",工作中
+https://mursor.ottiptv.cc/bilibili/1764696684
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",已锁99天
 https://mursor.ottiptv.cc/bilibili/1833994059
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",巴山的夜
-https://mursor.ottiptv.cc/bilibili/25640042
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",带完团快乐的打空洞骑士希望不哀嚎版
-https://mursor.ottiptv.cc/bilibili/1861784252
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",幕撩电影
-https://mursor.ottiptv.cc/douyu/9486015
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",强人说笑
-https://mursor.ottiptv.cc/douyu/10329713
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",微笑影视解说
-https://mursor.ottiptv.cc/douyu/9476790
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",心易谈快来看看ta的心意
-https://mursor.ottiptv.cc/bilibili/1064165
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",忙写作业自己聊
-https://mursor.ottiptv.cc/bilibili/11244252
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",快哥说老片
-https://mursor.ottiptv.cc/douyu/10411518
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",恁咋不早说俺画画没天赋
-https://mursor.ottiptv.cc/bilibili/25406937
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感咨询治愈系蜡烛
-https://mursor.ottiptv.cc/bilibili/25311258
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感咨询牌首播
-https://mursor.ottiptv.cc/bilibili/1712961688
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感咨询茶水随缘进来看
-https://mursor.ottiptv.cc/bilibili/1852352040
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",恋琴
+https://mursor.ottiptv.cc/bilibili/1839980099
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感塔罗
-https://mursor.ottiptv.cc/bilibili/1871979009
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感塔罗免米2张
-https://mursor.ottiptv.cc/bilibili/1809233405
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感塔罗我会出手
-https://mursor.ottiptv.cc/bilibili/1854311320
+https://mursor.ottiptv.cc/bilibili/1707009371
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感塔罗紫薇星盘专业解惑准是基础
+https://mursor.ottiptv.cc/bilibili/31529735
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感塔罗问答
 https://mursor.ottiptv.cc/bilibili/1991385216
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感塔罗首关加赞免费一问简答
-https://mursor.ottiptv.cc/bilibili/21125423
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感大师在线玩捞女游戏
-https://mursor.ottiptv.cc/bilibili/22165472
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",情感答疑解惑紫薇星cp玄幻小说瓜
-https://mursor.ottiptv.cc/bilibili/21552266
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",想的那样隐藏丸
-https://mursor.ottiptv.cc/bilibili/1702264155
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",愉快大乱斗
-https://mursor.ottiptv.cc/bilibili/13084953
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",感性小奶仙在线开包
-https://mursor.ottiptv.cc/bilibili/1777408105
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",我去睡过头了要军训了
-https://mursor.ottiptv.cc/bilibili/484556
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",我妈说抽一个当女婿
-https://mursor.ottiptv.cc/bilibili/1981535160
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",我的画真的很无聊没有人愿意看
-https://mursor.ottiptv.cc/bilibili/1884459315
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",户晨风提督Emo总在线分析户晨风直播
-https://mursor.ottiptv.cc/bilibili/31964414
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",户晨风直播二台
-https://mursor.ottiptv.cc/bilibili/22196338
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",手工日常
-https://mursor.ottiptv.cc/bilibili/11630200
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",打劫挣点零花钱
-https://mursor.ottiptv.cc/bilibili/359539
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",抽风半夜加班
-https://mursor.ottiptv.cc/bilibili/26496686
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",挑战看完自己所有的视频
-https://mursor.ottiptv.cc/bilibili/23536590
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",据说放映室
-https://mursor.ottiptv.cc/douyu/8837964
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",探索未来
-https://mursor.ottiptv.cc/bilibili/23260632
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",摄像头07反差喷了会哭
-https://mursor.ottiptv.cc/bilibili/1784937186
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",摄像头超好看就是你想的那样
-https://mursor.ottiptv.cc/bilibili/1883015472
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",摆摊摆摊
-https://mursor.ottiptv.cc/bilibili/1883011676
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",摸金校尉搬山倒斗
-https://mursor.ottiptv.cc/bilibili/614439
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",摸鱼
-https://mursor.ottiptv.cc/bilibili/1968483685
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",播播小马内容同人音乐正剧
-https://mursor.ottiptv.cc/bilibili/21463726
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",播着玩的
-https://mursor.ottiptv.cc/bilibili/5327141
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",收容禁止上舰
-https://mursor.ottiptv.cc/bilibili/21282867
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",攻城狮
-https://mursor.ottiptv.cc/bilibili/5678381
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",敌报电台0913
-https://mursor.ottiptv.cc/bilibili/1796100127
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",文玩核桃全品无修精品
-https://mursor.ottiptv.cc/bilibili/25929816
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",新V和封面一样
-https://mursor.ottiptv.cc/bilibili/1805409497
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",新V爸妈是否会夺舍子女
-https://mursor.ottiptv.cc/bilibili/22314755
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",新粉免米
-https://mursor.ottiptv.cc/bilibili/31079307
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",新粉无偿
-https://mursor.ottiptv.cc/bilibili/32678309
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",新粉赠送一对一
-https://mursor.ottiptv.cc/bilibili/1820701295
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",新视角解说
-https://mursor.ottiptv.cc/douyu/8813254
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",无声多邻国可能会聊天
-https://mursor.ottiptv.cc/bilibili/13367636
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",无聊
-https://mursor.ottiptv.cc/bilibili/1952677309
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",无聊莫过于上色十一点就下播吧
-https://mursor.ottiptv.cc/bilibili/60641
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",日常摸点啥摸摸故事剧本
-https://mursor.ottiptv.cc/bilibili/6033638
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",日常聊天
-https://mursor.ottiptv.cc/bilibili/1829188351
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",易说影视
-https://mursor.ottiptv.cc/douyu/10859591
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",星引擎随机折磨路人队友
-https://mursor.ottiptv.cc/bilibili/1784936167
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",星火红莲延绵不息
-https://mursor.ottiptv.cc/bilibili/1895739516
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",是是但但是撚但播下
-https://mursor.ottiptv.cc/bilibili/1829733643
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",显卡拆解保养
-https://mursor.ottiptv.cc/bilibili/27337360
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",晓晓说电影
-https://mursor.ottiptv.cc/douyu/9430717
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",晓麦讲电影
-https://mursor.ottiptv.cc/douyu/453963
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",晚上好
-https://mursor.ottiptv.cc/bilibili/31905613
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",曼奇主讲改图诊疗室
-https://mursor.ottiptv.cc/bilibili/25271641
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",最终还是开始做作业了
-https://mursor.ottiptv.cc/bilibili/1951545060
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",有点想求疼
-https://mursor.ottiptv.cc/bilibili/1784932749
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",期初烤焙烤
-https://mursor.ottiptv.cc/bilibili/1857891726
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",末日说电影
-https://mursor.ottiptv.cc/douyu/9431125
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",想和你谈一场永不分离的恋爱
+https://mursor.ottiptv.cc/bilibili/27751761
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",打烤的mai批真的是
+https://mursor.ottiptv.cc/bilibili/12541925
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",李家观观全职塔罗情感疗愈首关免一问
 https://mursor.ottiptv.cc/bilibili/1852501680
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",来听相声
-https://mursor.ottiptv.cc/bilibili/30199366
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",来看b站喷了会哭
-https://mursor.ottiptv.cc/bilibili/1702266883
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",来者皆有缘
-https://mursor.ottiptv.cc/bilibili/1887787398
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",来聊天吧
-https://mursor.ottiptv.cc/bilibili/1724231317
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",松轩说电影
-https://mursor.ottiptv.cc/douyu/1524969
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",板绘新手练习中
-https://mursor.ottiptv.cc/bilibili/27822951
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",梓帆说电影
-https://mursor.ottiptv.cc/douyu/9769563
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",楚哥说电影
-https://mursor.ottiptv.cc/douyu/9375743
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",每人2问理性思维
-https://mursor.ottiptv.cc/bilibili/32720505
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",每周一播
-https://mursor.ottiptv.cc/bilibili/24484204
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",每天免米10位
-https://mursor.ottiptv.cc/bilibili/1914280241
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",毛播来聊聊
-https://mursor.ottiptv.cc/bilibili/1939022028
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",水晶镯子聊天场
-https://mursor.ottiptv.cc/bilibili/30674911
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",永久裸辞随便聊
-https://mursor.ottiptv.cc/bilibili/26188314
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",汉化软件
-https://mursor.ottiptv.cc/bilibili/15114028
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",汪哥说电影
-https://mursor.ottiptv.cc/douyu/9312685
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",没说完的话没过完的夏
-https://mursor.ottiptv.cc/bilibili/1986468724
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",泽野堂堂复活
-https://mursor.ottiptv.cc/bilibili/1908905470
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",浩贤说电影
-https://mursor.ottiptv.cc/douyu/10535867
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",淋异故事时间
-https://mursor.ottiptv.cc/bilibili/21634386
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",深圳广州比亚迪团购直播聊聊钛7钛7
-https://mursor.ottiptv.cc/bilibili/1946280762
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",深夜码字回
-https://mursor.ottiptv.cc/bilibili/1794704916
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",深夜聊天室可以点歌
-https://mursor.ottiptv.cc/bilibili/12977028
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",源头工厂在线教你怎么选购产品
-https://mursor.ottiptv.cc/bilibili/9826783
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",漫画解说
 https://mursor.ottiptv.cc/yy/1382735568
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",火龙果讲电影本人
-https://mursor.ottiptv.cc/douyu/2039501
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",火龙果说电影
-https://mursor.ottiptv.cc/douyu/9559158
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",灵佑奇谈
-https://mursor.ottiptv.cc/douyu/9678207
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",爱讲神话的小志
-https://mursor.ottiptv.cc/douyu/9495613
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",牛叔说电影
-https://mursor.ottiptv.cc/douyu/2758565
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",牛叔说电影二台
-https://mursor.ottiptv.cc/douyu/10010651
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",特摄正义的象征神鹰人全24话结局
-https://mursor.ottiptv.cc/bilibili/939703
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",状态火热需要你
-https://mursor.ottiptv.cc/bilibili/1912483182
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",狂野的种马小说家
-https://mursor.ottiptv.cc/douyu/8849703
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",猜猜今天谁值班
-https://mursor.ottiptv.cc/bilibili/31830703
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",猫叔说电影
-https://mursor.ottiptv.cc/douyu/9820039
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",猫猫配猫猫有没有说法呢
-https://mursor.ottiptv.cc/bilibili/1861782091
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",猴博士爱讲课V
-https://mursor.ottiptv.cc/douyu/8799739
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",王坑坑聊电影
-https://mursor.ottiptv.cc/douyu/9402110
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",王子成激情解说马蛋vs炕炕
-https://mursor.ottiptv.cc/bilibili/11251647
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",玩
-https://mursor.ottiptv.cc/bilibili/10943663
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",玩会儿游戏
-https://mursor.ottiptv.cc/bilibili/545260
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",现在是中象爱好者环节
-https://mursor.ottiptv.cc/bilibili/11967249
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",用户3493111131015223的直播间
-https://mursor.ottiptv.cc/bilibili/1903484066
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",画会闲聊
-https://mursor.ottiptv.cc/bilibili/23050508
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",画图看视频
-https://mursor.ottiptv.cc/bilibili/932552
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",画画玩游戏听音乐小马聊天室
-https://mursor.ottiptv.cc/bilibili/1863470308
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",画画速写聊天
-https://mursor.ottiptv.cc/bilibili/1122347
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",电脑坏了人麻了
+https://mursor.ottiptv.cc/bilibili/2956095
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",画画聊天挑战
+https://mursor.ottiptv.cc/bilibili/27769853
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",百家讲坛之女皇武则天
 https://mursor.ottiptv.cc/yy/1354889015
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",百家讲坛之明太祖朱元璋
 https://mursor.ottiptv.cc/yy/1354936149
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",百家讲坛红楼梦篇
 https://mursor.ottiptv.cc/yy/1382741639
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",直播发呆
-https://mursor.ottiptv.cc/bilibili/571061
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",直播圣体
-https://mursor.ottiptv.cc/bilibili/24535666
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",看数字选择搭几
-https://mursor.ottiptv.cc/bilibili/1753194001
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",看自己的另一半感情
-https://mursor.ottiptv.cc/bilibili/1794046069
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",睡不着觉真是个事儿
-https://mursor.ottiptv.cc/bilibili/30049496
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",磕cp娱乐吃瓜聊天陪伴
-https://mursor.ottiptv.cc/bilibili/24516287
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",神之传说sh
-https://mursor.ottiptv.cc/douyu/9370168
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",神羊说电影
-https://mursor.ottiptv.cc/douyu/9443552
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",禄M鉴宝
-https://mursor.ottiptv.cc/bilibili/23677429
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",立夏的雪听歌闲聊玩魔方
-https://mursor.ottiptv.cc/bilibili/21750251
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",童乐说电影
-https://mursor.ottiptv.cc/douyu/9660704
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",笑死我了
-https://mursor.ottiptv.cc/bilibili/27149040
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",第五届中医学批斗大会
-https://mursor.ottiptv.cc/bilibili/30897517
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",第四次重新梳理乐理今日调式
-https://mursor.ottiptv.cc/bilibili/24193410
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",等一个牛马连麦分享工作状态
-https://mursor.ottiptv.cc/bilibili/1750975087
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",答疑解惑直播间
-https://mursor.ottiptv.cc/bilibili/22418753
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",简单解答一下世间万物
-https://mursor.ottiptv.cc/bilibili/140205
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",粤语甜妹
-https://mursor.ottiptv.cc/bilibili/27167784
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",素颜
-https://mursor.ottiptv.cc/bilibili/30862649
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",红宝第十一次集邮聚聚2778来啵啵
-https://mursor.ottiptv.cc/bilibili/1809235902
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",练琴今晚10点琦谈
-https://mursor.ottiptv.cc/bilibili/22088045
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",绘说篮球C
-https://mursor.ottiptv.cc/douyu/9401305
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",绝美紫黄晶
-https://mursor.ottiptv.cc/bilibili/23302103
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",缘深我度你缘浅也助你信任第一位
-https://mursor.ottiptv.cc/bilibili/1777405006
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",罗叔说戏
-https://mursor.ottiptv.cc/douyu/9788756
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",美美开播
-https://mursor.ottiptv.cc/bilibili/22188468
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",老V三体人直播
-https://mursor.ottiptv.cc/bilibili/2499960
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",老张来点心理按摩
-https://mursor.ottiptv.cc/bilibili/23568505
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",老邪说电影
-https://mursor.ottiptv.cc/douyu/9222870
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",聊个天素的
-https://mursor.ottiptv.cc/bilibili/30961177
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",聊天可以帮大家解答一下一些画画上的疑惑
-https://mursor.ottiptv.cc/bilibili/21689232
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",聊天解惑
-https://mursor.ottiptv.cc/bilibili/32655711
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",聊聊武汉楼盘怎么避坑
-https://mursor.ottiptv.cc/bilibili/1851651518
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",聊胖球STP宝宝请绕行谢谢
-https://mursor.ottiptv.cc/bilibili/1993205972
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",胖胖龙吃播中
-https://mursor.ottiptv.cc/bilibili/26983044
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",自有到来风
-https://mursor.ottiptv.cc/bilibili/23959380
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",芳芳说故事
-https://mursor.ottiptv.cc/douyu/9401905
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",菇菇说过
-https://mursor.ottiptv.cc/douyu/8788687
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",米业红线
+https://mursor.ottiptv.cc/bilibili/1883622349
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",粗发打球
+https://mursor.ottiptv.cc/bilibili/23855360
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",考研考编考公学习学习
+https://mursor.ottiptv.cc/bilibili/1916951151
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",聊聊冲撞看看天
+https://mursor.ottiptv.cc/bilibili/9037800
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",聊聊天CTA动画
+https://mursor.ottiptv.cc/bilibili/1995133342
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",能不能复合
+https://mursor.ottiptv.cc/bilibili/1914288147
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",萌新驾到多多指教
-https://mursor.ottiptv.cc/bilibili/1791359694
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",董事长不要吃了反正热度也不在了
-https://mursor.ottiptv.cc/bilibili/32477804
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",虫哥说电影
-https://mursor.ottiptv.cc/douyu/8915074
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",蛋黄讲动漫
-https://mursor.ottiptv.cc/douyu/9542834
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",衣柜哥实木定制讲解视频
-https://mursor.ottiptv.cc/bilibili/23591525
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",被父亲强迫开直播
-https://mursor.ottiptv.cc/bilibili/1852873494
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",西施撩电影
-https://mursor.ottiptv.cc/douyu/7532080
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",要来测测么包看的
-https://mursor.ottiptv.cc/bilibili/26161651
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",解答
-https://mursor.ottiptv.cc/bilibili/1916955257
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",解答提桶跑路
-https://mursor.ottiptv.cc/bilibili/4995340
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",解答问题
-https://mursor.ottiptv.cc/bilibili/31743158
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",解说皇马
-https://mursor.ottiptv.cc/bilibili/24078537
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",让你见识一下什么叫真正的上位者
-https://mursor.ottiptv.cc/bilibili/1887153148
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",让正妹倒追你的人性密码
-https://mursor.ottiptv.cc/bilibili/7846039
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",讲故事的角马
-https://mursor.ottiptv.cc/douyu/4400816
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",讲解养龟问题
-https://mursor.ottiptv.cc/bilibili/27394230
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",说笑武林
-https://mursor.ottiptv.cc/douyu/10329706
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",说说电影故事
-https://mursor.ottiptv.cc/douyu/9444627
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",谁家主播拉着舰长聊通宵啊喂
-https://mursor.ottiptv.cc/bilibili/30292856
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",谁来打扰我我就会停下来和他玩
-https://mursor.ottiptv.cc/bilibili/623413
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",谁说四川没有甜妹
-https://mursor.ottiptv.cc/bilibili/1978981789
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",调侃贫道XIN版
-https://mursor.ottiptv.cc/douyu/9463586
+https://mursor.ottiptv.cc/bilibili/1862088680
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",诚信丶三哥解说26842
+https://mursor.ottiptv.cc/huya/594913
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",说话和画画或游戏
+https://mursor.ottiptv.cc/bilibili/1945807242
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",谈判专家
 https://mursor.ottiptv.cc/yy/1382735560
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",谨慎乐观战争一触即发
-https://mursor.ottiptv.cc/bilibili/22287318
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",豆客解说
-https://mursor.ottiptv.cc/douyu/8883122
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",赛马娘小说一天两更上推荐不是梦
-https://mursor.ottiptv.cc/bilibili/22781165
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",跟你断联的那个人有没有想你法师有问必答
-https://mursor.ottiptv.cc/bilibili/1898563733
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",跟胡老师密室逃脱
-https://mursor.ottiptv.cc/bilibili/1843667351
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",跨服聊天
-https://mursor.ottiptv.cc/bilibili/10609304
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",辰哥说电影
-https://mursor.ottiptv.cc/douyu/9371407
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",边吃边聊
-https://mursor.ottiptv.cc/bilibili/25340251
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",这么美我不说你们看
-https://mursor.ottiptv.cc/bilibili/31265622
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",这就是老二次元的实力
-https://mursor.ottiptv.cc/bilibili/12937039
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",这是一个特别卡顿的直播间
-https://mursor.ottiptv.cc/bilibili/1740577162
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",进来看笨蛋
-https://mursor.ottiptv.cc/bilibili/24396956
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",进来给我拿2w
-https://mursor.ottiptv.cc/bilibili/1863479009
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",进来聊十块钱的
-https://mursor.ottiptv.cc/bilibili/1862084506
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",连麦点
-https://mursor.ottiptv.cc/bilibili/1894728518
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",逍遥姐姐小课堂
-https://mursor.ottiptv.cc/bilibili/30319092
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",逗米说电影
-https://mursor.ottiptv.cc/douyu/421222
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",遇事可问
-https://mursor.ottiptv.cc/bilibili/3651636
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",酷酷迪大冒险
-https://mursor.ottiptv.cc/bilibili/8949829
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",金熊猫光影绽放中国行
-https://mursor.ottiptv.cc/bilibili/2874680
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",遇事不决可来问策
+https://mursor.ottiptv.cc/bilibili/1833441443
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",钟馗传说
 https://mursor.ottiptv.cc/yy/1382736839
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",钱小元说电影
-https://mursor.ottiptv.cc/douyu/9368265
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",锋哥聊商机
-https://mursor.ottiptv.cc/douyu/9472141
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",锐评万物
-https://mursor.ottiptv.cc/bilibili/9697033
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",问旋国学
-https://mursor.ottiptv.cc/bilibili/1841883739
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",问问题学疗愈
-https://mursor.ottiptv.cc/bilibili/1995463002
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",问题咨询情感个人
-https://mursor.ottiptv.cc/bilibili/23803549
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",阎君说剧
-https://mursor.ottiptv.cc/douyu/10475459
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",阿尔法脑波音乐疗伤
-https://mursor.ottiptv.cc/bilibili/26786240
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",阿木讲电影
-https://mursor.ottiptv.cc/douyu/532050
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",阿松撩剧
-https://mursor.ottiptv.cc/douyu/8880843
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",阿涩随便聊聊
-https://mursor.ottiptv.cc/bilibili/1890217674
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",随便唠唠
-https://mursor.ottiptv.cc/bilibili/22501862
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",陪伴局
+https://mursor.ottiptv.cc/bilibili/1809423547
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",随便播
 https://mursor.ottiptv.cc/bilibili/1922172571
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",随便玩点不知道让不让播
-https://mursor.ottiptv.cc/bilibili/595258
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",随便聊聊
-https://mursor.ottiptv.cc/bilibili/21176640
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",随喜问事
-https://mursor.ottiptv.cc/bilibili/3815958
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",随喜问问题
-https://mursor.ottiptv.cc/bilibili/1883014903
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",随缘进
-https://mursor.ottiptv.cc/bilibili/1908325728
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",青年养老小院闲聊
-https://mursor.ottiptv.cc/bilibili/3742984
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",预制菜和预加工你们分的清么
-https://mursor.ottiptv.cc/bilibili/31980904
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",飞碟说官方
-https://mursor.ottiptv.cc/douyu/1449125
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",飞行员欧文讲故事
-https://mursor.ottiptv.cc/douyu/9678790
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",食品安全领先世界100年
-https://mursor.ottiptv.cc/bilibili/1960958772
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",首关免米情感塔罗看他想复合吗
-https://mursor.ottiptv.cc/bilibili/32730675
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",首关优惠塔罗6年经验恋爱
+https://mursor.ottiptv.cc/bilibili/22383341
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",首关情感解惑
+https://mursor.ottiptv.cc/bilibili/32129529
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",首次开播请多关照
-https://mursor.ottiptv.cc/bilibili/1844042783
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",首问免米浅聊国学
-https://mursor.ottiptv.cc/bilibili/23110085
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",驴哥说电影
-https://mursor.ottiptv.cc/douyu/5376478
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",鲨说电影
-https://mursor.ottiptv.cc/douyu/9544628
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",鸟窝摄影版
-https://mursor.ottiptv.cc/bilibili/1329228
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",鸡哥聊电影
-https://mursor.ottiptv.cc/douyu/5067952
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",鹏友说电影
-https://mursor.ottiptv.cc/douyu/9445244
+https://mursor.ottiptv.cc/bilibili/1912481867
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="直播中国",中央电视塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="直播中国",中央电视塔南
@@ -4763,7 +4015,7 @@ https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="直播中国",黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="更新时间",2025-09-14 00:37:52
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="更新时间",2025-09-14 12:32:52
 https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视高清",CCTV1
 https://migu.188766.xyz/?migutoken=6598d13b64b01bf74fc04c13b92b9cb6&id=CCTV1&pp=1
