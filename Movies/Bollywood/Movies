@@ -24,34 +24,10 @@
     "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
   },
   {
-    "name": "Jalsa Movies Hd",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png"
-  },
-  {
-    "name": "Colors Bangla Cinema",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
-  },
-  {
-    "name": "Colors",
-    "type": "Live Tv",
-    "url": "http://195.181.169.162/COLORS_HD/index.m3u8?token=test",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
-  },
-  {
     "name": "Deepto TV",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
     "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
-  },
-  {
-    "name": "Star Gold HD",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Sangeet Bangla",
@@ -60,9 +36,27 @@
     "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
+    "name": "Colors",
+    "type": "Live Tv",
+    "url": "http://195.181.169.162/COLORS_HD/index.m3u8?token=test",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
+  },
+  {
     "name": "zee bangla cinema",
     "type": "Live Tv",
     "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Colors Bangla Cinema",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
+  },
+  {
+    "name": "Star Gold HD",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Star-Gold/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -72,16 +66,16 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
   },
   {
+    "name": "Jalsa Movies Hd",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png"
+  },
+  {
     "name": "& picture hd",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8",
     "img": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp"
-  },
-  {
-    "name": "Star Plus HD",
-    "type": "Live Tv",
-    "url": "https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3070",
-    "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
   },
   {
     "name": "Hum TV",
@@ -96,6 +90,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "PTV Sports",
+    "type": "Live Tv",
+    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
+  },
+  {
     "name": "Motu Patlu",
     "type": "Live Tv",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
@@ -106,11 +106,5 @@
     "type": "Live Tv",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "PTV Sports",
-    "type": "Live Tv",
-    "url": "http://filex.me:8080/live/444476/444476/453434.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHnj7BX8yGPS5qGWeme3Q_1uD_h7iSFmk03g&s"
   }
 ]
