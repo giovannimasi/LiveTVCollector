@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-18 21:39:49",
+  "date": "2025-09-19 06:10:41",
   "channels": {
     "Uncategorized": [
       {
@@ -10534,13 +10534,6 @@
         "url": "https://ls.qingting.fm/live/1885/64k.m3u8"
       },
       {
-        "name": "北京新闻",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8"
-      },
-      {
         "name": "北京生活",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10903,13 +10896,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8"
-      },
-      {
-        "name": "湖州文化娱乐",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887"
       },
       {
         "name": "溧水新闻综合",
@@ -13006,11 +12992,11 @@
     ],
     "儿童频道": [
       {
-        "name": "海绵宝宝",
+        "name": "中华小当家",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.metshop.top/douyu/3949681"
+        "url": "https://live.metshop.top/huya/11342413"
       },
       {
         "name": "黑龙江少儿",
@@ -13050,13 +13036,6 @@
         "group": "体育频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8"
-      },
-      {
-        "name": "JJ斗地主",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.iill.top/douyin/685317364746"
       }
     ],
     "解说频道": [
@@ -13065,7 +13044,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://yylunbo.ottiptv.cc/yy/1382735568"
+        "url": "https://mursor.ottiptv.cc/yy/1382735568"
       }
     ],
     "游戏频道": [
@@ -13606,7 +13585,7 @@
     ],
     "更新时间": [
       {
-        "name": "2025-09-18 18:26:56",
+        "name": "2025-09-19 00:25:36",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "更新时间",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",

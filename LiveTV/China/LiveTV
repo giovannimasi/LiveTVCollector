@@ -8994,12 +8994,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "北京新闻",
-    "type": "地方频道",
-    "url": "https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "北京生活",
     "type": "地方频道",
     "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio",
@@ -9309,12 +9303,6 @@
     "name": "清河经济综艺",
     "type": "地方频道",
     "url": "https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "湖州文化娱乐",
-    "type": "地方频道",
-    "url": "https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11106,9 +11094,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "海绵宝宝",
+    "name": "中华小当家",
     "type": "儿童频道",
-    "url": "https://live.metshop.top/douyu/3949681",
+    "url": "https://live.metshop.top/huya/11342413",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11142,15 +11130,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "JJ斗地主",
-    "type": "体育频道",
-    "url": "https://live.iill.top/douyin/685317364746",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "漫画解说",
     "type": "解说频道",
-    "url": "https://yylunbo.ottiptv.cc/yy/1382735568",
+    "url": "https://mursor.ottiptv.cc/yy/1382735568",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11610,7 +11592,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "2025-09-18 18:26:56",
+    "name": "2025-09-19 00:25:36",
     "type": "更新时间",
     "url": "https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
