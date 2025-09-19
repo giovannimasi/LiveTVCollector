@@ -554,7 +554,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiNjcyYWQyNTMtNTRmMi00MTU2LWE4YzMtM2E3YWEwNTU0YWFjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiY2VhYTRkM2QtZmU0YS00MDM1LWEwYWItODk4NDlhODJlMGY0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -590,7 +590,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYTc1NTI1N2ItZTMzYS00NTcxLWJlNDYtMTQ1ZGVjYjNmODhlIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYmZjMWJlN2YtZDY0OC00NTljLWIxNjYtMzBjYTBlN2U3MTNmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2408,7 +2408,7 @@
   {
     "name": "CINECANAL",
     "type": "CINE Y SERIES",
-    "url": "http://45.5.119.43:4000/play/a0hq/index.m3u8",
+    "url": "http://190.60.33.245:4002/play/a1hz/index.m3u8",
     "img": "https://i.ibb.co/tYK9Prg/cinecanal.png"
   },
   {
@@ -2516,25 +2516,25 @@
   {
     "name": "DHE",
     "type": "CINE Y SERIES",
-    "url": "http://190.60.33.245:4002/play/a1kb/index.m3u8 dhe",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/121.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png"
   },
   {
     "name": "FX",
     "type": "CINE Y SERIES",
-    "url": "http://200.60.124.19:29000/play/a029/index.m3u8",
+    "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/195152.m3u",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png"
   },
   {
     "name": "GOLDEN",
     "type": "CINE Y SERIES",
-    "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8",
+    "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/195974.m3u",
     "img": "https://cdn.mitvstatic.com/channels/cl_golden_m.png"
   },
   {
     "name": "GOLDEN EDGE",
     "type": "CINE Y SERIES",
-    "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278481.m3u8",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/65218.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png"
   },
   {
@@ -3070,6 +3070,60 @@
     "type": "24/7",
     "url": "http://user.tvcluboficial.com/live/m/m/357.m3u8",
     "img": "http://x.playerlatino.live/lossimpsons.png"
+  },
+  {
+    "name": "Bones",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919",
+    "img": "https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png"
+  },
+  {
+    "name": "Cinema - Parodias",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94978",
+    "img": "https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png"
+  },
+  {
+    "name": "Cinema 4K",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/95608",
+    "img": "https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png"
+  },
+  {
+    "name": "CSI Miami",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94924",
+    "img": "https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png"
+  },
+  {
+    "name": "Detective Conan",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94892",
+    "img": "https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png"
+  },
+  {
+    "name": "Hawaii 5.0",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94929",
+    "img": "https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png"
+  },
+  {
+    "name": "Shameless",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94865",
+    "img": "https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png"
+  },
+  {
+    "name": "The Big Bang Theory",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867",
+    "img": "https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png"
+  },
+  {
+    "name": "The Fresh Prince of Bel Air",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868",
+    "img": "https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png"
   },
   {
     "name": "El Superagente 86",

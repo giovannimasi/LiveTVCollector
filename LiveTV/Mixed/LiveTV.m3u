@@ -184,7 +184,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="documentari",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Euronews IN DIRETTA
-https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiNjcyYWQyNTMtNTRmMi00MTU2LWE4YzMtM2E3YWEwNTU0YWFjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiY2VhYTRkM2QtZmU0YS00MDM1LWEwYWItODk4NDlhODJlMGY0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Urania News
@@ -196,7 +196,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Africanews
-https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYTc1NTI1N2ItZTMzYS00NTcxLWJlNDYtMTQ1ZGVjYjNmODhlIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYmZjMWJlN2YtZDY0OC00NTljLWIxNjYtMzBjYTBlN2U3MTNmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",NewsWorld
@@ -802,7 +802,7 @@ http://199.127.63.143:8989/278394_.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="CINE Y SERIES",AZCINEMA
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278465.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tYK9Prg/cinecanal.png" group-title="CINE Y SERIES",CINECANAL
-http://45.5.119.43:4000/play/a0hq/index.m3u8
+http://190.60.33.245:4002/play/a1hz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/72RBXLk/cinemax.png" group-title="CINE Y SERIES",CINEMAX
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278468.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="CINE Y SERIES",group-title="CINE Y SERIES", +CINE
@@ -838,13 +838,13 @@ https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/1/10/DPelicula_Plus_2021.png/revision/latest?cb=20220130181115&path-prefix=es" group-title="CINE Y SERIES",DE PELICULA PLUS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278457.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES",DHE
-http://190.60.33.245:4002/play/a1kb/index.m3u8 dhe
+http://higherpro.xyz:8080/live/56956478056/270924ztv/121.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES",FX
-http://200.60.124.19:29000/play/a029/index.m3u8
+http://tvdirecto.pro:8080/live/948068511/8noplifre/195152.m3u
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png" group-title="CINE Y SERIES",GOLDEN
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278479.m3u8
+http://tvdirecto.pro:8080/live/948068511/8noplifre/195974.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE Y SERIES",GOLDEN EDGE
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278481.m3u8
+http://higherpro.xyz:8080/live/56956478056/270924ztv/65218.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Sxd9XyY0/gplus.png" group-title="CINE Y SERIES",GOLDEN PLUS
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278484.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6b9LCMq/GOLDENPRIMNIERS.png" group-title="CINE Y SERIES",GOLDEN PREMIER
@@ -1023,6 +1023,24 @@ https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=dc2fa82d-8a75-11f0-a235-fe31db4a79df
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",LOS SIMPSONS
 http://user.tvcluboficial.com/live/m/m/357.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" group-title="24/7",Bones
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" group-title="24/7",Cinema - Parodias
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94978
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" group-title="24/7",Cinema 4K
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/95608
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" group-title="24/7",CSI Miami
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94924
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7",Detective Conan
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94892
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" group-title="24/7",Hawaii 5.0
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94929
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png" group-title="24/7",Shameless
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94865
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="24/7",The Big Bang Theory
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png" group-title="24/7",The Fresh Prince of Bel Air
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title=" 24/7",El Superagente 86
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:50003/images/86c90219afa44b32031283a0a2382952.jpg" group-title=" 24/7",El Chapulín Colorado
