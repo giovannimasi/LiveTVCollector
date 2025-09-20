@@ -68,8 +68,8 @@
   {
     "name": "TVS",
     "type": "siaranMy",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
-    "img": "https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg"
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8",
+    "img": "https://mifntechnology.github.io/siaranMy/logo/Tvs.png"
   },
   {
     "name": "TV Ikim",
@@ -226,6 +226,12 @@
     "type": "Malaysia",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
     "img": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png"
+  },
+  {
+    "name": "122 TVS Sarawak",
+    "type": "Malaysia",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png"
   },
   {
     "name": "106 Astro Oasis",
