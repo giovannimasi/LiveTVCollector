@@ -524,13 +524,13 @@
   {
     "name": "TF1_",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTgzMzgyOTMsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4MzIzODkzLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.bpFaVv0J_O5_BvMdPHo7jJNs0FeunTJCE6yMv3l7cIw/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTgzNTk5NDEsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4MzQ1NTQxLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.afRUnrV0xJtvo25qTjeJEW4zXXRvgLMxiOgTl1Kgy_0/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
     "name": "TF1-",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTgzMzk2MDEsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODMyNTIwMSwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.3DpNAFF9PbzOCcfPYbNIgO-zhzr8dSO-qDmD59Uf6HU/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTgzNjgzOTQsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODM1Mzk5NCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.FvVoM0nBCYj0nmdj4Qav7fgLa0yKoih-hftHJikjF54/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
@@ -2714,7 +2714,7 @@
   {
     "name": "HABER GLOBAL",
     "type": "Uncategorized",
-    "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
+    "url": "https://github.com/tecotv2025/tecotv/raw/main/playlist/Haber_Global_TV.m3u8",
     "img": "https://i.ibb.co/k58p7P2/hglobal.png"
   },
   {
@@ -3026,6 +3026,12 @@
   {
     "name": "HABER GLOBAL (backup)",
     "type": "Uncategorized",
+    "url": "https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8",
+    "img": "https://i.ibb.co/k58p7P2/hglobal.png"
+  },
+  {
+    "name": "HABER GLOBAL (backup)",
+    "type": "Uncategorized",
     "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
     "img": "https://i.ibb.co/k58p7P2/hglobal.png"
   },
@@ -3302,13 +3308,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=gIIcizdxASnx1gnCE8vSpQ&e=1758330879",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=IFmTVBR2BrrlDCNXwewttQ&e=1758364178",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=gIIcizdxASnx1gnCE8vSpQ&e=1758330879",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=IFmTVBR2BrrlDCNXwewttQ&e=1758364178",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
