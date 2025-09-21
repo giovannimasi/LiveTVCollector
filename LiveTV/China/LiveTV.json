@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-20 21:39:14",
+  "date": "2025-09-21 06:14:19",
   "channels": {
     "Uncategorized": [
       {
@@ -5208,13 +5208,6 @@
         "url": "https://0472.org/hls/cgtna.m3u8"
       },
       {
-        "name": "CCTV17",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "央视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/17.m3u8"
-      },
-      {
         "name": "CCTV央视台球",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视频道",
@@ -6099,6 +6092,13 @@
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
         "url": "http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive"
+      },
+      {
+        "name": "安多卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "卫视频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8"
       },
       {
         "name": "山东教育",
@@ -10419,7 +10419,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8"
+        "url": "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd"
       },
       {
         "name": "法治天地",
@@ -10639,13 +10639,6 @@
         "url": "https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8"
       },
       {
-        "name": "怀仁综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8"
-      },
-      {
         "name": "成县综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10800,6 +10793,13 @@
         "url": "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8"
       },
       {
+        "name": "淮安新闻综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=383a4690d772fe16ccec98f2da2e7e0c3b362ae2d9a0fa219e9a7bb76bb96d4ca6392f861efb0a61154552c563897f4660867745735f85e310ec9fb52d7fc55cd30da8d55169f8c415c5a69a15"
+      },
+      {
         "name": "淮阴综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10861,6 +10861,13 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8"
+      },
+      {
+        "name": "秦安综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://play.kankanlive.com/live/1680577080200944.m3u8"
       },
       {
         "name": "苍南新闻综合",
@@ -10980,13 +10987,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8"
-      },
-      {
-        "name": "酒泉综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8"
       },
       {
         "name": "铜陵新闻综合",
@@ -12978,11 +12978,11 @@
     ],
     "儿童频道": [
       {
-        "name": "海绵宝宝",
+        "name": "中华小当家",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.metshop.top/douyu/3949681"
+        "url": "https://live.iill.top/huya/11342413"
       },
       {
         "name": "猫和老鼠",
@@ -13037,7 +13037,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://www.goodiptv.club/douyu/5907076"
+        "url": "https://yylunbo.ottiptv.cc/yy/1382735568"
       }
     ],
     "游戏频道": [
@@ -13578,7 +13578,7 @@
     ],
     "更新时间": [
       {
-        "name": "2025-09-20 18:27:39",
+        "name": "2025-09-21 00:20:17",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "更新时间",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
@@ -13697,6 +13697,13 @@
         "group": "央视高清二",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://cc06.tv12.xyz/16.m3u8"
+      },
+      {
+        "name": "CCTV17",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视高清二",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/17.m3u8"
       }
     ],
     "移动IPTV": [
