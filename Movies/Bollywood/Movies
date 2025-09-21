@@ -6,34 +6,16 @@
     "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
   },
   {
-    "name": "ATN Bangla",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s"
-  },
-  {
-    "name": "BTV HD",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
-    "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
-  },
-  {
-    "name": "Deepto TV",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
-  },
-  {
     "name": "Star Jalsha HD",
     "type": "Live Tv",
     "url": "http://filex.me:8080//live/1234567890/1234567890/522665.ts",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtKlL3IqL6UpPRukXghrsvIifMISkNkpKL6JP1OKq68DQK23F78WR2Sk&s=10"
   },
   {
-    "name": "Sangeet Bangla",
+    "name": "Sun Bangla",
     "type": "Live Tv",
-    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
+    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
   },
   {
     "name": "Jalsa Movies Hd",
@@ -42,10 +24,34 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png"
   },
   {
+    "name": "zee bangla cinema",
+    "type": "Live Tv",
+    "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ATN Bangla",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s"
+  },
+  {
     "name": "Colors Bangla Cinema",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555"
+  },
+  {
+    "name": "Deepto TV",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
+  },
+  {
+    "name": "Sangeet Bangla",
+    "type": "Live Tv",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "img": "https://svf.in/wp-content/uploads/2019/04/sangeet-bangla.jpg"
   },
   {
     "name": "Colors",
@@ -66,18 +72,6 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
   },
   {
-    "name": "Sun Bangla",
-    "type": "Live Tv",
-    "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7xlHSdOyYb2vpgqEg5szjn_yNHhCbseLnw&s"
-  },
-  {
-    "name": "zee bangla cinema",
-    "type": "Live Tv",
-    "url": "http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "& picture hd",
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8",
@@ -88,6 +82,12 @@
     "type": "Live Tv",
     "url": "https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3070",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
+  },
+  {
+    "name": "BTV HD",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8",
+    "img": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg"
   },
   {
     "name": "Hum TV",
