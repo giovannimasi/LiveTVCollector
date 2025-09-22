@@ -524,13 +524,13 @@
   {
     "name": "TF1_",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTg1MTEwOTIsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4NDk2NjkyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.-cl05kU0VZDMoevDqcdu8shPhA078SML5RoEC2p9L6U/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NTg1MzI3MzYsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzU4NTE4MzM2LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.O3XGTrdR5TTnNpfYn3tQUdKg8j1_8xsDWwUnqiVhUlc/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
     "name": "TF1-",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTg1MTI0MTcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODQ5ODAxNywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.jUaKSDEMprnEW6zfdDqefrw9MIFw5IjdWhzSmhsJTXQ/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5MS4xMzQuMjQ4LjE5MiIsImNtY2QiOiIiLCJleHAiOjE3NTg1NDEzMDAsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc1ODUyNjkwMCwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.edVwBwGSEkfa8mHfxpqU3Rn7LZRXfGsjxtCMJK6wOXg/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
@@ -3308,13 +3308,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=VTDC-_4CrNtByE62TliwtQ&e=1758503879",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=0G4u4iy0WpGJ1nwZSAcLmg&e=1758537120",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=VTDC-_4CrNtByE62TliwtQ&e=1758503879",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=0G4u4iy0WpGJ1nwZSAcLmg&e=1758537120",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -10176,6 +10176,12 @@
     "img": "https://i.ibb.co/HtKQ15z/alw1.png"
   },
   {
+    "name": "ALAWLA TV",
+    "type": "Uncategorized",
+    "url": "https://live.alawla.tv/hls/stream.m3u8",
+    "img": "https://i.ibb.co/DtWPcjN/alw.png"
+  },
+  {
     "name": "ASSIRAT",
     "type": "Uncategorized",
     "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
@@ -10530,12 +10536,6 @@
     "img": "https://i.ibb.co/mCVgF7j7/hadra.png"
   },
   {
-    "name": "ALAWLA TV",
-    "type": "Uncategorized",
-    "url": "https://live.alawla.tv/hls/stream.m3u8",
-    "img": "https://i.ibb.co/DtWPcjN/alw.png"
-  },
-  {
     "name": "AL JAYLIA",
     "type": "Uncategorized",
     "url": "https://media2.livaat.com/AL-Jaleyah/index.m3u8",
@@ -10750,6 +10750,30 @@
     "type": "Uncategorized",
     "url": "https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8",
     "img": "https://i.ibb.co/RNHM3Xx/falastini.png"
+  },
+  {
+    "name": "WATTAN PS",
+    "type": "Uncategorized",
+    "url": "https://htvmada.mada.ps:4443/wattan/index.m3u8",
+    "img": "https://i.ibb.co/nkfS0P4/palsat.jpg"
+  },
+  {
+    "name": "RAYA PS",
+    "type": "Uncategorized",
+    "url": "https://htvmada.mada.ps:4443/raya/index.m3u8",
+    "img": "https://i.ibb.co/nkfS0P4/palsat.jpg"
+  },
+  {
+    "name": "RAYA 2 PS",
+    "type": "Uncategorized",
+    "url": "https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8",
+    "img": "https://i.ibb.co/nkfS0P4/palsat.jpg"
+  },
+  {
+    "name": "RAYA 3 PS",
+    "type": "Uncategorized",
+    "url": "https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8",
+    "img": "https://i.ibb.co/nkfS0P4/palsat.jpg"
   },
   {
     "name": "YEMEN TODAY",
@@ -10977,6 +11001,12 @@
     "name": "KAS QATAR 1",
     "type": "Uncategorized",
     "url": "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1muytrdc/master.m3u8",
+    "img": "https://i.ibb.co/3h4XCtZ/kasqatar.png"
+  },
+  {
+    "name": "KAS QATAR 1",
+    "type": "Uncategorized",
+    "url": "https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1buoicft/master.m3u8",
     "img": "https://i.ibb.co/3h4XCtZ/kasqatar.png"
   },
   {
