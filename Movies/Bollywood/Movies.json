@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-24 21:50:02",
+  "date": "2025-09-25 06:27:29",
   "channels": {
     "Uncategorized": [
       {
@@ -12,25 +12,11 @@
     ],
     "Live Tv": [
       {
-        "name": "BTV HD",
-        "logo": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg",
+        "name": "Deepto TV",
+        "logo": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8"
-      },
-      {
-        "name": "ATN Bangla",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
-      },
-      {
-        "name": "Jalsa Movies Hd",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
       },
       {
         "name": "Star Jalsha HD",
@@ -47,18 +33,11 @@
         "url": "http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8"
       },
       {
-        "name": "Colors Bangla Cinema",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555",
+        "name": "BTV HD",
+        "logo": "https://i.pinimg.com/736x/c3/8c/b7/c38cb7aa28d273128b42f70a428e611e.jpg",
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Deepto TV",
-        "logo": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8"
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8"
       },
       {
         "name": "Sangeet Bangla",
@@ -66,6 +45,20 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+      },
+      {
+        "name": "Jalsa Movies Hd",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Colors Bangla Cinema",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/BanglaCinema.jpeg/revision/latest?cb=20191207094555",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://tiger-hub.vercel.app/Colors-bangla-cinema/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Colors",
@@ -115,6 +108,13 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
         "url": "http://app.hughag.store/api/4518a8c92f/playlist.m3u8"
+      },
+      {
+        "name": "ATN Bangla",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",
+        "group": "Live Tv",
+        "source": "https://raw.githubusercontent.com/Mahabubulalammim/New/refs/heads/main/Mim%20New%20Movie%20Collection",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
       },
       {
         "name": "Tom & Jerry",
