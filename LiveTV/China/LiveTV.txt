@@ -3722,8 +3722,18 @@ URL: https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e5
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: JJ斗地主
+URL: https://live.iill.top/douyin/685317364746
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 
 Group: 儿童频道
+Name: 中华小当家
+URL: https://live.iill.top/huya/11342413
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 海绵宝宝
 URL: https://live.metshop.top/douyu/3949681
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6063,11 +6073,6 @@ URL: https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 哈尔滨娱乐
-URL: https://stream.hrbtv.net/ylpd/sd/live.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 哈尔滨生活
 URL: https://stream.hrbtv.net/shpd/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6280,6 +6285,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 睢宁综合
 URL: https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 秦安综合
+URL: https://play.kankanlive.com/live/1680577080200944.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -7837,13 +7847,13 @@ URL: http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 Logo: https://live.fanmingming.cn/tv/睛彩广场舞.png
 Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
-Name: 北京纪实科教8K
-URL: https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+Name: 搜狐剧场
+URL: https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 搜狐剧场
-URL: https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+Name: 纪实科教8K
+URL: https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8156,7 +8166,7 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 
 Group: 更新时间
-Name: 2025-09-26 18:26:56
+Name: 2025-09-27 00:24:22
 URL: https://vd2.bdstatic.com/mda-rim3j38jdv015mh8/sc/cae_h264/1758541757473419093/mda-rim3j38jdv015mh8.mp4
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
@@ -9111,11 +9121,6 @@ Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
 Name: 黑莓电影
 URL: https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 东方影视
-URL: https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10082,6 +10087,11 @@ URL: https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 东方影视
+URL: https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 东方财经
 URL: https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -10192,7 +10202,7 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 
 Group: 解说频道
 Name: 漫画解说
-URL: https://www.goodiptv.club/douyu/5907076
+URL: https://yylunbo.ottiptv.cc/yy/1382735568
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
