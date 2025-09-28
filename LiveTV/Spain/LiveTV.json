@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-27 21:30:57",
+  "date": "2025-09-28 06:11:59",
   "channels": {
     "General": [
       {
@@ -63636,6 +63636,13 @@
         "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8"
       },
       {
+        "name": "La 2 (1080p)",
+        "logo": "https://i.imgur.com/3NwzqoB.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
+      },
+      {
         "name": "La 2 Canarias (720p)",
         "logo": "https://i.imgur.com/iwDi3ND.png",
         "group": "General;Public",
@@ -63699,6 +63706,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
+      },
+      {
+        "name": "TV3 (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8"
       },
       {
         "name": "TV3CAT (1080p)",
