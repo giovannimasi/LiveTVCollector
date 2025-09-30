@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30 06:43:23",
+  "date": "2025-09-30 13:51:50",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDEyOjI5OjMgQU0maGFzaF92YWx1ZT1teWhRMU52SGpQZ245czIwcVBYZGtBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2EzZDIxYjUtZjViNy00MzZhLTk5MDItZmMzNjk0ODkxOWYy/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDg6OTo1NiBBTSZoYXNoX3ZhbHVlPVZJUng3M09RQ21SaTFIZHBRS3FHZ0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05ZjA2MDQzNS1jMDgwLTQ3NzAtOGE1MC0wZWE5ODUwZDRlNDk=/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDEyOjI5OjQgQU0maGFzaF92YWx1ZT03QWpQVE9CRi9MTnFNMmJ6eE0wMytnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWY5YzRkODUtNzk3My00NzAyLThjYmQtMDVhZWVkOGQyODI5/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDg6OTo1NyBBTSZoYXNoX3ZhbHVlPXVXRVVzTzZJdUFVUHlxVFRDRGhhSkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01YmNhYmI2NS1jNGYwLTRhMzUtYTdlYS05NWQxOTg4MDFjYTQ=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDEyOjI5OjUgQU0maGFzaF92YWx1ZT1LZUwrSjJtVGJuREJqa1J6QnkxVXJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmEzY2IyMzMtODIyOS00NGYyLTk0NjgtZDM2ODE3ZTliMWM2/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDg6OTo1OCBBTSZoYXNoX3ZhbHVlPUYvc2JoRHhtaXlNQW43YTE2RGNMWFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wY2I4OGFkNC0wMGY4LTQxMWEtOWU2NC0xNWU0OGMxYWZlOGM=/"
       },
       {
         "name": "TVI África",
@@ -6928,14 +6928,14 @@
         "logo": "https://logo.m3uassets.com/tviinternacional.png",
         "group": "Portugal",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDg6MzY6NDEgUE0maGFzaF92YWx1ZT1oSlpsNFBsTWJRbm1NaU1PQi9SWGRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTgxN2FlMWQtNWE4Ny00ODBjLTk2M2YtZTBiM2ZhYjBjMGIy/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDQ6NDA6MzkgQU0maGFzaF92YWx1ZT1VKzh3MDBvMlFSLzh5cElDaDh5VWlBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjQxNWZjZDktYTZjNy00MjlkLWI4M2ItNDY1YTdlNGNjZDhk/"
       },
       {
         "name": "TVI 🇵🇹",
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/tvi.webp",
         "group": "Portugal",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDg6MzY6MzggUE0maGFzaF92YWx1ZT1sbGc4SDhPOFlrVEIxaEFYMExPNW9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTRmNTQ3YzItZDg0YS00Y2UzLWI0ZTQtMWFlMDBhZTIwNzcw/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDQ6NDA6MzggQU0maGFzaF92YWx1ZT0xUmJBSFdtN0VJb3BUNVFYTFdxWTF3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDM3ZDQ5NTktMjRkZC00NzkwLTgxYjYtMDM4MWVhZjFjMmE1/"
       },
       {
         "name": "TVI Reality 🇵🇹",
@@ -7007,7 +7007,7 @@
         "logo": "https://github.com/inspirationlinks/m3u/raw/live/LogosTv/cnnpt.png",
         "group": "News 🇵🇹🇧🇷",
         "source": "https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDg6MzY6NDAgUE0maGFzaF92YWx1ZT1FcEQ2a05SUEZiazNQL2R2eU9kd1NRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTQ4NDhmMzAtOGYzZC00ODRiLThjMWUtZGJlM2M5OGNmZmIw/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zMC8yMDI1IDQ6NDA6MzkgQU0maGFzaF92YWx1ZT05bnFjTmRvdnVpODFGZUpQSlhOOS9RPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NTU0M2Y3OWUtYjE2Mi00NDMyLWJjYjQtODYyNzE3MDJkMDk0/"
       },
       {
         "name": "Euronews 🇵🇹 (Pluto)",
