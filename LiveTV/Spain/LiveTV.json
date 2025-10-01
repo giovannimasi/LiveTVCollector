@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-30 21:30:58",
+  "date": "2025-10-01 06:13:03",
   "channels": {
     "General": [
       {
@@ -31055,6 +31055,13 @@
         "group": "Comedy",
         "source": "https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u",
         "url": "https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "FailArmy Spain",
+        "logo": "https://i.imgur.com/VIpQJxL.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner="
       }
     ],
     "Kids": [

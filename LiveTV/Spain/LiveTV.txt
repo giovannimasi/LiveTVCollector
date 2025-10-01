@@ -10834,6 +10834,11 @@ URL: https://d1406h321fcaxw.cloudfront.net/dist/samsungtv/310/hls/master/playlis
 Logo: https://i.imgur.com/UL1JtYb.png
 Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: FailArmy Spain
+URL: http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+Logo: https://i.imgur.com/VIpQJxL.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 
 Group: Comedy;Movies
 Name: Xtrema Comedy

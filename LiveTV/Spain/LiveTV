@@ -26604,6 +26604,12 @@
     "img": "https://i.imgur.com/UL1JtYb.png"
   },
   {
+    "name": "FailArmy Spain",
+    "type": "Comedy",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+    "img": "https://i.imgur.com/VIpQJxL.png"
+  },
+  {
     "name": "13 Kids",
     "type": "Kids",
     "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
