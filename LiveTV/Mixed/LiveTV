@@ -560,7 +560,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiODYyMmYyMGItNDUwOS00NWUxLTg3YzgtZDBhNjEzNTQzMTcxIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYWY2MGY5ZjItZjUwNC00YWRhLWJmYzEtNWJiZmJmNDQ1NWYxIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -596,7 +596,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZjRhZjBlYTgtYjlmMi00NjczLTg0ODEtYmEzZjgyMTc1OTY5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNjk0YWE3MGEtYTNkZC00YTQwLWE2YTItNjVhMmE5ZmY1MDRlIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",ORF 3",
     "type": "General",
-    "url": "https://test02.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
+    "url": "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8",
     "img": "https://i.imgur.com/XnIhKQ6.png"
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Adria Kitchen",
     "type": "Sports",
-    "url": "https://de1.adriatelekom.com/AdriaKitchen-www/index.m3u8",
+    "url": "https://de1.dstvmultimedia.com/AdriaKitchen-www/tracks-v1a1/mono.ts.m3u8",
     "img": "https://i.imgur.com/RAqrlvY.png"
   },
   {
