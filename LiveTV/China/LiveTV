@@ -5340,9 +5340,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "陕西卫视",
+    "name": "西藏卫视",
     "type": "卫视频道",
-    "url": "https://cc06.tv12.xyz/106.m3u8",
+    "url": "https://cc06.tv12.xyz/112.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9270,6 +9270,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "无锡生活",
+    "type": "地方频道",
+    "url": "https://stream.thmz.com/wxtv4/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "无锡经济",
     "type": "地方频道",
     "url": "https://stream.thmz.com/wxtv5/playlist.m3u8",
@@ -11310,6 +11316,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "卡酷少儿",
+    "type": "儿童频道",
+    "url": "https://cc06.tv12.xyz/29.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "海绵宝宝",
     "type": "儿童频道",
     "url": "https://live.metshop.top/douyu/3949681",
@@ -11319,6 +11331,12 @@
     "name": "黑龙江少儿",
     "type": "儿童频道",
     "url": "https://ls.qingting.fm/live/4972/64k.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "兵团五师双河影",
+    "type": "纪录频道",
+    "url": "https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11348,7 +11366,7 @@
   {
     "name": "漫画解说",
     "type": "解说频道",
-    "url": "https://www.goodiptv.club/douyu/5907076",
+    "url": "https://yylunbo.ottiptv.cc/yy/1382735568",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -11922,6 +11940,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "陕西卫视",
+    "type": "央视卫视",
+    "url": "https://cc06.tv12.xyz/106.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "宁夏卫视",
     "type": "央视卫视",
     "url": "https://cc06.tv12.xyz/96.m3u8",
@@ -11976,12 +12000,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "西藏卫视",
-    "type": "央视卫视",
-    "url": "https://cc06.tv12.xyz/112.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "黑龙江卫视",
     "type": "央视卫视",
     "url": "https://cc06.tv12.xyz/53.m3u8",
@@ -11991,12 +12009,6 @@
     "name": "内蒙古卫视",
     "type": "央视卫视",
     "url": "https://cc06.tv12.xyz/94.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "卡酷少儿",
-    "type": "央视卫视",
-    "url": "https://cc06.tv12.xyz/29.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {

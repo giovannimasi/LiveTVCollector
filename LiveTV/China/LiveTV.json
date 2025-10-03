@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-03 06:09:16",
+  "date": "2025-10-03 13:41:43",
   "channels": {
     "Uncategorized": [
       {
@@ -6241,11 +6241,11 @@
         "url": "https://cc06.tv12.xyz/107.m3u8"
       },
       {
-        "name": "陕西卫视",
+        "name": "西藏卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/106.m3u8"
+        "url": "https://cc06.tv12.xyz/112.m3u8"
       },
       {
         "name": "安多卫视",
@@ -10856,6 +10856,13 @@
         "url": "https://stream.thmz.com/wxtv2/playlist.m3u8"
       },
       {
+        "name": "无锡生活",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.thmz.com/wxtv4/playlist.m3u8"
+      },
+      {
         "name": "无锡经济",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -13244,6 +13251,13 @@
     ],
     "儿童频道": [
       {
+        "name": "卡酷少儿",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "儿童频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/29.m3u8"
+      },
+      {
         "name": "海绵宝宝",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
@@ -13259,6 +13273,13 @@
       }
     ],
     "纪录频道": [
+      {
+        "name": "兵团五师双河影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "纪录频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd"
+      },
       {
         "name": "飞碟之谜01",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -13296,7 +13317,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://www.goodiptv.club/douyu/5907076"
+        "url": "https://yylunbo.ottiptv.cc/yy/1382735568"
       }
     ],
     "直播中国": [
@@ -13968,6 +13989,13 @@
         "url": "https://cc06.tv12.xyz/48.m3u8"
       },
       {
+        "name": "陕西卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/106.m3u8"
+      },
+      {
         "name": "宁夏卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视卫视",
@@ -14031,13 +14059,6 @@
         "url": "https://cc06.tv12.xyz/109.m3u8"
       },
       {
-        "name": "西藏卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "央视卫视",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/112.m3u8"
-      },
-      {
         "name": "黑龙江卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视卫视",
@@ -14050,13 +14071,6 @@
         "group": "央视卫视",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://cc06.tv12.xyz/94.m3u8"
-      },
-      {
-        "name": "卡酷少儿",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "央视卫视",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/29.m3u8"
       }
     ],
     "移动IPTV": [
