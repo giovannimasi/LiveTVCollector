@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-10 21:41:00",
+  "date": "2025-10-11 06:08:19",
   "channels": {
     "Uncategorized": [
       {
@@ -5236,13 +5236,6 @@
         "url": "https://0472.org/hls/cgtna.m3u8"
       },
       {
-        "name": "CCTV13",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "央视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://event.pull.hebtv.com/jishi/cp1.m3u8"
-      },
-      {
         "name": "CCTV央视台球",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视频道",
@@ -6269,41 +6262,6 @@
         "url": "https://cc06.tv12.xyz/41.m3u8"
       },
       {
-        "name": "安徽卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/26.m3u8"
-      },
-      {
-        "name": "北京卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/27.m3u8"
-      },
-      {
-        "name": "东方卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/37.m3u8"
-      },
-      {
-        "name": "东南卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/38.m3u8"
-      },
-      {
-        "name": "甘肃卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/44.m3u8"
-      },
-      {
         "name": "广东卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "卫视频道",
@@ -6318,81 +6276,11 @@
         "url": "https://cc06.tv12.xyz/46.m3u8"
       },
       {
-        "name": "贵州卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/48.m3u8"
-      },
-      {
-        "name": "河北卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/51.m3u8"
-      },
-      {
-        "name": "河南卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/49.m3u8"
-      },
-      {
         "name": "湖北卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://cc06.tv12.xyz/50.m3u8"
-      },
-      {
-        "name": "湖南卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/57.m3u8"
-      },
-      {
-        "name": "吉林卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/60.m3u8"
-      },
-      {
-        "name": "江苏卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/61.m3u8"
-      },
-      {
-        "name": "江西卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/62.m3u8"
-      },
-      {
-        "name": "辽宁卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/70.m3u8"
-      },
-      {
-        "name": "宁夏卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/96.m3u8"
-      },
-      {
-        "name": "青海卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/97.m3u8"
       },
       {
         "name": "山东卫视",
@@ -6416,46 +6304,11 @@
         "url": "https://cc06.tv12.xyz/106.m3u8"
       },
       {
-        "name": "深圳卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/108.m3u8"
-      },
-      {
-        "name": "四川卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/99.m3u8"
-      },
-      {
         "name": "西藏卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://cc06.tv12.xyz/112.m3u8"
-      },
-      {
-        "name": "新疆卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/109.m3u8"
-      },
-      {
-        "name": "云南卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/114.m3u8"
-      },
-      {
-        "name": "浙江卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/117.m3u8"
       },
       {
         "name": "重庆卫视",
@@ -6470,13 +6323,6 @@
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8"
-      },
-      {
-        "name": "黑龙江卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/53.m3u8"
       },
       {
         "name": "山东教育卫视",
@@ -10898,6 +10744,13 @@
         "url": "https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8"
       },
       {
+        "name": "兵团五师双河新闻综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd"
+      },
+      {
         "name": "内蒙经济",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10919,6 +10772,13 @@
         "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio"
       },
       {
+        "name": "北海新闻综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://live.gxrb.com.cn/gx/beihai/index.m3u8"
+      },
+      {
         "name": "南京十八",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10938,6 +10798,13 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439"
+      },
+      {
+        "name": "南通新闻综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mgtv.ottiptv.cc/migu/955227985.m3u8?migutoken=03e9c85f19b5ac291f5863436507873a8f47ec3c677c7857c89bda5778edc8e38fc38b4270aa374c49eee39b39ffaf80a20b750130c27760df766c0cf7b5d437be8dc60c1ced9117d98f6c9b3e"
       },
       {
         "name": "吉林乡村",
@@ -11059,11 +10926,18 @@
         "url": "https://play.kankanlive.com/live/1702454377323961.m3u8"
       },
       {
-        "name": "无锡娱乐",
+        "name": "新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://stream.thmz.com/wxtv2/playlist.m3u8"
+        "url": "https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8"
+      },
+      {
+        "name": "无锡生活",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.thmz.com/wxtv4/playlist.m3u8"
       },
       {
         "name": "无锡经济",
@@ -11276,6 +11150,13 @@
         "url": "https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8"
       },
       {
+        "name": "秦安综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://play.kankanlive.com/live/1680577080200944.m3u8"
+      },
+      {
         "name": "苍南新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -11414,13 +11295,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd"
-      },
-      {
-        "name": "陕西体育休闲",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=2cd1b3120e6a6d3cec136ca61cb23c24512860d4956d391b8c7d8a1fce58c3fa549930217eede8887c05f73eb24ac9692be10bdd06557f58130ff6717e37e1b6ba38adfacf8e74298fe1d4f48c"
       },
       {
         "name": "陕西新闻资讯",
@@ -12740,11 +12614,11 @@
     ],
     "儿童频道": [
       {
-        "name": "卡酷少儿",
+        "name": "中华小当家",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cc06.tv12.xyz/29.m3u8"
+        "url": "https://live.iill.top/huya/11342413"
       },
       {
         "name": "海绵宝宝",
@@ -12752,6 +12626,13 @@
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://live.metshop.top/douyu/3949681"
+      },
+      {
+        "name": "猫和老鼠",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "儿童频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://live.iill.top/huya/11352879"
       },
       {
         "name": "黑龙江少儿",
@@ -12785,13 +12666,6 @@
       }
     ],
     "体育频道": [
-      {
-        "name": "五星体育",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://other.ottiptv.cc/wxty.m3u8"
-      },
       {
         "name": "精品体育",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -13345,11 +13219,144 @@
     ],
     "央视卫视": [
       {
+        "name": "北京卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/27.m3u8"
+      },
+      {
+        "name": "东方卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/37.m3u8"
+      },
+      {
+        "name": "浙江卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/117.m3u8"
+      },
+      {
+        "name": "湖南卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/57.m3u8"
+      },
+      {
+        "name": "江苏卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/61.m3u8"
+      },
+      {
+        "name": "深圳卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/108.m3u8"
+      },
+      {
+        "name": "辽宁卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/70.m3u8"
+      },
+      {
+        "name": "河北卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/51.m3u8"
+      },
+      {
+        "name": "江西卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/62.m3u8"
+      },
+      {
+        "name": "河南卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/49.m3u8"
+      },
+      {
+        "name": "吉林卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/60.m3u8"
+      },
+      {
+        "name": "安徽卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/26.m3u8"
+      },
+      {
+        "name": "东南卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/38.m3u8"
+      },
+      {
         "name": "海南卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视卫视",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://cc06.tv12.xyz/93.m3u8"
+      },
+      {
+        "name": "四川卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/99.m3u8"
+      },
+      {
+        "name": "贵州卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/48.m3u8"
+      },
+      {
+        "name": "宁夏卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/96.m3u8"
+      },
+      {
+        "name": "甘肃卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/44.m3u8"
+      },
+      {
+        "name": "青海卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/97.m3u8"
+      },
+      {
+        "name": "云南卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/114.m3u8"
       },
       {
         "name": "兵团卫视",
@@ -13373,11 +13380,32 @@
         "url": "https://cc06.tv12.xyz/105.m3u8"
       },
       {
+        "name": "新疆卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/109.m3u8"
+      },
+      {
+        "name": "黑龙江卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/53.m3u8"
+      },
+      {
         "name": "内蒙古卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视卫视",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://cc06.tv12.xyz/94.m3u8"
+      },
+      {
+        "name": "卡酷少儿",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视卫视",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cc06.tv12.xyz/29.m3u8"
       }
     ],
     "移动IPTV": [
