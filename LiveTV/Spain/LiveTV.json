@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-11 21:30:53",
+  "date": "2025-10-12 06:09:28",
   "channels": {
     "General": [
       {
@@ -63676,13 +63676,6 @@
     ],
     "News;Public": [
       {
-        "name": "3/24 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png",
-        "group": "News;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
-      },
-      {
         "name": "24 Horas (1080p)",
         "logo": "https://i.imgur.com/IUVRm5L.png",
         "group": "News;Public",
@@ -63712,7 +63705,7 @@
       },
       {
         "name": "Canal Sur Noticias",
-        "logo": "https://i.imgur.com/A3JscwS.png",
+        "logo": "https://i.imgur.com/BuQPiJb.png",
         "group": "News;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
@@ -63742,7 +63735,7 @@
       },
       {
         "name": "Canal Sur (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/512px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png",
         "group": "General;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "http://176.65.146.237:8401/play/a09c/index.m3u8"
@@ -63784,7 +63777,7 @@
       },
       {
         "name": "La 1 UHD (2160p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/512px-Logo_La_1_UHD_2024.svg.png",
+        "logo": "https://i.imgur.com/1jDS9UC.png",
         "group": "General;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "http://176.65.146.237:8401/play/a09u/index.m3u8"
@@ -63862,13 +63855,6 @@
         "url": "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "SX3 (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
-      },
-      {
         "name": "TEN (1080p)",
         "logo": "https://i.imgur.com/ZpaeqyN.png",
         "group": "Undefined",
@@ -63915,6 +63901,15 @@
         "group": "Public;Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+      }
+    ],
+    "Animation;Kids;Public": [
+      {
+        "name": "SX3 (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png",
+        "group": "Animation;Kids;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8"
       }
     ]
   }

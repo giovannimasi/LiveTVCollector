@@ -54366,12 +54366,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "3/24 (1080p)",
-    "type": "News;Public",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png"
-  },
-  {
     "name": "24 Horas (1080p)",
     "type": "News;Public",
     "url": "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8",
@@ -54399,7 +54393,7 @@
     "name": "Canal Sur Noticias",
     "type": "News;Public",
     "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/A3JscwS.png"
+    "img": "https://i.imgur.com/BuQPiJb.png"
   },
   {
     "name": "A Punt",
@@ -54423,7 +54417,7 @@
     "name": "Canal Sur (1080p)",
     "type": "General;Public",
     "url": "http://176.65.146.237:8401/play/a09c/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg/512px-Canal_Sur_Televisi%C3%B3n_2011-2017_logo.svg.png"
   },
   {
     "name": "Canal Sur Andalucia (1080p)",
@@ -54459,7 +54453,7 @@
     "name": "La 1 UHD (2160p)",
     "type": "General;Public",
     "url": "http://176.65.146.237:8401/play/a09u/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/512px-Logo_La_1_UHD_2024.svg.png"
+    "img": "https://i.imgur.com/1jDS9UC.png"
   },
   {
     "name": "La 2 (1080p)",
@@ -54522,12 +54516,6 @@
     "img": "https://i.imgur.com/pbyd1g2.png"
   },
   {
-    "name": "SX3 (1080p) [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png"
-  },
-  {
     "name": "TEN (1080p)",
     "type": "Undefined",
     "url": "http://176.65.146.237:8401/play/a0al/index.m3u8",
@@ -54562,5 +54550,11 @@
     "type": "Public;Sports",
     "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png"
+  },
+  {
+    "name": "SX3 (1080p) [Geo-blocked]",
+    "type": "Animation;Kids;Public",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png"
   }
 ]
