@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-12 07:26:02",
+  "date": "2025-10-12 13:58:14",
   "channels": {
     "STREAMING": [
       {
@@ -1194,7 +1194,7 @@
       },
       {
         "name": "BHRT",
-        "logo": "https://i.imgur.com/Gg8NPvl.png",
+        "logo": "https://i.imgur.com/kMM3OYY.png",
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_1200.m3u8"
