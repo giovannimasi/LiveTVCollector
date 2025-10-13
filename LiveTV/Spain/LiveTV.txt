@@ -38919,7 +38919,7 @@ Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 Name: Canal Sur Noticias
 URL: https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-Logo: https://i.imgur.com/BuQPiJb.png
+Logo: https://i.imgur.com/A3JscwS.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 

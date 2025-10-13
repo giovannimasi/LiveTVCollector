@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-12 21:30:51",
+  "date": "2025-10-13 06:11:00",
   "channels": {
     "General": [
       {
@@ -63705,7 +63705,7 @@
       },
       {
         "name": "Canal Sur Noticias",
-        "logo": "https://i.imgur.com/BuQPiJb.png",
+        "logo": "https://i.imgur.com/A3JscwS.png",
         "group": "News;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
