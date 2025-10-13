@@ -4788,12 +4788,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "吉林卫视",
-    "type": "卫视频道",
-    "url": "https://cc06.tv12.xyz/60.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "山西卫视",
     "type": "卫视频道",
     "url": "https://cc06.tv12.xyz/107.m3u8",
@@ -4836,12 +4830,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "山东教育",
-    "type": "卫视频道",
-    "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "天元围棋",
     "type": "卫视频道",
     "url": "https://cc06.tv12.xyz/47.m3u8",
@@ -4869,6 +4857,12 @@
     "name": "苏州4K",
     "type": "卫视频道",
     "url": "https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "山东教育",
+    "type": "卫视频道",
+    "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8514,12 +8508,6 @@
     "img": "https://live.fanmingming.cn/tv/乌兰察布.png"
   },
   {
-    "name": "厦门卫视",
-    "type": "地方频道",
-    "url": "https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "安多卫视",
     "type": "地方频道",
     "url": "https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd",
@@ -8736,6 +8724,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "新闻综合",
+    "type": "地方频道",
+    "url": "https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "无锡娱乐",
     "type": "地方频道",
     "url": "https://stream.thmz.com/wxtv2/playlist.m3u8",
@@ -8850,12 +8844,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "淮安新闻综合",
-    "type": "地方频道",
-    "url": "https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=383a4690d772fe16ccec98f2da2e7e0c3b362ae2d9a0fa219e9a7bb76bb96d4ca6392f861efb0a61154552c563897f4660867745735f85e310ec9fb52d7fc55cd30da8d55169f8c415c5a69a15",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "淮阴综合",
     "type": "地方频道",
     "url": "https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8",
@@ -8919,12 +8907,6 @@
     "name": "睢宁综合",
     "type": "地方频道",
     "url": "https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "秦安综合",
-    "type": "地方频道",
-    "url": "https://play.kankanlive.com/live/1680577080200944.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10166,7 +10148,7 @@
   {
     "name": "中华小当家",
     "type": "儿童频道",
-    "url": "https://live.metshop.top/huya/11342413",
+    "url": "https://live.iill.top/huya/11342413",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10200,12 +10182,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "五星体育",
-    "type": "体育频道",
-    "url": "https://other.ottiptv.cc/wxty.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "精品体育",
     "type": "体育频道",
     "url": "https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8",
@@ -10220,7 +10196,13 @@
   {
     "name": "漫画解说",
     "type": "解说频道",
-    "url": "https://yylunbo.ottiptv.cc/yy/1382735568",
+    "url": "https://www.goodiptv.club/douyu/5907076",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "音乐现场",
+    "type": "音乐频道",
+    "url": "https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10749,6 +10731,12 @@
     "name": "河南卫视",
     "type": "央视卫视",
     "url": "https://cc06.tv12.xyz/49.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "吉林卫视",
+    "type": "央视卫视",
+    "url": "https://cc06.tv12.xyz/60.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
