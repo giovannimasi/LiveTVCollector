@@ -27980,11 +27980,6 @@ URL: https://liveingesta318.cdnmedia.tv/101weblive/smil:sevilla.smil/playlist.m3
 Logo: https://i.imgur.com/GzI3RC4.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
-Name: Antena 3 (1080p)
-URL: http://176.65.146.237:8401/play/a0ae/index.m3u8
-Logo: https://i.imgur.com/USbmwiC.png
-Source: https://iptv-org.github.io/iptv/countries/es.m3u
---------------------------------------------------
 Name: Antena 3 Internacional (480p)
 URL: http://38.180.133.31:8000/play/a0ki/index.m3u8
 Logo: https://i.imgur.com/QMadWXp.png

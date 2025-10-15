@@ -14082,12 +14082,6 @@
     "img": "https://i.imgur.com/GzI3RC4.png"
   },
   {
-    "name": "Antena 3 (1080p)",
-    "type": "General",
-    "url": "http://176.65.146.237:8401/play/a0ae/index.m3u8",
-    "img": "https://i.imgur.com/USbmwiC.png"
-  },
-  {
     "name": "Antena 3 Internacional (480p)",
     "type": "General",
     "url": "http://38.180.133.31:8000/play/a0ki/index.m3u8",
