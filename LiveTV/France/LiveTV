@@ -524,13 +524,13 @@
   {
     "name": "TF1_",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjA0OTgyOTQsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwNDgzODk0LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.A9nxQxXqeBCKyG4uu7z8JymCTV0wtcdhgi4BWGWYBwk/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI2Mi4yMTAuMjA0LjE2MSIsImNtY2QiOiIiLCJleHAiOjE3NjA1MTk5MzUsImdpZCI6ImU3MjAzOGMzNTk0ODQwNzViODM4ZTA2Njk1YjdkNDk2IiwiaWF0IjoxNzYwNTA1NTM1LCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjAsInN0ZW0iOiIvb3V0L3YxLzc4MDU0MmY1MTZmMTQzZmM4YWQ5YmYxNDYyMjMxNmU3L3RmMS1jbWFmIiwic3ViIjoiZTcyMDM4YzM1OTQ4NDA3NWI4MzhlMDY2OTViN2Q0OTYifQ.PeFA5UCTlUSj0ZMXHWy2dGkGreBowqM4fDUUYT21zac/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
     "name": "TF1-",
     "type": "Uncategorized",
-    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjA0OTk2MDYsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDQ4NTIwNiwiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.yTh_L3CkeVjQMlSe-fcGZQ78pevHFeovMwLOAlUldtY/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
+    "url": "https://live-tf1-hls-ssai.cdn-0.diff.tf1.fr/9023effe3c16b0475d35e9f31c778b5c/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI1LjEzNS40OC44MiIsImNtY2QiOiIiLCJleHAiOjE3NjA1Mjg1NTcsImdpZCI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyIsImlhdCI6MTc2MDUxNDE1NywiaXNzIjoiZGVsaXZlcnkiLCJtYXhiIjowLCJzdGVtIjoiL291dC92MS8yYTVlZjJhNGNlNGE0MTIwOWUwYTg4MTA3NGQxNTkzMi90ZjEtY21hZiIsInN1YiI6IjMxYjFhYzg3LTljMmUtNDc3My04Mjk2LWJkMTk4NzhiN2NkMyJ9.hgPi5D0J3ilgPZwkMjATNNG1jJk4kJu0dDarFvFQsYY/out/v1/2a5ef2a4ce4a41209e0a881074d15932/tf1-cmaf/index.m3u8",
     "img": "https://i.ibb.co/BBpR1Wx/tf1.png"
   },
   {
@@ -3284,7 +3284,7 @@
   {
     "name": "KANAL D",
     "type": "Uncategorized",
-    "url": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
+    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61",
     "img": "https://i.ibb.co/s9mVqWH/kanald.png"
   },
   {
@@ -3320,13 +3320,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=ToF2OHt2Z9oO1n8Qvq5sJA&e=1760490999",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=0wNQbYTKeI7ZqdonGOQtRA&e=1760524215",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=ToF2OHt2Z9oO1n8Qvq5sJA&e=1760490999",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=0wNQbYTKeI7ZqdonGOQtRA&e=1760524215",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3424,12 +3424,6 @@
     "type": "Uncategorized",
     "url": "http://trn03.tulix.tv/gt-trt1-tveu/tracks-v1a1/mono.m3u8",
     "img": "https://i.ibb.co/d6c87Km/trt122.png"
-  },
-  {
-    "name": "KANAL D (backup)",
-    "type": "Uncategorized",
-    "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61",
-    "img": "https://i.ibb.co/s9mVqWH/kanald.png"
   },
   {
     "name": "KANAL D (backup)",
@@ -3782,25 +3776,25 @@
   {
     "name": "DMAX",
     "type": "Uncategorized",
-    "url": "https://dogus-live.daioncdn.net/dmax/dmax.m3u8",
+    "url": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8",
     "img": "https://i.ibb.co/QQQR6VK/dmax.png"
   },
   {
     "name": "DMAX",
     "type": "Uncategorized",
-    "url": "https://dmax.blutv.com/blutv_dmax2/live.m3u8",
+    "url": "https://dogus-live.daioncdn.net/dmax/dmax.m3u8",
     "img": "https://i.ibb.co/QQQR6VK/dmax.png"
   },
   {
     "name": "TLC TR",
     "type": "Uncategorized",
-    "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8",
+    "url": "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8",
     "img": "https://i.ibb.co/Z1vHy41/tlc.png"
   },
   {
     "name": "TLC TR",
     "type": "Uncategorized",
-    "url": "https://tlc.blutv.com/blutv_tlc_live/live.m3u8",
+    "url": "https://dogus-live.daioncdn.net/tlc/tlc.m3u8",
     "img": "https://i.ibb.co/Z1vHy41/tlc.png"
   },
   {
@@ -4056,12 +4050,6 @@
     "img": "https://i.ibb.co/N1h8m96/trtbelgesel.png"
   },
   {
-    "name": "DMAX (backup)",
-    "type": "Uncategorized",
-    "url": "http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8",
-    "img": "https://i.ibb.co/QQQR6VK/dmax.png"
-  },
-  {
     "name": "DMAX [downline]",
     "type": "Uncategorized",
     "url": "http://canli.haber365.com.tr/tr/dmax/index.m3u8",
@@ -4071,12 +4059,6 @@
     "name": "TLC TR [downline]",
     "type": "Uncategorized",
     "url": "http://canli.haber365.com.tr/tr/tlc/index.m3u8",
-    "img": "https://i.ibb.co/Z1vHy41/tlc.png"
-  },
-  {
-    "name": "TLC TR (backup)",
-    "type": "Uncategorized",
-    "url": "http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8",
     "img": "https://i.ibb.co/Z1vHy41/tlc.png"
   },
   {
