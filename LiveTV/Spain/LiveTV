@@ -14082,10 +14082,16 @@
     "img": "https://i.imgur.com/GzI3RC4.png"
   },
   {
+    "name": "Antena 3 (1080p)",
+    "type": "General",
+    "url": "http://176.65.146.237:8401/play/a09g/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png"
+  },
+  {
     "name": "Antena 3 Internacional (480p)",
     "type": "General",
     "url": "http://38.180.133.31:8000/play/a0ki/index.m3u8",
-    "img": "https://i.imgur.com/QMadWXp.png"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png"
   },
   {
     "name": "Arabí TV (1080p)",
@@ -19192,6 +19198,12 @@
     "type": "News",
     "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
     "img": "https://i.postimg.cc/wvbm21St/france24.png"
+  },
+  {
+    "name": "RT en Español (1080p) [Geo-blocked]",
+    "type": "News",
+    "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
   },
   {
     "name": "10 Bold Adelaide",
@@ -26654,7 +26666,7 @@
   {
     "name": "FailArmy Spain",
     "type": "Comedy",
-    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=PSID&appVersion=unknown&deviceDNT=TARGETOPT&deviceId=PSID&deviceLat=90&deviceLon=0&deviceMake=unknown&deviceModel=unknown&deviceType=unknown&deviceVersion=unknown&embedPartner=&profileFloor=&profileLimit=&us_privacy=1YNY",
     "img": "https://i.imgur.com/VIpQJxL.png"
   },
   {
@@ -27774,9 +27786,9 @@
     "img": "https://i.imgur.com/MSGZ3S9.png"
   },
   {
-    "name": "Pluto TV Kids (720p)",
+    "name": "Pluto TV Kids (720p) [Not 24/7]",
     "type": "Kids",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
     "img": "https://i.imgur.com/yVSLWy5.png"
   },
   {
@@ -44382,9 +44394,9 @@
     "img": "https://i.imgur.com/wPQVVtj.png"
   },
   {
-    "name": "Real Madrid TV (404p)",
+    "name": "Real Madrid TV (1080p)",
     "type": "Sports",
-    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "url": "http://176.65.146.237:8401/play/a0ak/index.m3u8",
     "img": "https://i.postimg.cc/2yp7nzVN/realmadridtv.png"
   },
   {
@@ -48912,6 +48924,12 @@
     "img": "https://i.imgur.com/vMdyLVv.png"
   },
   {
+    "name": "Trece (1080p)",
+    "type": "Religious",
+    "url": "http://176.65.146.237:8401/play/a0a9/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/512px-Trece.svg.png"
+  },
+  {
     "name": "3ABN Kids",
     "type": "Animation;Kids;Religious",
     "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8",
@@ -52332,9 +52350,9 @@
     "img": "https://i.imgur.com/1H3h1HL.png"
   },
   {
-    "name": "Pluto TV Cocina (720p)",
+    "name": "Pluto TV Cocina (720p) [Not 24/7]",
     "type": "Cooking",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
     "img": "https://i.imgur.com/LRtfQla.png"
   },
   {
@@ -54360,6 +54378,30 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "3/24 (1080p)",
+    "type": "News;Public",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png"
+  },
+  {
+    "name": "3Cat Exclusiu 1 (1080p) [Geo-blocked]",
+    "type": "News;Public",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca1-hls/master.m3u8",
+    "img": "https://i.imgur.com/YQvLPT1.png"
+  },
+  {
+    "name": "3Cat Exclusiu 2 (1080p) [Geo-blocked]",
+    "type": "News;Public",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca2-hls/master.m3u8",
+    "img": "https://i.imgur.com/YQvLPT1.png"
+  },
+  {
+    "name": "3Cat Exclusiu 3 (1080p) [Geo-blocked]",
+    "type": "News;Public",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
+    "img": "https://i.imgur.com/YQvLPT1.png"
+  },
+  {
     "name": "24 Horas (1080p)",
     "type": "News;Public",
     "url": "https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8",
@@ -54390,22 +54432,40 @@
     "img": "https://i.imgur.com/A3JscwS.png"
   },
   {
+    "name": "3Cat Càmeres del temps (1080p)",
+    "type": "Public;Weather",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "img": "https://i.imgur.com/zXy2kbe.png"
+  },
+  {
+    "name": "3Cat El búnquer (1080p)",
+    "type": "Comedy;Public",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+    "img": "https://i.imgur.com/wiqdIjd.png"
+  },
+  {
+    "name": "3Cat Plats bruts (1080p)",
+    "type": "Classic;Comedy;Public;Series",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
+    "img": "https://i.imgur.com/49ZENis.png"
+  },
+  {
     "name": "A Punt",
     "type": "General;Public",
     "url": "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png"
   },
   {
-    "name": "Andalucía Televisión (1080p)",
-    "type": "General;Public",
-    "url": "http://176.65.146.237:8401/play/a09g/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg"
-  },
-  {
     "name": "Aragon TV (720p)",
     "type": "General;Public",
     "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8",
     "img": "https://i.imgur.com/6YSi1zW.png"
+  },
+  {
+    "name": "Bon Dia TV (1080p)",
+    "type": "General;Public",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8",
+    "img": "https://i.imgur.com/VgRCu2U.png"
   },
   {
     "name": "Canal Sur (1080p)",
@@ -54420,7 +54480,7 @@
     "img": "https://i.imgur.com/lznnA4v.png"
   },
   {
-    "name": "Galicia TV Europa (720p) [Geo-blocked]",
+    "name": "Galicia TV Europa (720p)",
     "type": "General;Public",
     "url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
     "img": "https://i.imgur.com/dvkzH8n.png"
@@ -54474,34 +54534,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/512px-Be_Mad_TV.svg.png"
   },
   {
-    "name": "Bon Dia TV (1080p)",
-    "type": "Undefined",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8",
-    "img": "https://i.imgur.com/VgRCu2U.png"
-  },
-  {
     "name": "Canal 33 Madrid",
     "type": "Undefined",
     "url": "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/512px-Logo_Canal_33_Madrid_2025.jpg"
-  },
-  {
-    "name": "CCMA Exclusiu 1 (1080p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8",
-    "img": "https://i.imgur.com/YQvLPT1.png"
-  },
-  {
-    "name": "CCMA Exclusiu 2 (1080p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8",
-    "img": "https://i.imgur.com/YQvLPT1.png"
-  },
-  {
-    "name": "CCMA Exclusiu 3 (1080p) [Not 24/7]",
-    "type": "Undefined",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8",
-    "img": "https://i.imgur.com/YQvLPT1.png"
   },
   {
     "name": "Rakuten Viki (1080p)",
@@ -54518,13 +54554,19 @@
   {
     "name": "TV3 (1080p) [Geo-blocked]",
     "type": "Undefined",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/tv3-hls/master.m3u8",
+    "url": "https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png"
   },
   {
-    "name": "TV3CAT (1080p)",
+    "name": "TV3CAT (1080p) [Geo-blocked]",
     "type": "Undefined",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8",
+    "url": "https://directes3-tv-es.3catdirectes.cat/live-content/tvc-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png"
+  },
+  {
+    "name": "TV3CAT Originals (1080p)",
+    "type": "Undefined",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png"
   },
   {
@@ -54534,21 +54576,33 @@
     "img": "https://i.imgur.com/03jFV68.png"
   },
   {
-    "name": "El 33 SX3 (1080p) [Geo-blocked]",
+    "name": "El 33 (1080p) [Geo-blocked]",
     "type": "Culture;Public",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8",
-    "img": "https://i.imgur.com/a3uR3vu.png"
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "img": "https://i.imgur.com/frKCBTN.png"
+  },
+  {
+    "name": "El 33 Originals (1080p) [Not 24/7]",
+    "type": "Culture;Public",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
+    "img": "https://i.imgur.com/frKCBTN.png"
+  },
+  {
+    "name": "Esport3 (1080p) [Not 24/7]",
+    "type": "Public;Sports",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png"
   },
   {
     "name": "Esport3 (1080p) [Geo-blocked]",
     "type": "Public;Sports",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png"
   },
   {
     "name": "SX3 (1080p) [Geo-blocked]",
     "type": "Animation;Kids;Public",
-    "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
+    "url": "https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SX3_logo.svg/512px-SX3_logo.svg.png"
   }
 ]
