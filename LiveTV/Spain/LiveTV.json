@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-16 21:30:56",
+  "date": "2025-10-17 06:08:10",
   "channels": {
     "General": [
       {
@@ -16436,14 +16436,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "http://176.65.146.237:8401/play/a09g/index.m3u8"
+        "url": "http://176.65.146.237:8401/play/a0ae/index.m3u8"
       },
       {
         "name": "Antena 3 Internacional (480p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "http://38.180.133.31:8000/play/a0ki/index.m3u8"
+        "url": "http://38.183.182.166:8000/play/a0sx/index.m3u8"
       },
       {
         "name": "Arabí TV (1080p)",
@@ -34311,11 +34311,11 @@
         "url": "http://176.65.146.237:8401/play/a0ai/index.m3u8"
       },
       {
-        "name": "Atreseries Internacional (480p)",
+        "name": "Atreseries Internacional (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "http://38.180.133.31:8000/play/a0ko/index.m3u8"
+        "url": "http://38.183.182.166:8000/play/a104/index.m3u8"
       },
       {
         "name": "Az Corazon",
@@ -63688,14 +63688,25 @@
         "url": "https://oha.to/play/3461295847/index.m3u8"
       }
     ],
-    "News;Public": [
+    "Public;Weather": [
       {
-        "name": "3/24 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png",
-        "group": "News;Public",
+        "name": "3Cat Càmeres del temps (1080p)",
+        "logo": "https://i.imgur.com/zXy2kbe.png",
+        "group": "Public;Weather",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
-      },
+        "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
+      }
+    ],
+    "Comedy;Public": [
+      {
+        "name": "3Cat El búnquer (1080p)",
+        "logo": "https://i.imgur.com/wiqdIjd.png",
+        "group": "Comedy;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
+      }
+    ],
+    "News;Public": [
       {
         "name": "3Cat Exclusiu 1 (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/YQvLPT1.png",
@@ -63716,6 +63727,13 @@
         "group": "News;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8"
+      },
+      {
+        "name": "3CatInfo (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png",
+        "group": "News;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
       },
       {
         "name": "24 Horas (1080p)",
@@ -63753,24 +63771,6 @@
         "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
       }
     ],
-    "Public;Weather": [
-      {
-        "name": "3Cat Càmeres del temps (1080p)",
-        "logo": "https://i.imgur.com/zXy2kbe.png",
-        "group": "Public;Weather",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
-      }
-    ],
-    "Comedy;Public": [
-      {
-        "name": "3Cat El búnquer (1080p)",
-        "logo": "https://i.imgur.com/wiqdIjd.png",
-        "group": "Comedy;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
-      }
-    ],
     "Classic;Comedy;Public;Series": [
       {
         "name": "3Cat Plats bruts (1080p)",
@@ -63787,6 +63787,13 @@
         "group": "General;Public",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8"
+      },
+      {
+        "name": "Andalucía Televisión (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/512px-Andaluc%C3%ADa_TV_2018_logo.svg.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "http://176.65.146.237:8401/play/a09g/index.m3u8"
       },
       {
         "name": "Aragon TV (720p)",

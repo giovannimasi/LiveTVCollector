@@ -14084,13 +14084,13 @@
   {
     "name": "Antena 3 (1080p)",
     "type": "General",
-    "url": "http://176.65.146.237:8401/play/a09g/index.m3u8",
+    "url": "http://176.65.146.237:8401/play/a0ae/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/512px-Logo_Antena_3_2025_%28Naranja%29.svg.png"
   },
   {
     "name": "Antena 3 Internacional (480p)",
     "type": "General",
-    "url": "http://38.180.133.31:8000/play/a0ki/index.m3u8",
+    "url": "http://38.183.182.166:8000/play/a0sx/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Antena3Internacional2025.png"
   },
   {
@@ -29388,9 +29388,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png"
   },
   {
-    "name": "Atreseries Internacional (480p)",
+    "name": "Atreseries Internacional (1080p)",
     "type": "Series",
-    "url": "http://38.180.133.31:8000/play/a0ko/index.m3u8",
+    "url": "http://38.183.182.166:8000/play/a104/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png"
   },
   {
@@ -54378,10 +54378,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "3/24 (1080p)",
-    "type": "News;Public",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png"
+    "name": "3Cat Càmeres del temps (1080p)",
+    "type": "Public;Weather",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
+    "img": "https://i.imgur.com/zXy2kbe.png"
+  },
+  {
+    "name": "3Cat El búnquer (1080p)",
+    "type": "Comedy;Public",
+    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
+    "img": "https://i.imgur.com/wiqdIjd.png"
   },
   {
     "name": "3Cat Exclusiu 1 (1080p) [Geo-blocked]",
@@ -54400,6 +54406,12 @@
     "type": "News;Public",
     "url": "https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8",
     "img": "https://i.imgur.com/YQvLPT1.png"
+  },
+  {
+    "name": "3CatInfo (1080p)",
+    "type": "News;Public",
+    "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png"
   },
   {
     "name": "24 Horas (1080p)",
@@ -54432,18 +54444,6 @@
     "img": "https://i.imgur.com/A3JscwS.png"
   },
   {
-    "name": "3Cat Càmeres del temps (1080p)",
-    "type": "Public;Weather",
-    "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
-    "img": "https://i.imgur.com/zXy2kbe.png"
-  },
-  {
-    "name": "3Cat El búnquer (1080p)",
-    "type": "Comedy;Public",
-    "url": "https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8",
-    "img": "https://i.imgur.com/wiqdIjd.png"
-  },
-  {
     "name": "3Cat Plats bruts (1080p)",
     "type": "Classic;Comedy;Public;Series",
     "url": "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8",
@@ -54454,6 +54454,12 @@
     "type": "General;Public",
     "url": "https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/512px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png"
+  },
+  {
+    "name": "Andalucía Televisión (1080p)",
+    "type": "General;Public",
+    "url": "http://176.65.146.237:8401/play/a09g/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/512px-Andaluc%C3%ADa_TV_2018_logo.svg.png"
   },
   {
     "name": "Aragon TV (720p)",
