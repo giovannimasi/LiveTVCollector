@@ -28024,6 +28024,11 @@ URL: http://176.65.146.237:8401/play/a09s/index.m3u8
 Logo: https://i.imgur.com/NYLnABb.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
+Name: Pirineus TV (1080p)
+URL: https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8
+Logo: https://i.imgur.com/8b5znGY.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 Name: Telecinco (1080p)
 URL: http://176.65.146.237:8401/play/a09r/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/512px-Telecinco.svg.png

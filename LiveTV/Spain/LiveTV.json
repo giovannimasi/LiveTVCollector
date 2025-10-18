@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-17 21:31:05",
+  "date": "2025-10-18 06:05:45",
   "channels": {
     "General": [
       {
@@ -16465,6 +16465,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "http://176.65.146.237:8401/play/a09s/index.m3u8"
+      },
+      {
+        "name": "Pirineus TV (1080p)",
+        "logo": "https://i.imgur.com/8b5znGY.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://s153.ipcamlive.com/streams/99pic5fsknh2gnvhx/stream.m3u8"
       },
       {
         "name": "Telecinco (1080p)",
