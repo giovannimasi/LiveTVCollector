@@ -25398,9 +25398,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png"
   },
   {
-    "name": "Jambi TV (576p) [Not 24/7]",
+    "name": "Jambi TV (480p) [Not 24/7]",
     "type": "General",
-    "url": "http://122.248.43.138:1935/ch23/myStream/playlist.m3u8",
+    "url": "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8",
     "img": "https://i.imgur.com/BaNtB6K.png"
   },
   {
@@ -25436,7 +25436,7 @@
   {
     "name": "Jek TV (720p) [Not 24/7]",
     "type": "General",
-    "url": "http://61.8.64.138:1935/jektv/myStream/playlist.m3u8",
+    "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
     "img": "https://i.imgur.com/wh75d1f.png"
   },
   {
@@ -25576,6 +25576,18 @@
     "type": "Undefined",
     "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
     "img": "https://i.imgur.com/snMxng5.png"
+  },
+  {
+    "name": "Davika TV (480p)",
+    "type": "Undefined",
+    "url": "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png"
+  },
+  {
+    "name": "PKTV (480p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8",
+    "img": "https://i.imgur.com/mldv8Sf.png"
   },
   {
     "name": "PONTV (720p)",
