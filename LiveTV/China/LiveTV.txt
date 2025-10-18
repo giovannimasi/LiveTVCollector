@@ -3280,12 +3280,17 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 
 Group: 儿童频道
 Name: 中华小当家
-URL: https://live.iill.top/huya/11342413
+URL: https://live.metshop.top/huya/11342413
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 海绵宝宝
 URL: https://live.metshop.top/douyu/3949681
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 猫和老鼠
+URL: https://live.iill.top/huya/11352879
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -3750,11 +3755,6 @@ URL: https://cc06.tv12.xyz/11.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: CCTV11
-URL: https://cc06.tv12.xyz/12.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: CCTV12
 URL: https://cc06.tv12.xyz/13.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3800,18 +3800,23 @@ URL: https://cc06.tv12.xyz/41.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 兵团卫视
-URL: https://cc06.tv12.xyz/30.m3u8
+Name: 安徽卫视
+URL: https://cc06.tv12.xyz/26.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 山东卫视
-URL: https://cc06.tv12.xyz/101.m3u8
+Name: 甘肃卫视
+URL: https://cc06.tv12.xyz/44.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 山西卫视
-URL: https://cc06.tv12.xyz/107.m3u8
+Name: 广西卫视
+URL: https://cc06.tv12.xyz/46.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 吉林卫视
+URL: https://cc06.tv12.xyz/60.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -3820,8 +3825,18 @@ URL: https://cc06.tv12.xyz/106.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 四川卫视
+URL: https://cc06.tv12.xyz/99.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 西藏卫视
 URL: https://cc06.tv12.xyz/112.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 延边卫视
+URL: https://cc06.tv12.xyz/113.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -3835,6 +3850,11 @@ URL: https://liveout.xntv.tv/a65jur/96iln2.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 内蒙古卫视
+URL: https://cc06.tv12.xyz/94.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 山东教育卫视
 URL: https://cc06.tv12.xyz/100.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3842,11 +3862,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 金鹰卡通
 URL: https://cc06.tv12.xyz/55.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 山东教育
-URL: https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -3867,6 +3882,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 苏州4K
 URL: https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 山东教育
+URL: https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -5100,11 +5120,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 安多卫视
 URL: https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 法治天地
-URL: https://cc06.tv12.xyz/42.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -6391,6 +6406,11 @@ Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
 
 Group: 央视卫视
+Name: CCTV11
+URL: https://cc06.tv12.xyz/12.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 北京卫视
 URL: https://cc06.tv12.xyz/27.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6431,6 +6451,11 @@ URL: https://cc06.tv12.xyz/50.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 山东卫视
+URL: https://cc06.tv12.xyz/101.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 辽宁卫视
 URL: https://cc06.tv12.xyz/70.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6451,16 +6476,6 @@ URL: https://cc06.tv12.xyz/49.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 吉林卫视
-URL: https://cc06.tv12.xyz/60.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 安徽卫视
-URL: https://cc06.tv12.xyz/26.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 东南卫视
 URL: https://cc06.tv12.xyz/38.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6471,13 +6486,13 @@ URL: https://cc06.tv12.xyz/93.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 四川卫视
-URL: https://cc06.tv12.xyz/99.m3u8
+Name: 贵州卫视
+URL: https://cc06.tv12.xyz/48.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 贵州卫视
-URL: https://cc06.tv12.xyz/48.m3u8
+Name: 山西卫视
+URL: https://cc06.tv12.xyz/107.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -6486,18 +6501,8 @@ URL: https://cc06.tv12.xyz/96.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 甘肃卫视
-URL: https://cc06.tv12.xyz/44.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 青海卫视
 URL: https://cc06.tv12.xyz/97.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 广西卫视
-URL: https://cc06.tv12.xyz/46.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -6506,8 +6511,8 @@ URL: https://cc06.tv12.xyz/114.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 延边卫视
-URL: https://cc06.tv12.xyz/113.m3u8
+Name: 兵团卫视
+URL: https://cc06.tv12.xyz/30.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -6523,11 +6528,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 黑龙江卫视
 URL: https://cc06.tv12.xyz/53.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 内蒙古卫视
-URL: https://cc06.tv12.xyz/94.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -7042,13 +7042,13 @@ URL: http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 Logo: https://live.fanmingming.cn/tv/睛彩广场舞.png
 Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
-Name: 搜狐剧场
-URL: https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+Name: 北京纪实科教8K
+URL: https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 纪实科教8K
-URL: https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+Name: 搜狐剧场
+URL: https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
